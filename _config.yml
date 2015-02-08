@@ -62,7 +62,7 @@ typeoutTextValues: '"Women", "Techmakers", "Istanbul"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Buy tickets"}
+ - {permalink: "/#tickets", text: "Register"}
 
 # About Block
 aboutTitle: "About Women Techmakers"

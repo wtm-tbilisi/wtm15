@@ -1,17 +1,17 @@
 <!-- About Hackathon Section -->
 <section id="about-hackathon" class="about-hackathon">
     <div class="content-wrapper">
-        <div class="col-md-8 col-md-offset-2">
+        
             <h3>{{ site.aboutHackathonTitle }}</h3>
             {% for row in site.hackathonRows %}
-            {% assign check = forloop.index0 | modulo:1 %}
+            {% assign check = forloop.index0 | modulo:12%}
                 
                 <div class="hackathon-details animated hiding" data-animation="{% if check == 0 %}fadeInRight{% else %}fadeInLeft{% endif %}" data-delay="0">
                     <h4>{{ row.title }}</h4>
                     <p>{{ row.details }}</p>
                 </div>
             {% endfor %}
-        </div>
+       
     </div>
 </section>
 <!-- End About Hackathon Section -->

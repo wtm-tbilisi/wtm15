@@ -48,7 +48,7 @@ navigationLinks:
  #- {permalink: "/speakers/", text: "Speakers"}
  #- {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Venue"}
- #- {permalink: "/hackathon/", text: "Hackathon"}
+ - {permalink: "/startup/", text: "Startup Launch"}
 bottomNavigationLinks:
  - {link: "https://docs.google.com/forms/d/16AI23TnSQFg5yCqOIXeCj1hSlQvw1ihtx0XenZKfflk/viewform?usp=send_form", text: "Become a speaker"}
 rightNavigationButtons:
@@ -74,7 +74,7 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "1400", specialCharacter: "+", info: "attendees", detail: "men & women"}
+ - {count: "700", specialCharacter: "+", info: "attendees", detail: "men & women"}
  - {count: "52", specialCharacter: "+", info: "speakers", detail: "all of them are women except 1 Googler"}
  - {count: "4", specialCharacter: "", info: "parallel tracks", detail: "plus workshops"}
 

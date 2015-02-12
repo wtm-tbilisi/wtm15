@@ -4,7 +4,7 @@
         <div class="col-md-8 col-md-offset-2">
             <h3>{{ site.aboutHackathonTitle }}</h3>
             {% for row in site.hackathonRows %}
-            {% assign check = forloop.index0 | modulo:2 %}
+            {% assign check = forloop.index0 | modulo:1 %}
             <div class="hackathon-row {% if check == 0 %}float-left{% else %}float-right{% endif %} col-md-12">
                 
                 <div class="hackathon-details animated hiding" data-animation="{% if check == 0 %}fadeInRight{% else %}fadeInLeft{% endif %}" data-delay="0">

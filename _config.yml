@@ -256,7 +256,7 @@ enableHackathon: false
 hackathonRows:
  - {details: "You have the chance to be on the stage, pitch your idea to successful founders & VCs, get feedbacks, attend networking party at Women Techmakers Istanbul Conference. <br/><a href='http://www.gdgistanbul.com/2015/02/women-techmakers-istanbul-konferans-bu.html'> (Click here for Turkish)</a> <br/>Attendees will join to how to make a winning pitch session to improve/prepare their pitch sentences. <br/>And we will have some surprises for you. <br/>What will you get by attending? <br/>-Attend a winner elevator pitch workshop <br/>-Learn and practice to sell your business idea <br/>-Introduce yourself to the VCs <br/>-Meet with successful entrepreneurs <br/>-Networking with other entrepreneurs"}
  - {title: "Program", details: "How to make a winning elevator workshop (1 hour)<br/>One Sentence Elevator Pitches - 2 min. / each (1 hour)<br/>Feedbacks (1 hour)<br/>Network & Cocktail (1 hour)"}
-
+ - {title: "<a href='https://docs.google.com/forms/d/1Gt13d2GbSkFWcqV4bk1g_MbE17AvZVM5V5oHKH5wFd4/viewform?usp=send_form'>Apply Now</a>", details:""}
 # Hackathon Judges Block
 judgesImage: "judges.jpg"
 judgesTitle: "Judges"

@@ -4,9 +4,9 @@
         
             <h3>{{ site.aboutHackathonTitle }}</h3>
             {% for row in site.hackathonRows %}
-            {% assign check = forloop.index0 | modulo:12%}
+            {% assign check = forloop.index0 | modulo:2%}
                 
-                <div class="hackathon-details animated hiding" data-animation="{% if check == 0 %}fadeInRight{% else %}fadeInLeft{% endif %}" data-delay="0">
+                <div data-animation="{% if check == 0 %}fadeInRight{% else %}fadeInLeft{% endif %}" data-delay="0">
                     <h4>{{ row.title }}</h4>
                     <p>{{ row.details }}</p>
                 </div>

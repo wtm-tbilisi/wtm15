@@ -45,10 +45,11 @@ navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/blog/", text: "Blog"}
  #- {permalink: "/schedule/", text: "Schedule"}
- #- {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/speakers/", text: "Speakers"}
  #- {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Venue"}
  - {permalink: "/startup/", text: "Startup Launch"}
+ - {permalink: "http://wtm14.devfesttr.com/", text: "DevFestW'14"}
 bottomNavigationLinks:
  - {link: "https://docs.google.com/forms/d/16AI23TnSQFg5yCqOIXeCj1hSlQvw1ihtx0XenZKfflk/viewform?usp=send_form", text: "Become a speaker"}
 rightNavigationButtons:

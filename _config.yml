@@ -110,8 +110,8 @@ venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Bahcesehir University Besiktas Campus"
-venueFeatures: [""]
+venueTitle: "Bahcesehir Conference Center"
+venueFeatures: ["4 conference rooms", "Sandbox area", "Located directly in the city center"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"

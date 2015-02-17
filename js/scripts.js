@@ -383,7 +383,7 @@
                 mapOptions.center = mobileCenterMap;
             }
             if (googleMaps == 'logistics') {
-                mapOptions.zoom = 12;
+                mapOptions.zoom = 14;
                 mapOptions.zoomControl = true;
             }
 
@@ -567,7 +567,7 @@
                     map.setCenter(centerMap);
                 }
                 makeMarker(eventPlace);
-                smoothZoom(5);
+                smoothZoom(14);
                 $('#find-way h3').removeClass('fadeOutDown').addClass('fadeInUp');
             });
         

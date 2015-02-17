@@ -3,7 +3,7 @@
   name: "Hikmet"
   surname: "Ozgozen"
   company: "BIC Angel Investors"
-  thumbnailUrl: DmytroDanylyk.jpg
+  thumbnailUrl: HikmetOzgozen.jpg
 - 
   id: 1
   name: "Ayse"
@@ -15,4 +15,16 @@
   name: "Can"
   surname: "Saraçoğlu"
   company: "String Ventures"
-  thumbnailUrl: OstapAndrusiv.jpg
+  thumbnailUrl: CanSaracoglu.jpg
+- 
+  id: 3
+  name: "Bora"
+  surname: "Yılmaz"
+  company: "Revo Capital"
+  thumbnailUrl: BoraYilmaz.jpg
+- 
+  id: 4
+  name: "Aylin"
+  surname: "Alkan"
+  company: "TEB Angel Investment Platform"
+  thumbnailUrl: AylinAlkan.jpg

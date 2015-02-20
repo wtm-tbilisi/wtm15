@@ -1,9 +1,9 @@
 - 
   id: 0
-  name: "Hikmet"
-  surname: "Ozgozen"
-  company: "BIC Angel Investors"
-  thumbnailUrl: HikmetOzgozen.jpg
+  name: "Aylin"
+  surname: "Alkan"
+  company: "TEB Angel Investment Platform"
+  thumbnailUrl: AylinAlkan.jpg
 - 
   id: 1
   name: "Ayse"
@@ -18,13 +18,13 @@
   thumbnailUrl: CanSaracoglu.jpg
 - 
   id: 3
-  name: "Bora"
-  surname: "Yılmaz"
-  company: "Revo Capital"
-  thumbnailUrl: BoraYilmaz.jpg
+  name: "Dilek"
+  surname: "Dayinlarli"
+  company: "212 Ltd"
+  thumbnailUrl: DilekDayinlarli.jpg
 - 
   id: 4
-  name: "Aylin"
-  surname: "Alkan"
-  company: "TEB Angel Investment Platform"
-  thumbnailUrl: AylinAlkan.jpg
+  name: "Hikmet"
+  surname: "Ozgozen"
+  company: "BIC Angel Investors"
+  thumbnailUrl: HikmetOzgozen.jpg

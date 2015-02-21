@@ -1,8 +1,4 @@
 - 
-  group: "General sponsor"
+  group: "Ana sponsor"
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com/", imageUrl: "google.svg"}
-- 
-  group: "With support of"
-  elements: 
-    - {name: "Google", description: "Google", link: "https://www.google.com/", imageUrl: "google.svg", width: "120px"}

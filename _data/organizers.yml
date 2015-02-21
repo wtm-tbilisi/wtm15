@@ -1,9 +1,9 @@
 - 
-  group: "Main organizer"
+  group: "Organizasyon"
   elements: 
     - {width: "1000px", name: "WTM Istanbul", description: "GDG Istanbul - Open and volunteer geek community", link: "http://www.gdgistanbul.com", imageUrl: "wtm.jpg"}
 - 
-  group: "Co-organizers"
+  group: "Yardımcı Organizatörler"
   elements: 
     - {width: "500px", name: "GDG Istanbul", description: "GDG Istanbul - Open and volunteer geek community", link: "http://www.gdgistanbul.com", imageUrl: "gdgistanbul.png"}
     - {width: "500px", name: "GDG Ankara", link: "http://www.gdgankara.com", imageUrl: "gdgankara.png"}

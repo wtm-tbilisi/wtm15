@@ -42,19 +42,19 @@ c4sponsorsUrl: "https://docs.google.com/a/gdgistanbul.com/file/d/0B5Ewb5NwqbwIY0
 
 # Navigation
 navigationLinks:
- - {permalink: "/", text: "Home"}
+ - {permalink: "/", text: "Ana Sayfa"}
  - {permalink: "/blog/", text: "Blog"}
  #- {permalink: "/schedule/", text: "Schedule"}
- - {permalink: "/speakers/", text: "Speakers"}
+ - {permalink: "/speakers/", text: "Konuşmacılar"}
  #- {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Venue"}
+ - {permalink: "/logistics/", text: "Ulaşım"}
  - {permalink: "/startup/", text: "Startup Launch"}
  - {permalink: "http://wtm14.devfesttr.com/", text: "DevFestW'14"}
 bottomNavigationLinks:
- - {link: "https://docs.google.com/forms/d/16AI23TnSQFg5yCqOIXeCj1hSlQvw1ihtx0XenZKfflk/viewform?usp=send_form", text: "Become a speaker"}
+ - {link: "https://docs.google.com/forms/d/16AI23TnSQFg5yCqOIXeCj1hSlQvw1ihtx0XenZKfflk/viewform?usp=send_form", text: "Konuşmacı Ol"}
 rightNavigationButtons:
- - {link: "https://docs.google.com/forms/d/16AI23TnSQFg5yCqOIXeCj1hSlQvw1ihtx0XenZKfflk/viewform?usp=send_form", text: "Become a speaker"}
- - {link: "https://docs.google.com/a/gdgistanbul.com/file/d/0B5Ewb5NwqbwIY0tvVTl2U2VjZkU/edit?usp=drive_web", text: "Become a sponsor"}
+ - {link: "https://docs.google.com/forms/d/16AI23TnSQFg5yCqOIXeCj1hSlQvw1ihtx0XenZKfflk/viewform?usp=send_form", text: "Konuşmacı Ol"}
+ - {link: "https://docs.google.com/a/gdgistanbul.com/file/d/0B5Ewb5NwqbwIY0tvVTl2U2VjZkU/edit?usp=drive_web", text: "Sponsor Ol"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -63,41 +63,41 @@ eventDate: "15 March, 2015"
 typeoutTextValues: '"Women", "Techmakers", "Istanbul"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://docs.google.com/forms/d/16AI23TnSQFg5yCqOIXeCj1hSlQvw1ihtx0XenZKfflk/viewform?usp=send_form", text: "Become a speaker"}
- - {permalink: "/#tickets", text: "Register"}
+ - {link: "https://docs.google.com/forms/d/16AI23TnSQFg5yCqOIXeCj1hSlQvw1ihtx0XenZKfflk/viewform?usp=send_form", text: "Konuşmacı Ol"}
+ - {permalink: "/#tickets", text: "Kayıt Ol"}
 
 # About Block
-aboutTitle: "About Women Techmakers"
+aboutTitle: "Women Techmakers Hakkında"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "Supporting women in tech through the power of example." }
- - {title: "Workshops", image: "workshop.jpg", text: "High-tech workshops, hands-on experience, hacking and debugging. Delivered by top women in tech!" }
- - {title: "Discussion", image: "hackathon.jpg", text: "How can we close the gender gap in science, tech, engineering & mathematics? On-stage panel discussion with experts and leaders." }
+ - {title: "Dünya Kadınlar Günü", image: "conference.jpg", text: "Mart ayında dünya kadınlar gününü kutlarken teknoloji bilişim ve mühendislik alanında kadınları destekliyor ve ilham veriyoruz." }
+ - {title: "Teknoloji", image: "workshop.jpg", text: "Teknoloji sektörundeki gelişmeler, yenilikler ve haberleri dinlemek icin sahneye teknoloji dunyasında calışan başarılı kadınları davet ediyoruz." }
+ - {title: "Startup Launch", image: "hackathon.jpg", text: "Kadın girişimciliği destekliyoruz. Girişimciler ve girşimci adayları, WTM İstanbul'da yatırımcılarla bir araya geliyor!" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "700", specialCharacter: "+", info: "attendees", detail: "men & women"}
- - {count: "52", specialCharacter: "+", info: "speakers", detail: "all of them are women except 1 Googler"}
- - {count: "4", specialCharacter: "", info: "parallel tracks", detail: "plus workshops"}
+ - {count: "700", specialCharacter: "+", info: "katılımcı", detail: "kadın ve erkek"}
+ - {count: "52", specialCharacter: "+", info: "konuşmacı", detail: "1 Google çalışanı haricinde hepsi kadın"}
+ - {count: "4", specialCharacter: "", info: "paralel oturum", detail: "ve çalıştaylar"}
 
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: "Son haberler"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 4
-rockstarSpeakersTitle: "Rockstar speakers"
-rockstarSpeakersButtonText: "See all speakers"
+rockstarSpeakersTitle: "Rockstar konuşmacılar"
+rockstarSpeakersButtonText: "Tüm konuşmacılar"
 
 # Location Block
-locationBlockTitle: "Location"
-eventLocationName: "Bahcesehir University Besiktas Campus"
+locationBlockTitle: "Ulaşım"
+eventLocationName: "Bahcesehir Üniversitesi Besiktas Kampüsü"
 eventLocationLink: "http://maps.google.com/maps?ll=41.041994,29.009049&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=8534833363515311385"
 eventStreetAddress: "Ciragan Caddesi, Besiktas"
 eventAddressLocality: "Istanbul"
 eventAddressLocalityRegion: ""
 eventPostalCode: ""
-eventAddressCountry: "Turkey"
+eventAddressCountry: "Türkiye"
 eventStartTime: "2015-03-15T09:00"
 eventDoorTime: "09:00"
 eventEndTime: "2015-03-15T17:30"
@@ -106,24 +106,24 @@ mapCenterCoordinates: "41.041994, 29.009049"
 mapMobileCenterCoordinates: "41.041994, 29.009049"
 
 # Venue Block
-venueBlockTitle: "Venue"
+venueBlockTitle: "Konferans alanı"
 venueBigImage: "venue_0.jpg"
 venueSmallImage1: "venue_1.jpg"
 venueSmallImage2: "venue_2.jpg"
 venueSmallImage3: "venue_3.jpg"
-venueTitle: "Bahcesehir Conference Center"
-venueFeatures: ["4 conference rooms", "Sandbox area", "Located directly in the city center"]
+venueTitle: "Bahcesehir Konferans Merkezi"
+venueFeatures: ["4 adet konferans salonu", "Sandbox alanı", "Şehrin merkezinde, kolay ulaşım imkanı"]
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
+tweetsFeedTitle: "Naber?"
 twitterHashTag: "wtmistanbul"
 twitterFeed: "http://www.gdgistanbul.com/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
 
 # Partners Block
-organizersTitle: "Organizers"
-partnersTitle: "Partners"
-partnersC4sponsorsButton: "Become a sponsor"
+organizersTitle: "Organizatörler"
+partnersTitle: "Sponsorlar"
+partnersC4sponsorsButton: "Sponsor Ol"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
@@ -132,21 +132,21 @@ subscribeAction: "http://gdgistanbul.us7.list-manage.com/subscribe/post?u=850f58
 subscribeInfo: "Registration will be open around end of February. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Register"
+ticketsTitle: "Kayıt Ol"
 ticketsInfo: ""
 ticketsOffers:
  -
-  name: "Free Ticket"
+  name: "Bedava Bilet"
   buyButtonLink: "http://wtmistanbul15.eventbrite.com"
-  buyButtonText: "Register"
-  additionalInfo: "Register now to attend the conference."
+  buyButtonText: "Kayıt Ol"
+  additionalInfo: "Konferansa katılabilmek için kayıt olmalısınız."
   validFrom: ""
   validThrough: ""
  -
   name: "Startup Launch"
   buyButtonLink: "https://docs.google.com/forms/d/1Gt13d2GbSkFWcqV4bk1g_MbE17AvZVM5V5oHKH5wFd4/viewform?usp=send_form"
-  buyButtonText: "Apply Now"
-  additionalInfo: "The chance to be on the stage, pitch your idea to VCs, and attend networking party."
+  buyButtonText: "Şimdi Başvur"
+  additionalInfo: "Sahneye çıkma, fikirlerini VCler ile paylaşma ve networking partisine katılma imkanı."
   validFrom: ""
   validThrough: ""
 
@@ -158,21 +158,21 @@ socialLinks:
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
-  title: "Links"
+  title: "Bağlantılar"
   links:
    - {link: "http://www.gdgistanbul.com", text: "GDG Istanbul"}
    - {link: "https://developers.google.com", text: "Google Developers"}
  -
-  title: "Contacts"
+  title: "İletişim"
   links:
    - {link: "mailto:wtm@gdgistanbul.com", text: "wtm@gdgistanbul.com"}
  -
-  title: "FAQ"
+  title: "SSS"
   links:
-   - {permalink: "/cod/", text: "Code of Conduct"}
+   - {permalink: "/cod/", text: "Adap Kuralı"}
 
 # Blog
-blogTitle: "Latest news"
+blogTitle: "Son haberler"
 blogCommentsEnabled: true
 discusShortName: "wtmistanbul"
 
@@ -180,27 +180,27 @@ discusShortName: "wtmistanbul"
 showSessions: true
 
 # Team Block
-teamBlockTitle: "About us"
+teamBlockTitle: "Hakkımızda"
 aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
 
 # Logistics Find Way Block
-findWayTitle: "Find your way here"
-findWayDistance: "Distance"
-findWayDriving: "DRIVING"
-findWayWalking: "WALKING"
-findWayBicycling: "BICYCLING"
-findWayTransit: "TRANSIT"
-findWayFindFlight: "Find Flight"
+findWayTitle: "Yol tarifi alın"
+findWayDistance: "Uzaklık"
+findWayDriving: "ARABAYLA"
+findWayWalking: "YÜRÜYEREK"
+findWayBicycling: "BİSİKLET"
+findWayTransit: "OTOBÜS"
+findWayFindFlight: "Uçak Bul"
 logisticsMapCenterCoordinates: "41.041994, 29.009049"
 logisticsMapMobileCenterCoordinates: "41.041994, 29.009049"
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Get around Istanbul"
+directionDetailsTitle: "Istanbul'u keşfet"
 directionDetailsCards:
- - {title: "From the Airport", information: 'Airport is easily reachable by public transport. You can either take subway train or look for busses called "HAVATAŞ". More information is available at <a href="http://www.ataturkairport.com/en-EN/Transportation/pages/airporttrasnportation.aspx">airport website</a>.'}
- - {title: "Public Transit", information: 'You can either take subway train or look for busses called "HAVATAŞ". <a href="http://www.trafi.com.tr/">Trafi App</a> is recommended for getting Public Transportation reccomentations.'}
- - {title: "Hotels", information: 'Istanbul has lots of great hotels and hostels. More information will be available later.'}
+ - {title: "Havaalanından", information: 'Havaalanı toplu taşıma ile kolay erişilen bir konumda. Metroya binebileceğiniz gibi HAVATAŞ otobüslerine de binebilirsiniz. Daha fazla bilgiyi <a href="http://www.ataturkairport.com/en-EN/Transportation/pages/airporttrasnportation.aspx">havaalanı internet sitesinde</a> bulabilirsiniz.'}
+ - {title: "Toplu Taşıma", information: 'Metroyu kullanabileceğiniz gibi HAVATAŞ otobüslerini de bulabilirsiniz. İstanbul içerisinde toplu taşıma yol tarifi almak için bu uygulamayı tavsiye ediyoruz. <a href="http://www.trafi.com.tr/">Trafi App</a>'}
+ - {title: "Oteller", information: 'Oteller hakkında bilgi daha sonra verilecektir.'}
 
 # Hackathon
 hackathonTitle: "Startup Launch"
@@ -208,16 +208,16 @@ enableHackathon: false
 
 # Hackathon About Block
 hackathonRows:
- - {details: "You have the chance to be on the stage, pitch your idea to successful founders & VCs, get feedbacks, attend networking party at Women Techmakers Istanbul Conference. <br/><a href='http://www.gdgistanbul.com/2015/02/women-techmakers-istanbul-konferans-bu.html'> (Click here for Turkish)</a> <br/>Attendees will join to how to make a winning pitch session to improve/prepare their pitch sentences. <br/>And we will have some surprises for you. <br/>What will you get by attending? <br/>-Attend a winner elevator pitch workshop <br/>-Learn and practice to sell your business idea <br/>-Introduce yourself to the VCs <br/>-Meet with successful entrepreneurs <br/>-Networking with other entrepreneurs"}
- - {title: "Program", details: "How to make a winning elevator workshop (1 hour)<br/>One Sentence Elevator Pitches - 2 min. / each (1 hour)<br/>Feedbacks (1 hour)<br/>Network & Cocktail (1 hour)"}
- - {title: "<a href='https://docs.google.com/forms/d/1Gt13d2GbSkFWcqV4bk1g_MbE17AvZVM5V5oHKH5wFd4/viewform?usp=send_form'>Apply Now</a>"}
+ - {details: "Girişimciler ve girşimci adayları, WTM İstanbul'da yatırımcılarla bir araya geliyor! <br/><br/>Katılımılar önce bir saatlik bir asansör konuşması workshopına katılacaklar sonrasında sahnede iş fikirlerini yatırımcılara sunacaklar.<br/>Etkinlikte sürprizlerimiz de olacak.<br/>Neden katılmalısın?<br/>-Başarılı asansör konuşması workshopına katıl<br/>-Asansör konuşması pratiği yap<br/>-Sahne senin, iş fikrini yatırımcılara sunma imkanı<br/>-Diğer girişimcilerle tanışma imkanı"}
+ - {title: "Program", details: "Nasıl etkili asansör konuşması yapılır eğitimi (1 saat)<br/>Girşimcilerin sunumları - her biri 2 dk. (1 saat)<br/>Juri geri bildirimleri (1 saat)<br/>Networking (1 saat)"}
+ - {title: "<a href='https://docs.google.com/forms/d/1Gt13d2GbSkFWcqV4bk1g_MbE17AvZVM5V5oHKH5wFd4/viewform?usp=send_form'>Şimdi Başvur</a>"}
 
 # Hackathon Judges Block
 judgesImage: "judges.jpg"
-judgesTitle: "Judges"
+judgesTitle: "Jüri"
 
 # Hackathon Prizes Block
-prizesTitle: "Prizes"
+prizesTitle: "Ödüller"
 prizes:
  - {title: "2nd Place", image: "prize-2.png", info: "Amazing Moto 360"}
  - {title: "1nd Place", image: "prize-1.png", info: "Nexus 5 with pre-installed Android L"}
@@ -236,7 +236,7 @@ hackathonTimeTitle: "Hack through"
 hackathonStartTime: "2014-10-24T10:00"
 hackathonDoorTime: "09:00"
 hackathonEndTime: "2014-10-25T00:00"
-viewOnMap: "View on Google Maps"
+viewOnMap: "Google Maps ile aç"
 hackathonPlaceCoordinates: "49.840999, 24.031144"
 hackathonMapCenterCoordinates: "49.840696, 24.028754"
 hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"

@@ -6,6 +6,7 @@
   title: "Developer Advocate"
   bio: "Trisha has developed Java applications for a range of industries, including finance, manufacturing and non-profit, for companies of all sizes.  She has expertise in Java high performance systems, is passionate about enabling developer productivity, and dabbles with Open Source development. Trisha blogs regularly on subjects that she thinks developers and other humans should care about, she’s a leader of the Sevilla Java User Group, a key member of the London Java Community and a Java Champion. She believes we shouldn't all have to make the same mistakes again and again, so now she works for JetBrains where she can tell developers about all the cool stuff she's learnt so far."
   thumbnailUrl: TrishaGee.jpg
+  rockstar: true
   social: 
     - {name: "site", link: "http://trishagee.github.io/"}
     - {name: "google-plus", link: "https://plus.google.com/+TrishaGee/"}
@@ -34,6 +35,7 @@
   title: "Director, Strategy & Marketing"
   bio: " Peri Kadaster is Director of Strategy & Marketing at Monitise, where she helms the Middle East region’s initiatives in communications, branding, and corporate strategy. Monitise acquired Istanbul-based Pozitron, where Peri  headed Strategy & Marketing, in February of 2014. <br>Prior to Monitise, Peri was Vice President of Marketing for San Francisco- based shopping app CoffeeTable, where she helmed user acquisition, customer analytics, and strategic initiatives including fundraising. Peri drove  CoffeeTable to #1 in its App Store category, and helped secure the start-up’s  ultimate exit to a media conglomerate. Peri also co-founded Kadaster Ventures LLC, where she provides angel investment and advisory services to  growth-stage companies in the consumer and mobile sectors. <br>Previously, Peri was an Engagement Manager at McKinsey & Company,  where she advised leading Bay Area companies in the retail, financial  services, and technology sectors. At McKinsey, Peri specialized in B2C marketing and served as interim Director of Client Development for NM Incite,  a Nielsen-McKinsey joint venture on social media intelligence. Prior to  McKinsey, Peri was a Marketing Associate at PepsiCo, and a Senior  Associate at The Parthenon Group, a Boston-based boutique strategy  consulting firm, where she advised clients in consumer products and services. <br>Peri splits her time between Istanbul and San Francisco. Outside of the office  she blogs for Harvard Business Review Turkey and Startup Turkey, has  contributed to Forbes, and continues to mentor start-ups. Peri received her  MBA from Harvard Business School and her Bachelor’s Degree from Duke  University."
   thumbnailUrl: PeriKadaster.jpg
+  rockstar: true
   social: 
     - {name: "linkedin", link: "https://tr.linkedin.com/in/perikadaster"}
     - {name: "twitter", link: "https://twitter.com/pkadaster"}
@@ -55,6 +57,7 @@
   title: "Front End Developer"
   bio: "Web alanına front-end developer olarak katılmış. Kocaeli Üniversitesi'nde Bilgisayar Programclığı okuyan biriyim. Şuan Rafineri bünyesinde çalışmaktayım."
   thumbnailUrl: NesrinKalender.jpg
+  rockstar: true
   social: 
     - {name: "twitter", link: "https://twitter.com/nesrinkalender"}
     - {name: "facebook", link: "https://www.facebook.com/kalendernesrin"}

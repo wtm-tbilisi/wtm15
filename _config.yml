@@ -46,6 +46,7 @@ navigationLinks:
  - {permalink: "/blog/", text: "Blog"}
  #- {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Konuşmacılar"}
+ - {permalink: "/#partners", text: "Sponsorlar"}
  #- {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Ulaşım"}
  - {permalink: "/startup/", text: "Startup Launch"}
@@ -118,7 +119,7 @@ venueFeatures: ["4 adet konferans salonu", "Sandbox alanı", "Şehrin merkezinde
 tweetsFeedImage: "twitter-feed.jpg"
 tweetsFeedTitle: "Naber?"
 twitterHashTag: "wtmistanbul"
-twitterFeed: "http://www.gdgistanbul.com/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+twitterFeed: ""
 
 # Partners Block
 organizersTitle: "Organizatörler"

@@ -3,6 +3,11 @@
   elements: 
     - {name: "Google", description: "Google", link: "https://www.google.com/", imageUrl: "google.svg"}
 -
+  group: "Sponsorlar"
+  elements:
+    - {name: "Jet Brains", description: "Jet Brains", link: "https://www.jetbrains.com/", imageUrl: "JetBrains.svg"}
+    - {name: "Eteration", description: "Eteration", link: "http://www.eteration.com/", imageUrl: "eteration.png"}
+-
   group: "Startup Launch Partnerleri"
   elements:
     - {name: "212", description: "212", link: "https://www.212ltd.com/", imageUrl: "212.jpg"}
@@ -10,11 +15,6 @@
     - {name: "Galata Business Angels", description: "Galata Business Angels", link: "https://www.galatabusinessangels.com//", imageUrl: "GalataBusinessAngels.png"}
     - {name: "String Ventures", description: "String Ventures", link: "https://www.stringventures.com/", imageUrl: "StringVentures.jpg"}
     - {name: "TEB Melek Yatırım Platformu", description: "TEB Melek Yatırım Platformu", link: "http://www.melekyatirimplatformu.com/", imageUrl: "TEBMelekYatirim.jpg"}
--
-  group: "Sponsorlar"
-  elements:
-    - {name: "Jet Brains", description: "Jet Brains", link: "https://www.jetbrains.com/", imageUrl: "JetBrains.svg"}
-    - {name: "Eteration", description: "Eteration", link: "http://www.eteration.com/", imageUrl: "eteration.png"}
 -
   group: "Destekleyenler"
   elements:

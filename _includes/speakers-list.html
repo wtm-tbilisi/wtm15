@@ -3,9 +3,8 @@
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
             <div class="row text-left appear-animation-trigger">
-                Konuşmacılar kısa bir zamanda açıklanacak. <br/> Konuşmacı olmak istiyorsanız <a href='https://docs.google.com/forms/d/16AI23TnSQFg5yCqOIXeCj1hSlQvw1ihtx0XenZKfflk/viewform?usp=send_form﻿'>basşvurun.</a> Son tarih 24 Şubat
 
-        <!--        {% for speaker in site.data.speakers %}
+                {% for speaker in site.data.speakers %}
                 <div class="effect-wrapper appear-animation col-md-4 col-sm-6 col-xs-12">
                     <div class="lily-effect ribbon-activator">
                         <div class="lily-head" data-toggle="modal" data-target="#speakerDetail-{{ speaker.id }}">
@@ -50,9 +49,9 @@
                         </div>
                     </div>
                 </div>
-                {% endfor %}-->
+                {% endfor %}
             </div> 
-            <a href="https://docs.google.com/forms/d/16AI23TnSQFg5yCqOIXeCj1hSlQvw1ihtx0XenZKfflk/viewform?usp=send_form﻿" class="btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">Konuşmacı Ol</a>     
+            <a href="{{ site.c4pUrl }}" class="btn btn-primary waves-effect waves-button waves-light waves-float" target="_blank">Konuşmacı Ol</a>     
         </div>
     </div>
 </section>

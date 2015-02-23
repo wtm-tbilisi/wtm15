@@ -177,7 +177,7 @@ blogCommentsEnabled: true
 discusShortName: "wtmistanbul"
 
 # Speakers List Block
-showSessions: true
+showSessions: false
 
 # Team Block
 teamBlockTitle: "Hakkımızda"

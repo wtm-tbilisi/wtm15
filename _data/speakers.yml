@@ -1,5 +1,5 @@
 - 
-  id: 5
+  id: 0
   name: "Trisha"
   surname: "Gee"
   company: "JetBrains"
@@ -14,7 +14,7 @@
     - {name: "linkedin", link: "http://www.linkedin.com/in/trishagee"}
     - {name: "github", link: "http://github.com/trishagee"}
 - 
-  id: 4
+  id: 1
   name: "Ehouman"
   surname: "Audrey"
   company: "GDG Miage-Gi Cocody"
@@ -40,7 +40,7 @@
     - {name: "linkedin", link: "https://tr.linkedin.com/in/perikadaster"}
     - {name: "twitter", link: "https://twitter.com/pkadaster"}
 - 
-  id: 0
+  id: 3
   name: "Gulustan"
   surname: "Dogan"
   company: "Yıldız Teknik Üniversitesi"
@@ -50,7 +50,7 @@
   social: 
     - {name: "linkedin", link: "http://www.linkedin.com/pub/gulustan-dogan-phd/34/207/5b5/en"}
 - 
-  id: 1
+  id: 4
   name: "Nesrin"
   surname: "Kalender"
   company: "Rafineri"
@@ -65,7 +65,7 @@
     - {name: "github", link: "https://github.com/nesrinkalender"}
     - {name: "linkedin", link: "http://tr.linkedin.com/pub/nesrin-kalender/36/16a/a57"}
 - 
-  id: 3
+  id: 5
   name: "Diler"
   surname: "Özdemir"
   company: "Eteration"

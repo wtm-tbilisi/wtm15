@@ -15,7 +15,9 @@
   elements:
     - {name: "Jet Brains", description: "Jet Brains", link: "https://www.jetbrains.com/", imageUrl: "JetBrains.svg"}
     - {name: "Eteration", description: "Eteration", link: "http://www.eteration.com/", imageUrl: "eteration.png"}
+-
+  group: "Destekleyenler"
+  elements:
     - {name: "Kodcu.com", description: "Kodcu.com", link: "http://www.kodcu.com/", imageUrl: "KodcuCom.png"}
     - {name: "Voxxed Days Istanbul", description: "Voxxed Days Istanbul", link: "https://www.voxxed.com/days-istanbul15/", imageUrl: "VoxxedIstanbul.png"}
-
     # - {name: "", description: "", link: "http://", imageUrl: ""}

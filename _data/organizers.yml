@@ -5,11 +5,11 @@
 - 
   group: "Yardımcı Organizatörler"
   elements: 
-    - {width: "500px", name: "GDG Istanbul", description: "GDG Istanbul - Open and volunteer geek community", link: "http://www.gdgistanbul.com", imageUrl: "gdgistanbul.png"}
-    - {width: "500px", name: "GDG Ankara", link: "http://www.gdgankara.com", imageUrl: "gdgankara.png"}
-    - {width: "200px", name: "Ankara JUG", link: "http://www.gdgistanbul.com", imageUrl: "ankarajug.png"}
-    - {width: "500px", name: "GDG Duzce", link: "http://www.gdgduzce.com", imageUrl: "gdgduzce.png"}
-    - {width: "500px", name: "GDG Eskisehir", link: "http://www.gdgeskisehir.com", imageUrl: "gdgeskisehir.png"}
-    - {width: "500px", name: "GDG Konya", link: "http://www.gdgkonya.com", imageUrl: "gdgkonya.png"}
-    - {width: "500px", name: "GDG Kutahya", link: "http://www.gdgkutahya.com", imageUrl: "gdgkutahya.jpg"}
-    - {width: "200px", name: "MobilIstanbul", link: "http://www.gdgistanbul.com", imageUrl: "mobilistanbul.jpg"}
+    - {name: "GDG Istanbul", description: "GDG Istanbul - Open and volunteer geek community", link: "http://www.gdgistanbul.com", imageUrl: "gdgistanbul.png"}
+    - {name: "GDG Ankara", link: "http://www.gdgankara.com", imageUrl: "gdgankara.png"}
+    - {name: "Ankara JUG", link: "http://www.gdgistanbul.com", imageUrl: "ankarajug.png"}
+    - {name: "GDG Duzce", link: "http://www.gdgduzce.com", imageUrl: "gdgduzce.png"}
+    - {name: "GDG Eskisehir", link: "http://www.gdgeskisehir.com", imageUrl: "gdgeskisehir.png"}
+    - {name: "GDG Konya", link: "http://www.gdgkonya.com", imageUrl: "gdgkonya.png"}
+    - {name: "GDG Kutahya", link: "http://www.gdgkutahya.com", imageUrl: "gdgkutahya.jpg"}
+    - {name: "MobilIstanbul", link: "http://www.gdgistanbul.com", imageUrl: "mobilistanbul.jpg"}

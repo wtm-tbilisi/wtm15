@@ -1,5 +1,5 @@
 <!-- Begin Partners Section -->
-<section id="partners" class="partners">
+<section id="organizers" class="partners">
     <div class="content-wrapper">
         <div class="col-lg-10 col-lg-offset-1">
             <h3>{{ site.organizersTitle }}</h3>
@@ -15,6 +15,12 @@
                 {% endfor %}
             </ul>
             {% endfor %}
+        </div>
+    </div> 
+</section>
+<section id="partners" class="partners">
+    <div class="content-wrapper">
+        <div class="col-lg-10 col-lg-offset-1">
             <h3>{{ site.partnersTitle }}</h3>
             {% for partner in site.data.partners %}
             <h5>{{ partner.group }}</h5>

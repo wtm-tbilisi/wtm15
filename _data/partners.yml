@@ -21,4 +21,5 @@
     - {name: "Kodcu.com", description: "Kodcu.com", link: "http://www.kodcu.com/", imageUrl: "KodcuCom.png"}
     - {name: "Voxxed Days Istanbul", description: "Voxxed Days Istanbul", link: "https://www.voxxed.com/days-istanbul15/", imageUrl: "VoxxedIstanbul.png"}
     - {name: "Turkish WIN", description: "Turkish WIN", link: "http://www.turkishwin.com/", imageUrl: "TurkishWin.jpg"}
+    - {name: "indir.com", description: "indir.com", link: "http://indir.com", imageUrl: "indircom.jpg"}
     # - {name: "", description: "", link: "http://", imageUrl: ""}

@@ -12,18 +12,24 @@
   thumbnailUrl: ayseinal.jpg
 - 
   id: 2
+  name: "Bora"
+  surname: "Yılmaz"
+  company: "Revo Capital"
+  thumbnailUrl: BoraYilmaz.jpg
+- 
+  id: 3
   name: "Can"
   surname: "Saraçoğlu"
   company: "String Ventures"
   thumbnailUrl: CanSaracoglu.jpg
 - 
-  id: 3
+  id: 4
   name: "Dilek"
   surname: "Dayinlarli"
   company: "212 Ltd"
   thumbnailUrl: DilekDayinlarli.jpg
 - 
-  id: 4
+  id: 5
   name: "Hikmet"
   surname: "Ozgozen"
   company: "BIC Angel Investments"

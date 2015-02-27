@@ -1,7 +1,11 @@
 - 
   group: "Ana sponsor"
   elements: 
-    - {name: "Google", description: "Google", link: "https://www.google.com/", imageUrl: "google.svg"}
+    - {name: "Google Developers", description: "Google Developers", link: "https://developers.google.com/", imageUrl: "GoogleDevelopers.png"}
+- 
+  group: "Gümüş sponsor"
+  elements: 
+    - {name: "BKM", description: "BKM", link: "http://www.bkm.com.tr/", imageUrl: "bkm.jpg"}
 -
   group: "Sponsorlar"
   elements:

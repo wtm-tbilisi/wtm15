@@ -43,7 +43,7 @@ c4sponsorsUrl: "https://docs.google.com/a/gdgistanbul.com/file/d/0B5Ewb5NwqbwIY0
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Ana Sayfa"}
- - {permalink: "/blog/", text: "Blog"}
+ # - {permalink: "/blog/", text: "Blog"}
  #- {permalink: "/schedule/", text: "Schedule"}
  - {permalink: "/speakers/", text: "Konuşmacılar"}
  - {permalink: "/#partners", text: "Sponsorlar"}

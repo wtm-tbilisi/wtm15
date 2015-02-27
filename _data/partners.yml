@@ -11,6 +11,7 @@
   elements:
     - {name: "Jet Brains", description: "Jet Brains", link: "https://www.jetbrains.com/", imageUrl: "JetBrains.svg"}
     - {name: "Eteration", description: "Eteration", link: "http://www.eteration.com/", imageUrl: "eteration.png"}
+    - {name: "M-GEN", description: "M-GEN", link: "http://m-gen.biz/tr/anasayfa", imageUrl: "M-GEN.svg"}
 -
   group: "Startup Launch Partnerleri"
   elements:
@@ -28,4 +29,5 @@
     - {name: "Turkish WIN", description: "Turkish WIN", link: "http://www.turkishwin.com/", imageUrl: "TurkishWin.jpg"}
     - {name: "indir.com", description: "indir.com", link: "http://indir.com", imageUrl: "indircom.jpg"}
     - {name: "chip", description: "chip", link: "http://chip.com.tr", imageUrl: "chip.png"}
+    - {name: "Fütüristler Derneği", description: "Fütüristler Derneği", link: "http://www.futurizm.org/", imageUrl: "FuturistlerDernegi.jpg"}
     # - {name: "", description: "", link: "http://", imageUrl: ""}

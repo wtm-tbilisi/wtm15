@@ -34,3 +34,10 @@
   surname: "Ozgozen"
   company: "BIC Angel Investments"
   thumbnailUrl: HikmetOzgozen.jpg
+- 
+  id: 6
+  name: "Serkan"
+  surname: "Yazıcıoğlu"
+  company: "CMO, BKM"
+  thumbnailUrl: SerkanYazicioglu.jpg
+

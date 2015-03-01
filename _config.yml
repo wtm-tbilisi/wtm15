@@ -209,7 +209,8 @@ enableHackathon: false
 
 # Hackathon About Block
 hackathonRows:
- - {details: "Girişimciler ve girşimci adayları, WTM İstanbul'da yatırımcılarla bir araya geliyor! <br/><br/>Katılımılar önce bir saatlik bir asansör konuşması workshopına katılacaklar sonrasında sahnede iş fikirlerini yatırımcılara sunacaklar.<br/>Etkinlikte sürprizlerimiz de olacak.<br/>Neden katılmalısın?<br/>-Başarılı asansör konuşması workshopına katıl<br/>-Asansör konuşması pratiği yap<br/>-Sahne senin, iş fikrini yatırımcılara sunma imkanı<br/>-Diğer girişimcilerle tanışma imkanı"}
+ - {details: "Girişimciler ve girşimci adayları, WTM İstanbul'da yatırımcılarla bir araya geliyor! <br/><br/>Katılımılar önce bir saatlik bir asansör konuşması workshopına katılacaklar sonrasında sahnede iş fikirlerini yatırımcılara sunacaklar.<br/>Etkinlikte sürprizlerimiz de olacak.<br/>Neden katılmalısın?<ul><li>Başarılı asansör konuşması workshopına katıl</li><li>Asansör konuşması pratiği yap</li><li>Sahne senin, iş fikrini yatırımcılara sunma imkanı</li><li>Diğer girişimcilerle tanışma imkanı</li></ul>"}
+ - {title: "Ödüller", details: "Ayrıca IBM'den en iyi pitch sunumu yapanlara hediyemiz var!<br/>1. gelen kişi veya ekibe 1 yıl<br/>2. ekibe 6 ay<br/>3. ekibe de 3 ay Bluemix geliştirme platformu hediye!"}
  - {title: "Program", details: "Nasıl etkili asansör konuşması yapılır eğitimi (1 saat)<br/>Girşimcilerin sunumları - her biri 2 dk. (1 saat)<br/>Juri geri bildirimleri (1 saat)<br/>Networking (1 saat)"}
  - {title: "<a href='https://docs.google.com/forms/d/1Gt13d2GbSkFWcqV4bk1g_MbE17AvZVM5V5oHKH5wFd4/viewform?usp=send_form'>Şimdi Başvur</a>"}
 

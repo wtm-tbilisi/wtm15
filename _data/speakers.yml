@@ -83,6 +83,266 @@
   thumbnailUrl: DilerOzdemir.jpg
   social: 
     - {name: "linkedin", link: "https://tr.linkedin.com/pub/cemile-diler-özdemir/5a/83/194/en"}
+- 
+  id: 7
+  name: "Ikram"
+  surname: "El khadji"
+  title: "Fresh graduate Master IT"
+  company: "Sabanci university"
+  bio: ""
+  thumbnailUrl: "IkramElKhadji.jpg"
+# - 
+#   id: 8
+#   name: "Nazlı"
+#   surname: "Ipek"
+#   title: "FOOD ENGINEER"
+#   company: ""
+#   bio: ""
+#   thumbnailUrl: "NazliIpek.jpg"
+- 
+  id: 9
+  name: "Aslı"
+  surname: "Sabancı"
+  title: "Founder, iOS developer"
+  company: "Tardis"
+  bio: "After Aydın Science High School, she graduated from Istanbul Technical University Computer Engineering, with a double major in Control Engineering. At the beginning of her software engineering career, she developed desktop and backend applications and gained experience in various domains. In 2011, she dived into the mobile world. She started working as an iOS developer at Pozitron and then continued to work as the iOS team leader of the company. She mostly worked on mobile apps for banks, pharmaceutical companies, retail and entertainment sectors in Turkey, together with eBay's retail projects in US, Brasil and Russia. Since 2013, she is a managing partner and iOS developer at Giysicini - a social fashion platform. In 2015, she founded her own company Tardis and she's into new ventures."
+  thumbnailUrl: "AsliSabanci.jpg"
+- 
+  id: 10
+  name: "Hatice Yeşim"
+  surname: "Özen"
+  title: "Öğrenci"
+  company: "Yıldız Teknik Üniversitesi"
+  bio: "Eğitim Teknolojileri Zirvesi"
+  thumbnailUrl: "HaticeYesimOzen.jpg"
+# - 
+#   id: 11
+#   name: "Neslihan"
+#   surname: "Hodancı"
+#   title: "Developer"
+#   company: "Forum Medya"
+#   bio: ""
+#   thumbnailUrl: "NeslihanHodanci.jpg"
+# - 
+#   id: 12
+#   name: "Gülşah"
+#   surname: "Köse"
+#   title: "Öğrenci"
+#   company: "Çanakkale Onsekiz Mart Üniversitesi"
+#   bio: ""
+#   thumbnailUrl: "GulsahKose.jpg"
+# - 
+#   id: 13
+#   name: "Gamze"
+#   surname: "Karaağaçlı Gül"
+#   title: "Business Analyst"
+#   company: "İngbank"
+#   bio: ""
+#   thumbnailUrl: "GamzeKaraagacliGul.jpg"
+# - 
+#   id: 14
+#   name: "Hülya"
+#   surname: "Karaerkek Kahveci"
+#   title: "CEO"
+#   company: "ARDIC AR-GE"
+#   bio: ""
+#   thumbnailUrl: "HulyaKaraerkekKahveci.jpg"
+- 
+  id: 15
+  name: "Başak"
+  surname: "Taşpınar Değim"
+  title: "Founder"
+  company: "Armut.com"
+  bio: ""
+  thumbnailUrl: "BasakTaspinarDegim.jpg"
+- 
+  id: 16
+  name: "Armağan"
+  surname: "Ersöz"
+  title: "Software Engineer"
+  company: "Honda Türkiye A.Ş."
+  bio: ""
+  thumbnailUrl: "ArmaganErsoz.jpg"
+- 
+  id: 17
+  name: "Merve"
+  surname: "Akman"
+  title: "Founder"
+  company: "ITS Group Bilişim Ajansı"
+  bio: ""
+  thumbnailUrl: "MerveAkman.jpg"
+- 
+  id: 18
+  name: "Betul"
+  surname: "Ekizoglu"
+  title: "IT Project Leader"
+  company: "Bank Asya"
+  bio: ""
+  thumbnailUrl: "BetulEkizoglu.jpg"
+- 
+  id: 19
+  name: "Miray"
+  surname: "Alanlar"
+  title: "Account Manager"
+  company: "Mobile Action"
+  bio: "Well rounded,driven & hands-on professional passionate about mobile app marketing ~ app install business. Had an amazing chance to work for leading tech companies and fast-paced startups in the early stages of my career. I love to interpret data to optimize solutions for clients in agile environments. I enjoy consulting about App Store Optimization and Smart Ad Spending for many of the largest app developers and ad agencies.My selected clients are StubHub,TuneIn, NBC ,Any.do ,FitStar ,Ride Scout, Tubi TV ,Slice and Tango. By joining this event,I'd be more than happy to talk about what's recently happening in Silicon Valley's app ecosystem and share real experiences with young Techmakers."
+  thumbnailUrl: "MirayAlanlar.jpg"
+- 
+  id: 20
+  name: "Birge Elif"
+  surname: "Basık"
+  title: "Agile Coach"
+  company: "VNGRS"
+  bio: "I'm the Agile Coach of VNGRS, coaching for 4 different development teams. I'm responsible to coaching both team and training Product Owner, removing any kind of impediments throughout development process and increase the productivity of the team. I'm process facilitator, being sure that the team apply agile rules. I'm mentoring Istanbul Team, Agile Sparrow Project of Scrum Turkey."
+  thumbnailUrl: "BirgeElifBasik.jpg"
+- 
+  id: 21
+  name: "Timea"
+  surname: "Turdean"
+  title: "Technical Consultant"
+  company: ""
+  bio: "I recently finished Business Engineering and Computer Science in Vienna and now I am at the beginning of my professional life.  Being passionate about what I do and being open for self development are a daily must in my life. Come meet me if you are interested in a different perspective on work life balance or if you are interested in finding out what I discovered to be my professional passion. "
+  thumbnailUrl: "TimeaTurdean.jpg"
+  ribbon:
+    - {abbr: "GDG", title: "GDG Vienna", url: "https://developers.google.com/groups/chapter/114401474180682670911/"}
+# - 
+#   id: 22
+#   name: "Gizem"
+#   surname: "Peksari"
+#   title: "Mobile Business Development Manager"
+#   company: "TEB-BNP Paribas JV"
+#   bio: "Graduated from Middle East Technical University. Worked for Deloitte Consulting Service, after working ING Bank Mobile  Channel Department, been  transferred  to TEB Mobile Team."
+#   thumbnailUrl: "GizemPeksari.jpg"
+# - 
+#   id: 23
+#   name: "Şeyma Nur"
+#   surname: "Emeksiz"
+#   title: "Veri Hazırlama"
+#   company: ""
+#   bio: "Merhabalar ben Ellerinden Ortopedi engeli olan yetim bir vatandaşım ama hayatımda hiçbir şeyi engel görmedim görmemeye de devam ediyorum. Ordu ilinde ikamet ediyorum yaşım 21. İki üniversite okuyorum biri Ordu Üniv. Bilgisayar Programcılığı biri de Açıköğretim Anadolu Üniv. Sosyal Hizmetler bölümü. 16 yaşımdan beri Gençlik ve Spor Bakanlığımızın projelerine katılıyorum: 3 günlük Çanakkale-Bilecik kültür gezisi, 7 günlük Antalya Doğa kampı, 5 Günlük değişim projesi(deni görmeyenler deniz olan illere Hakkari ilimizden Ordu ilimize geldiler ama biz Hakkari ilimize gidemedik arkadaşlarımızın ailesi doğu olduğu için korkuların gönderemediğinden gidemedik ama ben hala arkadaşlarımla görüşüyorum hem sosyal hayatta hemde projelerde), 5 yıldızlı otelde 5 günlük kış kampı. 1 günlük bizim iller seyyah projesiyle sinop gezisine katıldım. Mezunu olduğum Ordu Teknik Lisesi Öğretmenlerimin kurmuş olduğu Genç düşler derneğimizin Power of Hand (Ellerin Gücü) isimli 5 ülkeden katılan projede Ordu temsilcisi olarak katıldım. Türkiyede bayan engelli ilk Yüzme hakemiyim şuanda il hakemiyim. Ordu Rusumat 4 Gençlik ve Spor kulübünde izci lideriyim (Branşımı seneye alacağımdan yardımcı liderim), Ordu Belediyesi Karadeniz Tiyatrosunun Engelliler ekibinde 2 yıl oynadım. Ordu Altınordu Gençlik ve Spor Kulübünde Havalı tüfek atıcılık sporu yapmaktayım Türkiye 3.lüğüm var. 2014 ekim ayında katıldığım projede Habitat kalkınma ve yönetişim derneğinin Tokat ilimizde 4 gün süren Microsoft Türkiye, T.C. Kalkınma Bakanlığı, UNDP Türkiye ve Habitat İçin Gençlik Derneği ortaklığında yürütülen Geleceğini Tasarla Programı Sosyal Medya Okuryazarlığı Eğitmen Eğitimine katılıp eğitmen oldum. 12 Aralık 2014 de Startup weekend Antalya ya katılıp proje hakkında bilinçlenip tecrübe kazandım. 16-22 ocak 2015 Okan Üniv.nin Sosyal Girişimci Genç Liderler Akademisi Mezunuyum. 05-08 şubat 2015 Türkiye Atıcılık şampiyonasında R4 VE R5 dalında 3. orduya bugün 2 madalyamla döndüm. 2011 yılından itibarende Ordu Kent konseyinin hem Engelliler meclisinde hemde Gençlik meclisinde gönüllü çalıştım.Şuanda Ordu Kamu Hastaneleri Birliği Genel Sekreterliğinde taşeron olarak çalışıyorum. tüm bunları lise sonun eylül ayından itibaren yaptım ondan önce yaptıklarımda var övmek için demiyorum siz tecrübelerinizi yazarak her alanda bilinçli olduğumu ifade ederek kendimi ifade ediyorum. Daha önceki tecrübelerimi arzu ettiğiniz taktirde sizinle paylaşabilirim. İnşallah size katılıp birlikte çalışırız."
+#   thumbnailUrl: "SeymaNurEmeksiz.jpg"
+# - 
+#   id: 24
+#   name: "Dilan"
+#   surname: "Ustek"
+#   title: "Software Developer"
+#   company: "Monitise"
+#   bio: "Dilan is a backend software developer at Monitise MEA. She graduated from Grinnell College in December 2013 with a Bachelor’s in Computer Science. She worked as a Summer Technology Analyst at Goldman Sachs & Co. for her last two summers of college.  She has significant research experience with robots in computer science education including a talk at ACM-SIGCSE and ITICSE Sweden. She enjoys taking an active role to increase the number of women who stay in computer science."
+#   thumbnailUrl: "DilanUstek.jpg"
+# - 
+#   id: 25
+#   name: "Elif T."
+#   surname: "Kuş"
+#   title: "DevOps Lead"
+#   company: "Safkan Yazılım"
+#   bio: "Elif is a Chemical Engineer, Cognitive Scientist, Software Architect and DevOps Engineer in one! Being Swiss-born she is as versatile as the famous Army Knife and has coded in a huge range of languages and databases on multiple platforms. She currently manages architecture and DevOps at Pointr, and is one the founders of the ‘Women Developers’ group and blog www.kadinyazilimci.com - promoting the role of female developers in Turkey."
+#   thumbnailUrl: "ElifKus.jpg"
+# - 
+#   id: 26
+#   name: "Yaşar"
+#   surname: "Safkan"
+#   title: "CTO"
+#   company: "Safkan Yazılım"
+#   bio: "Yasar Safkan graduated from Boğaziçi University in Istanbul with a double major in Electronic Engineering and Physics before heading to MIT for his PhD in Physics. Yasar has worked on huge variety of software solutions on multiple platforms including web and mobile at prestigious companies like Google. He is an entrepreneur at heart so loves the challenges Pointr provides and enjoys getting out in the fresh air when he can."
+#   thumbnailUrl: "YasarSafkan.jpg"
+# - 
+#   id: 27
+#   name: "Vildan"
+#   surname: "İlkin"
+#   title: "Mobile Application Developer"
+#   company: "Turksat A.S."
+#   bio: "Vildan studied computer engineering at Eskisehir Osmangazi University. Now, still studying software management at Middle East Technical University. She has been working at Turksat since 2012, developing Android applications for FATIH Project. She is interested in new technologies on mobile and application security."
+#   thumbnailUrl: "VildanIlkin.jpg"
+- 
+  id: 28
+  name: "Aysun"
+  surname: "Demirdogen"
+  title: "Assisstant Expert"
+  company: "EBILTEM TTO"
+  bio: "Teknoloji alanında ajanslarda ve uluslararası bir startup'ta çalıştıktan sonra Teknoloji Transfer Ofisinde bu süreçler hakkında girişimcilerin ve potansiyel girişimci adaylarının eğitilmesi ve yönlendirilmesi ile ilgili süreçlerde yer alan, satranç oyuncusu bir dünya vatandaşı."
+  thumbnailUrl: "AysunDemirdogen.jpg"
+- 
+  id: 29
+  name: "Cansu"
+  surname: "Uludağ"
+  title: "Geleceği Yazanlar Topluluk Yöneticisi"
+  company: "Artistanbul PR"
+  bio: "1992 Ankara doğumlu. 2006'da Maya Koleji'nden mezun olduktan sonra Ankara Atatürk Anadolu Lisesi'ne girdi. Ardından, 2014 yılında Bilkent Üniversitesi Bilgisayar Mühendisliği'nden mezun oldu. İş hayatında mobil uygulamalar konusunda uzmanlaşmaya karar verince, Artistanbul'da Turkcell'in mobil teknoloji projesi Geleceği Yazanlar'da topluluk yöneticisi ve teknik danışman olarak işe girdi. Halen İstanbul'da bu görevi sürdüyor."
+  thumbnailUrl: "CansuUludag.jpg"
+- 
+  id: 30
+  name: "Kseniia"
+  surname: "Shumelchyk"
+  title: "Software developer"
+  company: "SoftServe"
+  bio: "Kseniia is working as software developer at SoftServe as well she has an experience of working on open-source project during Google Summer of Code. Kseniia is leading Women Techmakers Ukraine and GDG Dnipropetrovsk for two years. She was a speaker at TechTalk with global Women Techmakers community in 2013. Kseniia is a big fan of development for cutting edge technologies and devices like Google Glass, Android Wear, Android TV, also she is creator of Women Techmakers Android app. "
+  thumbnailUrl: "KseniiaShumelchyk.jpg"
+  ribbon:
+    - {abbr: "GDG", title: "Women Techmakers Ukraine", url: "https://developers.google.com/groups/chapter/116033068768596939209/"}
+# - 
+#   id: 31
+#   name: "Özge"
+#   surname: "Özmen"
+#   title: "Social Entrepreneurs"
+#   company: ""
+#   bio: "I was born in Ankara on March 5,1991. I'm currently studying econometrics in Gazi University and i'm a senior. I'm actively working as a volunteer on various ngos. I also have international experience as i worked in Italy for 6 months with children in an EVS project. I am currently one of the board member in Social entrepreneurs leader academy (SOGLA) ı also am the founder of Things Ankara I am the Turkey coordinator and Ankara manager CoderDojo. Also a member of Makers Turkey. I organizer and give social entrepreneurship and social innovation trainings,seminars etc. My work focused on technology,entrepreneurship and social inslusion topics."
+#   thumbnailUrl: "OzgeOzmen.jpg"
+- 
+  id: 32
+  name: "Maryna"
+  surname: "Zhygadlo"
+  title: "Software developer"
+  company: "Ciklum Ukraine"
+  bio: "Hello, I am Maryna from Ukraine. I have graduated from Zhytomyr Technological University with Masters in computer science in 2006. After a while I have been fortunate to study in one of the best and biggest technical universities in Poland - Wroclaw University of Technology. Due to that fact that I have Polish origination for me it was a great chance to improve my Polish and learn more about culture and traditions of my ancestors. I am software developer in search team of one of the largest Swiss auctions Ricardo.ch. My strong sides in programming are in .Net technology and Apache Solr search engine. My main responsibility is giving people what they are looking for in other words to make search relevant and fast as possible for buyers. I consider that programming is a mover of the human being and we’re lucky to participate in this, every day we’re changing people’s lives for better. All my free time I love traveling and meeting with new people. "
+  thumbnailUrl: "MarynaZhygadlo.jpg"
+# - 
+#   id: 33
+#   name: "Meryem"
+#   surname: "Ipek"
+#   title: "Sosyoloji Bölümü Öğrencisi"
+#   company: "Marmara Üniversitesi"
+#   bio: "Lise eğitimimi Trabzon Yomra Fen Lisesinde aldım, akademik eğitim için ise farklı bir alana yönelip Marmara Üniversitesinin Sosyoloji bölümüne geldim, henüz 1.sınıf öğrencisiyim. Edebiyat ve fotoğrafçılık ile ilgileniyorum. Programa iş hayatında kadınların konumunu, yaşadıkları zorlukları gözlemleyebilmek için katılmayı istiyorum."
+#   thumbnailUrl: "MeryemIpek.jpg"
+- 
+  id: 34
+  name: "Nergis"
+  surname: "Yılmaz"
+  title: "Yazılım Uzmanı"
+  company: "Akbank"
+  bio: "Kocaeli Üniversitesi'nde Bilgisayar Mühendisliği bölümünden mezun olan Nergis Yılmaz, Galatasaray Üniversitesinde bilgisayar mühendisliği veri madenciliği alanında yüksek lisansını tamamlamıştır. İş hayatına CyberSoft ‘ta ŞekerBank temel bankacılık projesinde yazılım mühendisi olarak başlamıştır. 2012 Mayıs'tan beri Akbank Bilgi Teknolojileri CRM uygulamaları grubunda sistem analisti ve yazılım uzmanı olarak görev yapmaktadır. Çeşitli CRM uygulamalarında gerçek zamanlı pazarlama ve mobil CRM konuları üzerinde çalışmalarını sürdürmektedir."
+  thumbnailUrl: "NergisYilmaz.jpg"
+- 
+  id: 35
+  name: "Gizem"
+  surname: "Fitoz"
+  title: "Öğrenci"
+  company: "Anadolu Üniversitesi"
+  bio: "Anadolu Üniversitesi Bilgisayar Mühendisliği bölümünde öğrenciyim. Bilgisayar Kulübü yönetiminde yer alıyorum. 2013'den beri Google Developer Group Eskişehir ekibindeyim. 2014'te kurulan Women Techmakers Eskişehir topluluğunun co-organizer'ları arasındayım. Bir süredir Java ve C dilleri ile ilgiledikten sonra iOS geliştirmeye başladım. LinkedIn: tr.linkedin.com/in/gizemfitoz"
+  thumbnailUrl: "GizemFitoz.jpg"
+- 
+  id: 36
+  name: "Burcu"
+  surname: "Türkmen"
+  title: "Bilgisayar Mühendisi"
+  company: "Triodor R&D"
+  bio: "Anadolu Üniversitesi Bilgisayar Mühendisliği bölümünden 2012 yılında mezun oldum. GDG Eskişehir topluluğunda aktif olarak görev almaktayım. Aynı zamanda WTM Eskişehir topluluğunda co-organizerlar arasındayım. Android uygulama geliştirerek başladığım kariyer hayatıma, daha sonralarda iOS geliştirerek devam ediyorum. LinkedIn: http://tr.linkedin.com/in/btrkmn"
+  thumbnailUrl: "BurcuTurkmen.jpg"
+- 
+  id: 37
+  name: "Nihan"
+  surname: "Guneli"
+  title: "IT Lawyer"
+  company: "Guneli & Koc Law Firm"
+  bio: "Graduated from Istanbul Bilgi University Faculty of Law, is founding and managing partner at Guneli & Koc Law Firm. My practice mainly focuses on corporate and commercial law, intellectual property law and IT law, both as attorney and legal advisor. My areas of expertise on information and technology law are registered electronic mail and social media law. In my dissertation of Information and Technology Law Masters Program in Istanbul Bilgi University, titled “Electronic Apostille: An Implementation Example of Registered Electronic Mail”, I reviewed and explained both technical and legal aspects of registered electronic mail. I am one of the few legal advisors in newly founded registered electronic mail market in Turkey."
+  thumbnailUrl: "NihanGuneli.jpg"
+- 
+  id: 38
+  name: "Esin"
+  surname: "Işık"
+  title: "Independant UX Designer"
+  company: "Independant"
+  bio: "I graduated from the department of Industrial Design at METU (Middle East Technical University) in Ankara in 2007 and completed a master's degree in TUDelft in the Netherlands in 2010. I work in Istanbul since 2011 where I first started with digital consulting in i-am Istanbul, then was in Denizbank and Garanti Bank's IT companies. After working with so many different teams in so many different environments and focus; I very recently became an independent experience design consultant. My current focus is startups while I still keep designing with corporate IT companies. "
+  thumbnailUrl: "EsinIsik.jpg"
 
 # - 
 #   id: 0
@@ -90,7 +350,7 @@
 #   surname: ""
 #   company: ""
 #   title: ""
-#   bio: ""
+# bio: "#   bio: """
 #   thumbnailUrl: .jpg
 #   social: 
 #     - {name: "google-plus", link: ""}

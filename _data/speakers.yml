@@ -288,6 +288,10 @@
   thumbnailUrl: "KseniiaShumelchyk.jpg"
   ribbon:
     - {abbr: "GDG", title: "Women Techmakers Ukraine", url: "https://developers.google.com/groups/chapter/116033068768596939209/"}
+  social: 
+    - {name: "site", link: "http://dnipro.gdg.org.ua/"}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+KseniiaShumelchyk"}
+    - {name: "linkedin", link: "https://www.linkedin.com/pub/kseniia-shumelchyk/49/26/935"}
 - 
   id: 31
   name: "Özge"
@@ -320,6 +324,14 @@
 #   bio: "Lise eğitimimi Trabzon Yomra Fen Lisesinde aldım, akademik eğitim için ise farklı bir alana yönelip Marmara Üniversitesinin Sosyoloji bölümüne geldim, henüz 1.sınıf öğrencisiyim. Edebiyat ve fotoğrafçılık ile ilgileniyorum. Programa iş hayatında kadınların konumunu, yaşadıkları zorlukları gözlemleyebilmek için katılmayı istiyorum."
 #   thumbnailUrl: "MeryemIpek.jpg"
 - 
+  id: 41
+  name: "Çiğdem"
+  surname: "Carino"
+  title: "Bilgi Teknolojileri Direkt Bankacılık Bölüm Başkanı"
+  company: "Akbank"
+  bio: "Çiğdem CARINO Boğaziçi Üniversitesi Bilgisayar Mühendisliği Bölümü’nden mezun olup yüksek lisans derecesini yine aynı bölümde tamamlamıştır(1995). Garanti Teknoloji’de kısa iş tecrübesinin ardından Akbank’ın Bilgi Teknolojileri alanında çalışmaya başlamıştır. 19 yıllık profesyonel kariyer hayatının 14 yılında çeşitli yönetimsel pozisyonlarda görev almıştır. Müdür ve bölüm başkanı olarak birçok departmanı yönetmiş, bankanın hemen hemen tüm domainlerinde birçok uygulama/sistem geliştirmiştir. Hazine, Yatırım, Özel Bankacılık, Banka Operasyonları, Kurumsal ve Ticari Bankacılık, Krediler, Müşteri ve CRM Uygulamaları gibi birçok departmanın BT müdürlüğünden sonra Nisan 2012’de BT Direkt Bankacılık Müdürlüğü görevine getirilmiştir. Bölüm Başkanlığı terfisinin ardından mevcutta BT Direkt Bankacılık Bölüm Başkanlığı görevini yürütmektedir. Direkt Bankacılığın yanısıra Hazine/Yatırım ve Kurumsal Uygulamalar müdürlükleri de sorumluluk alanındadır. Yöneticiliği döneminde Direkt Bankacılık departmanı önemli gelişim göstermiştir. Akbank Direkt Bankacılık,GSMA dünyanın en iyi mobil uygulaması ve Gold Stevie gibi birçok önemli ödüle imza atmıştır."
+  thumbnailUrl: "CigdemCarino.jpg"
+- 
   id: 34
   name: "Nergis"
   surname: "Yılmaz"
@@ -327,6 +339,22 @@
   company: "Akbank"
   bio: "Kocaeli Üniversitesi'nde Bilgisayar Mühendisliği bölümünden mezun olan Nergis Yılmaz, Galatasaray Üniversitesinde bilgisayar mühendisliği veri madenciliği alanında yüksek lisansını tamamlamıştır. İş hayatına CyberSoft ‘ta ŞekerBank temel bankacılık projesinde yazılım mühendisi olarak başlamıştır. 2012 Mayıs'tan beri Akbank Bilgi Teknolojileri CRM uygulamaları grubunda sistem analisti ve yazılım uzmanı olarak görev yapmaktadır. Çeşitli CRM uygulamalarında gerçek zamanlı pazarlama ve mobil CRM konuları üzerinde çalışmalarını sürdürmektedir."
   thumbnailUrl: "NergisYilmaz.jpg"
+- 
+  id: 39
+  name: "Hülya"
+  surname: "Eseroğlu"
+  title: "Direkt Bankacılık Kıdemli İş Mimarı"
+  company: "Akbank"
+  bio: "Hülya Eseroğlu, 1997 yılında O.D.T.Ü. Bilgisayar Mühendisliği Bölümünden mezun olmuştur. 18 yıllık profesyonel iş hayatına Yapı Kredi Bankası Bilgi Teknolojileri Uygulama Geliştirme bölümünde yardımcı analist olarak başlamıştır. “Banka ve Kredi Kartı Basım/Yönetim Sistemi(CMS)” ile “Alternatif Dağıtım Kanalları(ADK)” uygulama projelerinde  yazılım uzmanı, iş ve teknik analist ve uygulama mimarı olarak 9 yıl görev yapmıştır. Bankanın Cms uygulamalarını yenileyerek azalttığı operasyon ve geliştirme maliyetleriyle grubuna müşteri memnuniyeti ödülü kazandırmış; Bireysel ve Kurumsal Internet Şubesi ile Çağrı Merkezi kanallarının tüm güvenlik ve başvuru süreçlerini yenileyerek bankanın 5 dalda uluslararası “TrustWeb” sertifikası kazanmasına önemli katkı sağlamıştır. Farklı projelerde müşteri memnuniyeti, yılın takımı, özel başarı ödülleri bulunmaktadır (kurum içi).Kariyerine 2006 yılında uzman olarak başladığı Akbank Bilgi Teknolojileri Direkt Bankacılık Uygulama Geliştirme bölümünde Kıdemli İş Mimarı olarak devam etmektedir. Dijital Kanallarla ilgili projelerin yönetim ve analiz  sorumluluğunun yanısıra uygulama mimarisinin oluşturulması ve teknik tasarım konularında geliştirme takımlarına koçluk yapmaktadır."
+  thumbnailUrl: "HulyaEseroglu.jpg"
+- 
+  id: 40
+  name: "Yeşim"
+  surname: "Kurtuluş"
+  title: "Bilgi Teknolojileri İş Mimarı"
+  company: "Akbank"
+  bio: "1983 İstanbul doğumlu olan Yeşim Kurtuluş, lisans eğitimini 2006 yılında Yıldız Teknik Üniversitesi Bilgisayar Mühendisliği Bölümü’nde tamamlamıştır. Kariyerine Softech A.Ş.’ de yazılım uzmanı olarak başlamıştır. 2008 yılında Akbank Bilgi Teknolojileri’ne katılarak Yatırım Uygulamaları ekibinde uzman yazılımcı olarak çeşitli projelerde görev almıştır. 2014 yılında, Hazine ekibine geçmiştir. Akbank Hazine Programı kapsamında Arka Ofis Uygulaması’nın yeni teknolojiler ile geliştirilmesi projesinde scrum master rolünü üstlenmiştir. Halen iş mimarı olarak Akbank Direkt Bankacılık Bölümü’nde kariyerine devam etmektedir."
+  thumbnailUrl: "YesimKurtulus.jpg"
 - 
   id: 35
   name: "Gizem"

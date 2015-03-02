@@ -91,14 +91,14 @@
   company: "Sabanci university"
   bio: ""
   thumbnailUrl: "IkramElKhadji.jpg"
-# - 
-#   id: 8
-#   name: "Nazlı"
-#   surname: "Ipek"
-#   title: "FOOD ENGINEER"
-#   company: ""
-#   bio: ""
-#   thumbnailUrl: "NazliIpek.jpg"
+- 
+  id: 8
+  name: "Nazlı"
+  surname: "Ipek"
+  title: "Food Engineer"
+  company: ""
+  bio: ""
+  thumbnailUrl: "NazliIpek.jpg"
 - 
   id: 9
   name: "Aslı"
@@ -153,7 +153,7 @@
   surname: "Taşpınar Değim"
   title: "Founder"
   company: "Armut.com"
-  bio: ""
+  bio: "After receiving a bachelor's degree in Civil Engineering at Boğaziçi University, Başak  received an MBA from Koç University and MSIMC degree from Loyola University Chicago. After a brand management career mostly in the United States with Revlon, Nielsen, Coca Cola and Tat, she quit her corporate career to found armut.com in 2011. Armut has been ranked in Wired UK's 100 Hottest Startups of Europe 2014 list, and selected as an Endeavor startup in New York in August 2014. Başak has recently been awarded as the Most Promising Female Entrepreneur of Turkey 2014 (by Garanti, Kadiger, Capital & Ekonomist), and Entrepreneur of the Year by ODTÜ GGT."
   thumbnailUrl: "BasakTaspinarDegim.jpg"
 - 
   id: 16
@@ -205,6 +205,12 @@
   thumbnailUrl: "TimeaTurdean.jpg"
   ribbon:
     - {abbr: "GDG", title: "GDG Vienna", url: "https://developers.google.com/groups/chapter/114401474180682670911/"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/+TimeaTurdean_imy"}
+    - {name: "twitter", link: "https://twitter.com/TimeaTurdean"}
+    - {name: "github", link: "https://github.com/therealimy"}
+    - {name: "site", link: "http://www.timeaturdean.com/"}
+    - {name: "linkedIn", link: "https://www.linkedin.com/profile/view?id=101003893"}
 # - 
 #   id: 22
 #   name: "Gizem"
@@ -245,14 +251,17 @@
 #   company: "Safkan Yazılım"
 #   bio: "Yasar Safkan graduated from Boğaziçi University in Istanbul with a double major in Electronic Engineering and Physics before heading to MIT for his PhD in Physics. Yasar has worked on huge variety of software solutions on multiple platforms including web and mobile at prestigious companies like Google. He is an entrepreneur at heart so loves the challenges Pointr provides and enjoys getting out in the fresh air when he can."
 #   thumbnailUrl: "YasarSafkan.jpg"
-# - 
-#   id: 27
-#   name: "Vildan"
-#   surname: "İlkin"
-#   title: "Mobile Application Developer"
-#   company: "Turksat A.S."
-#   bio: "Vildan studied computer engineering at Eskisehir Osmangazi University. Now, still studying software management at Middle East Technical University. She has been working at Turksat since 2012, developing Android applications for FATIH Project. She is interested in new technologies on mobile and application security."
-#   thumbnailUrl: "VildanIlkin.jpg"
+- 
+  id: 27
+  name: "Vildan"
+  surname: "İlki"
+  title: "Mobile Application Developer"
+  company: "Turksat A.S."
+  bio: "Vildan studied computer engineering at Eskisehir Osmangazi University. Now, still studying software management at Middle East Technical University. She has been working at Turksat since 2012, developing Android applications for FATIH Project. She is interested in new technologies on mobile and application security."
+  thumbnailUrl: "VildanIlki.jpg"
+  social: 
+    - {name: "twitter", link: "https://twitter.com/vildanilki"}
+    - {name: "github", link: "https://github.com/vildanilki"}
 - 
   id: 28
   name: "Aysun"
@@ -293,8 +302,11 @@
   surname: "Zhygadlo"
   title: "Software developer"
   company: "Ciklum Ukraine"
-  bio: "Hello, I am Maryna from Ukraine. I have graduated from Zhytomyr Technological University with Masters in computer science in 2006. After a while I have been fortunate to study in one of the best and biggest technical universities in Poland - Wroclaw University of Technology. Due to that fact that I have Polish origination for me it was a great chance to improve my Polish and learn more about culture and traditions of my ancestors. I am software developer in search team of one of the largest Swiss auctions Ricardo.ch. My strong sides in programming are in .Net technology and Apache Solr search engine. My main responsibility is giving people what they are looking for in other words to make search relevant and fast as possible for buyers. I consider that programming is a mover of the human being and we’re lucky to participate in this, every day we’re changing people’s lives for better. All my free time I love traveling and meeting with new people. "
+  bio: "Maryna works as a software developer at Ciklum in Kiev. At the current moment she is working in search team of one of the largest Swiss auctions Ricardo.ch. Maryna has a rich experience in designing, developing and maintaining complex distributed applications. Maryna's strong sides in programming are in .Net technology and Apache Solr search engine. Under her responsibility is making search relevant and fast as possible for buyers. Maryna is a first recipient of Google Anita Borg Scholarship 2011 in Ukraine. Since this May 2014 she is Committee Planning Member of  Anita Borg Scholarship Alumni community in EMEA region, the main aim of it is to increase the ratio of women in computer science globally."
   thumbnailUrl: "MarynaZhygadlo.jpg"
+  social: 
+    - {name: "google-plus", link: "https://google.com/+MarinaZhygadlo"}
+    - {name: "facebook", link: "https://www.facebook.com/marina.zhygadlo"}
 # - 
 #   id: 33
 #   name: "Meryem"
@@ -356,8 +368,5 @@
 #     - {name: "google-plus", link: ""}
 
 
-# Nino Nanitashvili
-# Ksenia 
+# Nino Nanitashvili 
 # Roman
-# Timea Turdean
-# Audrey Eouhman

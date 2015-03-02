@@ -227,14 +227,14 @@
 #   company: ""
 #   bio: "Merhabalar ben Ellerinden Ortopedi engeli olan yetim bir vatandaşım ama hayatımda hiçbir şeyi engel görmedim görmemeye de devam ediyorum. Ordu ilinde ikamet ediyorum yaşım 21. İki üniversite okuyorum biri Ordu Üniv. Bilgisayar Programcılığı biri de Açıköğretim Anadolu Üniv. Sosyal Hizmetler bölümü. 16 yaşımdan beri Gençlik ve Spor Bakanlığımızın projelerine katılıyorum: 3 günlük Çanakkale-Bilecik kültür gezisi, 7 günlük Antalya Doğa kampı, 5 Günlük değişim projesi(deni görmeyenler deniz olan illere Hakkari ilimizden Ordu ilimize geldiler ama biz Hakkari ilimize gidemedik arkadaşlarımızın ailesi doğu olduğu için korkuların gönderemediğinden gidemedik ama ben hala arkadaşlarımla görüşüyorum hem sosyal hayatta hemde projelerde), 5 yıldızlı otelde 5 günlük kış kampı. 1 günlük bizim iller seyyah projesiyle sinop gezisine katıldım. Mezunu olduğum Ordu Teknik Lisesi Öğretmenlerimin kurmuş olduğu Genç düşler derneğimizin Power of Hand (Ellerin Gücü) isimli 5 ülkeden katılan projede Ordu temsilcisi olarak katıldım. Türkiyede bayan engelli ilk Yüzme hakemiyim şuanda il hakemiyim. Ordu Rusumat 4 Gençlik ve Spor kulübünde izci lideriyim (Branşımı seneye alacağımdan yardımcı liderim), Ordu Belediyesi Karadeniz Tiyatrosunun Engelliler ekibinde 2 yıl oynadım. Ordu Altınordu Gençlik ve Spor Kulübünde Havalı tüfek atıcılık sporu yapmaktayım Türkiye 3.lüğüm var. 2014 ekim ayında katıldığım projede Habitat kalkınma ve yönetişim derneğinin Tokat ilimizde 4 gün süren Microsoft Türkiye, T.C. Kalkınma Bakanlığı, UNDP Türkiye ve Habitat İçin Gençlik Derneği ortaklığında yürütülen Geleceğini Tasarla Programı Sosyal Medya Okuryazarlığı Eğitmen Eğitimine katılıp eğitmen oldum. 12 Aralık 2014 de Startup weekend Antalya ya katılıp proje hakkında bilinçlenip tecrübe kazandım. 16-22 ocak 2015 Okan Üniv.nin Sosyal Girişimci Genç Liderler Akademisi Mezunuyum. 05-08 şubat 2015 Türkiye Atıcılık şampiyonasında R4 VE R5 dalında 3. orduya bugün 2 madalyamla döndüm. 2011 yılından itibarende Ordu Kent konseyinin hem Engelliler meclisinde hemde Gençlik meclisinde gönüllü çalıştım.Şuanda Ordu Kamu Hastaneleri Birliği Genel Sekreterliğinde taşeron olarak çalışıyorum. tüm bunları lise sonun eylül ayından itibaren yaptım ondan önce yaptıklarımda var övmek için demiyorum siz tecrübelerinizi yazarak her alanda bilinçli olduğumu ifade ederek kendimi ifade ediyorum. Daha önceki tecrübelerimi arzu ettiğiniz taktirde sizinle paylaşabilirim. İnşallah size katılıp birlikte çalışırız."
 #   thumbnailUrl: "SeymaNurEmeksiz.jpg"
-# - 
-#   id: 24
-#   name: "Dilan"
-#   surname: "Ustek"
-#   title: "Software Developer"
-#   company: "Monitise"
-#   bio: "Dilan is a backend software developer at Monitise MEA. She graduated from Grinnell College in December 2013 with a Bachelor’s in Computer Science. She worked as a Summer Technology Analyst at Goldman Sachs & Co. for her last two summers of college.  She has significant research experience with robots in computer science education including a talk at ACM-SIGCSE and ITICSE Sweden. She enjoys taking an active role to increase the number of women who stay in computer science."
-#   thumbnailUrl: "DilanUstek.jpg"
+- 
+  id: 24
+  name: "Dilan"
+  surname: "Ustek"
+  title: "Software Developer"
+  company: "Monitise"
+  bio: "Dilan is a backend software developer at Monitise MEA. She graduated from Grinnell College in December 2013 with a Bachelor’s in Computer Science. She worked as a Summer Technology Analyst at Goldman Sachs & Co. for her last two summers of college.  She has significant research experience with robots in computer science education including a talk at ACM-SIGCSE and ITICSE Sweden. She enjoys taking an active role to increase the number of women who stay in computer science."
+  thumbnailUrl: "DilanUstek.jpg"
 # - 
 #   id: 25
 #   name: "Elif T."

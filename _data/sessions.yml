@@ -29,7 +29,7 @@
 - 
   id: 002
   title: "SAP"
-  description: " "
+  description: ""
   language: tr
   speakers: [8]
 - 
@@ -184,8 +184,8 @@
   speakers: [30]
 - 
   id: 028
-  title: "Creating social benefits via technology"
-  description: " "
+  title: "Teknoloji ile Sosyal Fayda Yaratmak"
+  description: "Dünya'nın değişen dinamiklerine karşı teknolojiyi sosyal fayda odaklı bir hale de getirmemiz gerekiyor. Teknolojiyi kullanarak toplum için fark yaratan sosyal girişimcilik projelerinden ve öneminden bahsedeceğim."
   language: tr
   speakers: [31]
 - 

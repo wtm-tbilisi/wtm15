@@ -217,6 +217,7 @@ hackathonRows:
 # Hackathon Judges Block
 judgesImage: "judges.jpg"
 judgesTitle: "Jüri"
+instructorsTitle: "Startup Sunum Eğitmenleri"
 
 # Hackathon Prizes Block
 prizesTitle: "Ödüller"

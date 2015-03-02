@@ -1,0 +1,12 @@
+- 
+  id: 0
+  name: "Sevnur"
+  surname: "Malik"
+  company: "Türk Telekom"
+  thumbnailUrl: SevnurMalik.jpg
+- 
+  id: 1
+  name: "Başak"
+  surname: "Taşpınar Değim"
+  company: "Armut.com"
+  thumbnailUrl: "BasakTaspinarDegim.jpg"

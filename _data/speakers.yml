@@ -288,14 +288,18 @@
   thumbnailUrl: "KseniiaShumelchyk.jpg"
   ribbon:
     - {abbr: "GDG", title: "Women Techmakers Ukraine", url: "https://developers.google.com/groups/chapter/116033068768596939209/"}
-# - 
-#   id: 31
-#   name: "Özge"
-#   surname: "Özmen"
-#   title: "Social Entrepreneurs"
-#   company: ""
-#   bio: "I was born in Ankara on March 5,1991. I'm currently studying econometrics in Gazi University and i'm a senior. I'm actively working as a volunteer on various ngos. I also have international experience as i worked in Italy for 6 months with children in an EVS project. I am currently one of the board member in Social entrepreneurs leader academy (SOGLA) ı also am the founder of Things Ankara I am the Turkey coordinator and Ankara manager CoderDojo. Also a member of Makers Turkey. I organizer and give social entrepreneurship and social innovation trainings,seminars etc. My work focused on technology,entrepreneurship and social inslusion topics."
-#   thumbnailUrl: "OzgeOzmen.jpg"
+- 
+  id: 31
+  name: "Özge"
+  surname: "Özmen"
+  title: "Social Entrepreneurs"
+  company: ""
+  bio: "I was born in Ankara on March 5,1991. I'm currently studying econometrics in Gazi University and i'm a senior. I'm actively working as a volunteer on various ngos. I also have international experience as i worked in Italy for 6 months with children in an EVS project. I am currently one of the board member in Social entrepreneurs leader academy (SOGLA) ı also am the founder of Things Ankara I am the Turkey coordinator and Ankara manager CoderDojo. Also a member of Makers Turkey. I organizer and give social entrepreneurship and social innovation trainings,seminars etc. My work focused on technology,entrepreneurship and social inslusion topics."
+  thumbnailUrl: "OzgeOzmen.jpg"
+  social: 
+    - {name: "twitter", link: "https://twitter.com/Ozgeeozmen"}
+    - {name: "facebook", link: "https://www.facebook.com/OzgeOzmeen"}
+    - {name: "linkedin", link: "https://tr.linkedin.com/in/ozgeozmen/tr"}
 - 
   id: 32
   name: "Maryna"

@@ -52,10 +52,10 @@ navigationLinks:
  - {permalink: "/startup/", text: "Startup Launch"}
  - {permalink: "http://wtm14.devfesttr.com/", text: "DevFestW'14"}
 bottomNavigationLinks:
- - {link: "https://docs.google.com/forms/d/16AI23TnSQFg5yCqOIXeCj1hSlQvw1ihtx0XenZKfflk/viewform?usp=send_form", text: "Konuşmacı Ol"}
+ - {permalink: "/startup/", text: "Startup Başvurusu"}
+ - {permalink: "http://wtmistanbul15.eventbrite.com/", text: "Kayıt Ol"}
 rightNavigationButtons:
- - {link: "https://docs.google.com/forms/d/16AI23TnSQFg5yCqOIXeCj1hSlQvw1ihtx0XenZKfflk/viewform?usp=send_form", text: "Konuşmacı Ol"}
- - {link: "https://docs.google.com/a/gdgistanbul.com/file/d/0B5Ewb5NwqbwIY0tvVTl2U2VjZkU/edit?usp=drive_web", text: "Sponsor Ol"}
+ - {permalink: "http://wtmistanbul15.eventbrite.com/", text: "Kayıt Ol"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -64,7 +64,7 @@ eventDate: "15 March, 2015"
 typeoutTextValues: '"Women", "Techmakers", "Istanbul"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "https://docs.google.com/forms/d/16AI23TnSQFg5yCqOIXeCj1hSlQvw1ihtx0XenZKfflk/viewform?usp=send_form", text: "Konuşmacı Ol"}
+ - {permalink: "/startup/", text: "Startup Başvurusu"}
  - {permalink: "/#tickets", text: "Kayıt Ol"}
 
 # About Block

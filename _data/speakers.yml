@@ -115,6 +115,10 @@
   company: "Yıldız Teknik Üniversitesi"
   bio: "Eğitim Teknolojileri Zirvesi"
   thumbnailUrl: "HaticeYesimOzen.jpg"
+  social: 
+    - {name: "facebook", link: "https://facebook.com/hyesimozen"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/hyesimozen"}
+    - {name: "twitter", link: "https://twitter.com/hyesimozen"}
 # - 
 #   id: 11
 #   name: "Neslihan"
@@ -123,14 +127,14 @@
 #   company: "Forum Medya"
 #   bio: ""
 #   thumbnailUrl: "NeslihanHodanci.jpg"
-# - 
-#   id: 12
-#   name: "Gülşah"
-#   surname: "Köse"
-#   title: "Öğrenci"
-#   company: "Çanakkale Onsekiz Mart Üniversitesi"
-#   bio: ""
-#   thumbnailUrl: "GulsahKose.jpg"
+- 
+  id: 12
+  name: "Gülşah"
+  surname: "Köse"
+  title: "Öğrenci"
+  company: "Çanakkale Onsekiz Mart Üniversitesi"
+  bio: ""
+  thumbnailUrl: "GulsahKose.jpg"
 # - 
 #   id: 13
 #   name: "Gamze"
@@ -315,14 +319,14 @@
   social: 
     - {name: "google-plus", link: "https://google.com/+MarinaZhygadlo"}
     - {name: "facebook", link: "https://www.facebook.com/marina.zhygadlo"}
-# - 
-#   id: 33
-#   name: "Meryem"
-#   surname: "Ipek"
-#   title: "Sosyoloji Bölümü Öğrencisi"
-#   company: "Marmara Üniversitesi"
-#   bio: "Lise eğitimimi Trabzon Yomra Fen Lisesinde aldım, akademik eğitim için ise farklı bir alana yönelip Marmara Üniversitesinin Sosyoloji bölümüne geldim, henüz 1.sınıf öğrencisiyim. Edebiyat ve fotoğrafçılık ile ilgileniyorum. Programa iş hayatında kadınların konumunu, yaşadıkları zorlukları gözlemleyebilmek için katılmayı istiyorum."
-#   thumbnailUrl: "MeryemIpek.jpg"
+- 
+  id: 33
+  name: "Meryem"
+  surname: "Ipek"
+  title: "Sosyoloji Bölümü Öğrencisi"
+  company: "Marmara Üniversitesi"
+  bio: "Lise eğitimimi Trabzon Yomra Fen Lisesinde aldım, akademik eğitim için ise farklı bir alana yönelip Marmara Üniversitesinin Sosyoloji bölümüne geldim, henüz 1.sınıf öğrencisiyim. Edebiyat ve fotoğrafçılık ile ilgileniyorum. Programa iş hayatında kadınların konumunu, yaşadıkları zorlukları gözlemleyebilmek için katılmayı istiyorum."
+  thumbnailUrl: "MeryemIpek.jpg"
 - 
   id: 41
   name: "Çiğdem"

@@ -283,6 +283,9 @@
   bio: "1992 Ankara doğumlu. 2006'da Maya Koleji'nden mezun olduktan sonra Ankara Atatürk Anadolu Lisesi'ne girdi. Ardından, 2014 yılında Bilkent Üniversitesi Bilgisayar Mühendisliği'nden mezun oldu. İş hayatında mobil uygulamalar konusunda uzmanlaşmaya karar verince, Artistanbul'da Turkcell'in mobil teknoloji projesi Geleceği Yazanlar'da topluluk yöneticisi ve teknik danışman olarak işe girdi. Halen İstanbul'da bu görevi sürdüyor."
   thumbnailUrl: "CansuUludag.jpg"
   rockstar: true
+  social: 
+    - {name: "linkedin", link: "https://tr.linkedin.com/pub/cansu-uluda%C4%9F/36/7b5/378"}
+    - {name: "twitter", link: "https://twitter.com/cansucaso"}
 - 
   id: 30
   name: "Kseniia"

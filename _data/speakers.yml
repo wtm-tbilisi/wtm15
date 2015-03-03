@@ -6,7 +6,6 @@
   title: "Developer Advocate"
   bio: "Trisha has developed Java applications for a range of industries, including finance, manufacturing and non-profit, for companies of all sizes.  She has expertise in Java high performance systems, is passionate about enabling developer productivity, and dabbles with Open Source development. Trisha blogs regularly on subjects that she thinks developers and other humans should care about, she’s a leader of the Sevilla Java User Group, a key member of the London Java Community and a Java Champion. She believes we shouldn't all have to make the same mistakes again and again, so now she works for JetBrains where she can tell developers about all the cool stuff she's learnt so far."
   thumbnailUrl: TrishaGee.jpg
-  rockstar: true
   social: 
     - {name: "site", link: "http://trishagee.github.io/"}
     - {name: "google-plus", link: "https://plus.google.com/+TrishaGee/"}
@@ -35,7 +34,6 @@
   title: "Director, Strategy & Marketing"
   bio: "Peri Kadaster is Director of Strategy & Marketing at Monitise, where she helms the Middle East region’s initiatives in communications, branding, and corporate strategy. Monitise acquired Istanbul-based Pozitron, where Peri  headed Strategy & Marketing, in February of 2014. <br>Prior to Monitise, Peri was Vice President of Marketing for San Francisco- based shopping app CoffeeTable, where she helmed user acquisition, customer analytics, and strategic initiatives including fundraising. Peri drove  CoffeeTable to #1 in its App Store category, and helped secure the start-up’s  ultimate exit to a media conglomerate. Peri also co-founded Kadaster Ventures LLC, where she provides angel investment and advisory services to  growth-stage companies in the consumer and mobile sectors. <br>Previously, Peri was an Engagement Manager at McKinsey & Company,  where she advised leading Bay Area companies in the retail, financial  services, and technology sectors. At McKinsey, Peri specialized in B2C marketing and served as interim Director of Client Development for NM Incite,  a Nielsen-McKinsey joint venture on social media intelligence. Prior to  McKinsey, Peri was a Marketing Associate at PepsiCo, and a Senior  Associate at The Parthenon Group, a Boston-based boutique strategy  consulting firm, where she advised clients in consumer products and services. <br>Peri splits her time between Istanbul and San Francisco. Outside of the office  she blogs for Harvard Business Review Turkey and Startup Turkey, has  contributed to Forbes, and continues to mentor start-ups. Peri received her  MBA from Harvard Business School and her Bachelor’s Degree from Duke  University."
   thumbnailUrl: PeriKadaster.jpg
-  rockstar: true
   social: 
     - {name: "linkedin", link: "https://tr.linkedin.com/in/perikadaster"}
     - {name: "twitter", link: "https://twitter.com/pkadaster"}
@@ -66,7 +64,6 @@
   title: "Front End Developer"
   bio: "Web alanına front-end developer olarak katılmış. Kocaeli Üniversitesi'nde Bilgisayar Programclığı okuyan biriyim. Şuan Rafineri bünyesinde çalışmaktayım."
   thumbnailUrl: NesrinKalender.jpg
-  rockstar: true
   social: 
     - {name: "twitter", link: "https://twitter.com/nesrinkalender"}
     - {name: "facebook", link: "https://www.facebook.com/kalendernesrin"}
@@ -107,6 +104,7 @@
   company: "Tardis"
   bio: "After Aydın Science High School, she graduated from Istanbul Technical University Computer Engineering, with a double major in Control Engineering. At the beginning of her software engineering career, she developed desktop and backend applications and gained experience in various domains. In 2011, she dived into the mobile world. She started working as an iOS developer at Pozitron and then continued to work as the iOS team leader of the company. She mostly worked on mobile apps for banks, pharmaceutical companies, retail and entertainment sectors in Turkey, together with eBay's retail projects in US, Brasil and Russia. Since 2013, she is a managing partner and iOS developer at Giysicini - a social fashion platform. In 2015, she founded her own company Tardis and she's into new ventures."
   thumbnailUrl: "AsliSabanci.jpg"
+  rockstar: true
 - 
   id: 10
   name: "Hatice Yeşim"
@@ -159,6 +157,7 @@
   company: "Armut.com"
   bio: "After receiving a bachelor's degree in Civil Engineering at Boğaziçi University, Başak  received an MBA from Koç University and MSIMC degree from Loyola University Chicago. After a brand management career mostly in the United States with Revlon, Nielsen, Coca Cola and Tat, she quit her corporate career to found armut.com in 2011. Armut has been ranked in Wired UK's 100 Hottest Startups of Europe 2014 list, and selected as an Endeavor startup in New York in August 2014. Başak has recently been awarded as the Most Promising Female Entrepreneur of Turkey 2014 (by Garanti, Kadiger, Capital & Ekonomist), and Entrepreneur of the Year by ODTÜ GGT."
   thumbnailUrl: "BasakTaspinarDegim.jpg"
+  rockstar: true
 - 
   id: 16
   name: "Armağan"
@@ -199,6 +198,7 @@
   company: "VNGRS"
   bio: "I'm the Agile Coach of VNGRS, coaching for 4 different development teams. I'm responsible to coaching both team and training Product Owner, removing any kind of impediments throughout development process and increase the productivity of the team. I'm process facilitator, being sure that the team apply agile rules. I'm mentoring Istanbul Team, Agile Sparrow Project of Scrum Turkey."
   thumbnailUrl: "BirgeElifBasik.jpg"
+  rockstar: true
 - 
   id: 21
   name: "Timea"
@@ -282,6 +282,7 @@
   company: "Artistanbul PR"
   bio: "1992 Ankara doğumlu. 2006'da Maya Koleji'nden mezun olduktan sonra Ankara Atatürk Anadolu Lisesi'ne girdi. Ardından, 2014 yılında Bilkent Üniversitesi Bilgisayar Mühendisliği'nden mezun oldu. İş hayatında mobil uygulamalar konusunda uzmanlaşmaya karar verince, Artistanbul'da Turkcell'in mobil teknoloji projesi Geleceği Yazanlar'da topluluk yöneticisi ve teknik danışman olarak işe girdi. Halen İstanbul'da bu görevi sürdüyor."
   thumbnailUrl: "CansuUludag.jpg"
+  rockstar: true
 - 
   id: 30
   name: "Kseniia"

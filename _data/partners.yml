@@ -6,6 +6,7 @@
   group: "Gümüş sponsor"
   elements: 
     - {name: "BKM", description: "BKM", link: "http://www.bkm.com.tr/", imageUrl: "bkm.jpg"}
+    - {name: "Monitise", description: "Monitise", link: "http://www.monitise.com/", imageUrl: "Monitise.jpg"}
 -
   group: "Sponsorlar"
   elements:

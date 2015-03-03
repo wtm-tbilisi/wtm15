@@ -43,7 +43,7 @@
   surname: "Tarhan"
   company: "M-Gen Dijital"
   title: "En İyi Gelecek Tasarımcısı & İş Avatarı"
-  bio: ""
+  bio: "Ufuk Tarhan, ODTÜ Ekonomi Mezunudur. 1982-2005 arasında çoğunluğu teknoloji olmak üzere çeşitli sektörlerde üst düzey yöneticilik yapmıştır. 2006 da M-GEN Gelecek Planlama Merkezi’ni, 2011’de M-GEN Dijital Ajansı kurmuştur. 2002 Yılı-Dünya Gazetesi-Bilişim Sektörünün En Başarılı İş Kadını Ödülünün sahibi olan Tarhan; 2009-2011 yıllarında Fütüristler Derneği Başkanlığı yapmıştır. 1 Mart Gelecek Günü’nün yaratıcısı ve küratörüdür.  Halen Türkiye’nin ilk ve tek Fütürist kadın konuşmacısıdır. Gelecekçi, sürdürülebilir iş modelleri, dijital iş stratejileri tasarlar ve uygular, İş Avatarlığı yapar. Blogger, Harvard Business Review Turkiye, Platin Dergisi, Hürriyet Eğitim, Yenibiris.com, Martı Dijital Dergisi yazarıdır. Twitter’da mutlaka takip edilmesi gereken 25 Türk arasında gösterilmektedir. ODTÜ'de ve çeşitli Üniversitelerde Future Studies dersleri verir. World Future Society, Association of Professional FuturistsÜyesi, The Futurist Türkiye Dergisinin yayın haklarını Türkiye’ye getiren kişidir."
   thumbnailUrl: UfukTarhan.jpg
   rockstar: true
 - 
@@ -386,6 +386,58 @@
   company: "Independant"
   bio: "I graduated from the department of Industrial Design at METU (Middle East Technical University) in Ankara in 2007 and completed a master's degree in TUDelft in the Netherlands in 2010. I work in Istanbul since 2011 where I first started with digital consulting in i-am Istanbul, then was in Denizbank and Garanti Bank's IT companies. After working with so many different teams in so many different environments and focus; I very recently became an independent experience design consultant. My current focus is startups while I still keep designing with corporate IT companies. "
   thumbnailUrl: "EsinIsik.jpg"
+- 
+  id: 42
+  name: "Funda"
+  surname: "Bayulu"
+  company: "T2 Yazılım"
+  title: "System Engineer"
+  bio: "I have graduated from Industrial Engineering at Baskent University with Masters degree in Energy Engineering Science Program. I am working as a System Engineer at T2 Yazılım A.Ş. as well as I've experience on business and technical analysis of Billing processes and System Integration managing processes of Telco domain. I am also interested in green and sustainable hybrid energy systems and leaning towards this area of expertise by starting on my PhD programme."
+  thumbnailUrl: FundaBayulu.jpg
+- 
+  id: 43
+  name: "Mine"
+  surname: "Heck"
+  company: "OlinData"
+  title: "Operations Manager"
+  bio: "Mine Heck is a location independent entrepreneur and a life long traveller from Turkey. Graduated with a degree in Political Science & International Relations and an MA degree in social sciences, she speaks fluent Mandarin, Turkish, English and a tad of Dutch. She has a background in the international corporate world in Turkey working with big companies like Huawei. In her free time, Mine likes to travel with her son Ayden, cook, read, hike, dive, and watch old movies on the couch."
+  thumbnailUrl: MineHeck.jpg
+- 
+  id: 44
+  name: "Ayse"
+  surname: "Guvencer"
+  company: "iProspect & AMNET"
+  title: "Managing Director"
+  bio: "
+  thumbnailUrl: AyseGuvencer.jpg
+- 
+  id: 45
+  name: "Elif Deniz"
+  surname: "Ozdemir"
+  company: "ThoughtWorks"
+  title: "Lead Consultant"
+  bio: "Elif is a Lead Consultant at ThoughtWorks with over 12 years of software delivery, product development and consulting experience. She has worked across a range of sectors as a business analyst, project manager and agile coach as part of high-performing, self-organising teams to deliver web and mobile applications. She has trained client teams in Agile analysis and adaptive planning methods and helped businesses realise value through effective alignment of technology and business teams."
+  thumbnailUrl: ElifDenizOzdemir.jpg
+- 
+  id: 46
+  name: "Nilgün"
+  surname: "Bektas"
+  company: "Google"
+  title: "Sektör Yöneticisi"
+  bio: "Marmara Üniversitesi İletişim Fakültesini bitirdikten sonra reklamın hem kreatif hem müşteri ilişkileri ve satış tarafında deneyim kazandıktan sonra Google'da hesap yönetisi olarak çalışmaya başladı. 8 yıl Google İrlanda AdWords Ekibinde görev alan Nilgün, son bir yıldır da İstanbul ofisinde Sektör Yöneticisi olarak görev yapmaktadır."
+  thumbnailUrl: NilgunBektas.jpg
+  ribbon:
+        - {abbr: "Google", title: "Googler", url: "https://google.com"}
+- 
+  id: 47
+  name: "Özlem"
+  surname: "Geyik"
+  company: "Google"
+  title: "New Business Manager, DoubleClick BidManager"
+  bio: ""
+  thumbnailUrl: OzlemGeyik.jpg
+  ribbon:
+        - {abbr: "Google", title: "Googler", url: "https://google.com"}
 
 # - 
 #   id: 0
@@ -393,11 +445,8 @@
 #   surname: ""
 #   company: ""
 #   title: ""
-# bio: "#   bio: """
+#   bio: ""
 #   thumbnailUrl: .jpg
-#   social: 
-#     - {name: "google-plus", link: ""}
-
 
 # Nino Nanitashvili 
 # Roman

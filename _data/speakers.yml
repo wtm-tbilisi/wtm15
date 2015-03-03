@@ -323,14 +323,6 @@
     - {name: "google-plus", link: "https://google.com/+MarinaZhygadlo"}
     - {name: "facebook", link: "https://www.facebook.com/marina.zhygadlo"}
 - 
-  id: 33
-  name: "Meryem"
-  surname: "Ipek"
-  title: "Sosyoloji Bölümü Öğrencisi"
-  company: "Marmara Üniversitesi"
-  bio: "Lise eğitimimi Trabzon Yomra Fen Lisesinde aldım, akademik eğitim için ise farklı bir alana yönelip Marmara Üniversitesinin Sosyoloji bölümüne geldim, henüz 1.sınıf öğrencisiyim. Edebiyat ve fotoğrafçılık ile ilgileniyorum. Programa iş hayatında kadınların konumunu, yaşadıkları zorlukları gözlemleyebilmek için katılmayı istiyorum."
-  thumbnailUrl: "MeryemIpek.jpg"
-- 
   id: 41
   name: "Çiğdem"
   surname: "Carino"

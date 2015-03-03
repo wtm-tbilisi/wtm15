@@ -195,12 +195,6 @@
   language: en
   speakers: [32]
 - 
-  id: 030
-  title: "Being a women at IT"
-  description: " "
-  language: tr
-  speakers: [33]
-- 
   id: 031
   title: "Dijitalleşme ve Dijital Bankacılık, Core Banking sistemlerde yeni teknolojik altyapılara geçiş, Mobil CRM"
   description: "- Dijitalleşme ve Dijital Bankacılık , Hülya Eseroğlu<br>Dijitalleşme ve Dijital Dönüşüm nedir, neden gereklidir?<br>Dijitalleşme Bankacılık Sektörünü nasıl etkiliyor?<br>Dijital Bankacılıkta yeni fırsatlar nelerdir?<br><br>'Core Banking' sistemlerde  yeni teknolojik altyapılara geçiş, Yeşim Kurtuluş<br>Bankalar rekabette öne çıkmak için, ürünlerini kısa sürede(time-to-market) ve düşük maliyetlerle  müşterilerine sunmaya ihtiyaç duyarlar. Bu da mainframe  üzerindeki mevcut 'Core Banking' uygulamaların modernleştirilmesi projelerini doğurur.  Sunumda Akbank dönüşüm projelerinden örnekler verilecektir.<br><br>Mobil CRM, Nergis Yılmaz<br>Mobil CRM, Bankaların Mobil Kullanıcılar İçin CRM Stratejileri "

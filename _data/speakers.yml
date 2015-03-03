@@ -47,6 +47,31 @@
   thumbnailUrl: UfukTarhan.jpg
   rockstar: true
 - 
+  id: 30
+  name: "Kseniia"
+  surname: "Shumelchyk"
+  title: "Software developer"
+  company: "SoftServe"
+  bio: "Kseniia is working as software developer at SoftServe as well she has an experience of working on open-source project during Google Summer of Code. Kseniia is leading Women Techmakers Ukraine and GDG Dnipropetrovsk for two years. She was a speaker at TechTalk with global Women Techmakers community in 2013. Kseniia is a big fan of development for cutting edge technologies and devices like Google Glass, Android Wear, Android TV, also she is creator of Women Techmakers Android app. "
+  thumbnailUrl: "KseniiaShumelchyk.jpg"
+  ribbon:
+    - {abbr: "GDG", title: "Women Techmakers Ukraine", url: "https://developers.google.com/groups/chapter/116033068768596939209/"}
+  social: 
+    - {name: "site", link: "http://dnipro.gdg.org.ua/"}
+    - {name: "google-plus", link: "https://plus.google.com/u/0/+KseniiaShumelchyk"}
+    - {name: "linkedin", link: "https://www.linkedin.com/pub/kseniia-shumelchyk/49/26/935"}
+- 
+  id: 32
+  name: "Maryna"
+  surname: "Zhygadlo"
+  title: "Software developer"
+  company: "Ciklum Ukraine"
+  bio: "Maryna works as a software developer at Ciklum in Kiev. At the current moment she is working in search team of one of the largest Swiss auctions Ricardo.ch. Maryna has a rich experience in designing, developing and maintaining complex distributed applications. Maryna's strong sides in programming are in .Net technology and Apache Solr search engine. Under her responsibility is making search relevant and fast as possible for buyers. Maryna is a first recipient of Google Anita Borg Scholarship 2011 in Ukraine. Since this May 2014 she is Committee Planning Member of  Anita Borg Scholarship Alumni community in EMEA region, the main aim of it is to increase the ratio of women in computer science globally."
+  thumbnailUrl: "MarynaZhygadlo.jpg"
+  social: 
+    - {name: "google-plus", link: "https://google.com/+MarinaZhygadlo"}
+    - {name: "facebook", link: "https://www.facebook.com/marina.zhygadlo"}
+- 
   id: 3
   name: "Gulustan"
   surname: "Dogan"
@@ -89,6 +114,50 @@
   bio: ""
   thumbnailUrl: "IkramElKhadji.jpg"
 - 
+  id: 43
+  name: "Mine"
+  surname: "Heck"
+  company: "OlinData"
+  title: "Operations Manager"
+  bio: "Mine Heck is a location independent entrepreneur and a life long traveller from Turkey. Graduated with a degree in Political Science & International Relations and an MA degree in social sciences, she speaks fluent Mandarin, Turkish, English and a tad of Dutch. She has a background in the international corporate world in Turkey working with big companies like Huawei. In her free time, Mine likes to travel with her son Ayden, cook, read, hike, dive, and watch old movies on the couch."
+  thumbnailUrl: MineHeck.jpg
+- 
+  id: 44
+  name: "Ayse"
+  surname: "Guvencer"
+  company: "iProspect & AMNET"
+  title: "Managing Director"
+  bio: ""
+  thumbnailUrl: AyseGuvencer.jpg
+- 
+  id: 45
+  name: "Elif Deniz"
+  surname: "Ozdemir"
+  company: "ThoughtWorks"
+  title: "Lead Consultant"
+  bio: "Elif is a Lead Consultant at ThoughtWorks with over 12 years of software delivery, product development and consulting experience. She has worked across a range of sectors as a business analyst, project manager and agile coach as part of high-performing, self-organising teams to deliver web and mobile applications. She has trained client teams in Agile analysis and adaptive planning methods and helped businesses realise value through effective alignment of technology and business teams."
+  thumbnailUrl: ElifDenizOzdemir.jpg
+- 
+  id: 46
+  name: "Nilgün"
+  surname: "Bektas"
+  company: "Google"
+  title: "Sektör Yöneticisi"
+  bio: "Marmara Üniversitesi İletişim Fakültesini bitirdikten sonra reklamın hem kreatif hem müşteri ilişkileri ve satış tarafında deneyim kazandıktan sonra Google'da hesap yönetisi olarak çalışmaya başladı. 8 yıl Google İrlanda AdWords Ekibinde görev alan Nilgün, son bir yıldır da İstanbul ofisinde Sektör Yöneticisi olarak görev yapmaktadır."
+  thumbnailUrl: NilgunBektas.jpg
+  ribbon:
+        - {abbr: "Google", title: "Googler", url: "https://google.com"}
+- 
+  id: 47
+  name: "Özlem"
+  surname: "Geyik"
+  company: "Google"
+  title: "New Business Manager, DoubleClick BidManager"
+  bio: ""
+  thumbnailUrl: OzlemGeyik.jpg
+  ribbon:
+        - {abbr: "Google", title: "Googler", url: "https://google.com"}
+- 
   id: 8
   name: "Nazlı"
   surname: "İpek"
@@ -104,6 +173,24 @@
   company: "Tardis"
   bio: "After Aydın Science High School, she graduated from Istanbul Technical University Computer Engineering, with a double major in Control Engineering. At the beginning of her software engineering career, she developed desktop and backend applications and gained experience in various domains. In 2011, she dived into the mobile world. She started working as an iOS developer at Pozitron and then continued to work as the iOS team leader of the company. She mostly worked on mobile apps for banks, pharmaceutical companies, retail and entertainment sectors in Turkey, together with eBay's retail projects in US, Brasil and Russia. Since 2013, she is a managing partner and iOS developer at Giysicini - a social fashion platform. In 2015, she founded her own company Tardis and she's into new ventures."
   thumbnailUrl: "AsliSabanci.jpg"
+  rockstar: true
+- 
+  id: 15
+  name: "Başak"
+  surname: "Taşpınar Değim"
+  title: "Founder"
+  company: "Armut.com"
+  bio: "After receiving a bachelor's degree in Civil Engineering at Boğaziçi University, Başak  received an MBA from Koç University and MSIMC degree from Loyola University Chicago. After a brand management career mostly in the United States with Revlon, Nielsen, Coca Cola and Tat, she quit her corporate career to found armut.com in 2011. Armut has been ranked in Wired UK's 100 Hottest Startups of Europe 2014 list, and selected as an Endeavor startup in New York in August 2014. Başak has recently been awarded as the Most Promising Female Entrepreneur of Turkey 2014 (by Garanti, Kadiger, Capital & Ekonomist), and Entrepreneur of the Year by ODTÜ GGT."
+  thumbnailUrl: "BasakTaspinarDegim.jpg"
+  rockstar: true
+- 
+  id: 20
+  name: "Birge Elif"
+  surname: "Basık"
+  title: "Agile Coach"
+  company: "VNGRS"
+  bio: "I'm the Agile Coach of VNGRS, coaching for 4 different development teams. I'm responsible to coaching both team and training Product Owner, removing any kind of impediments throughout development process and increase the productivity of the team. I'm process facilitator, being sure that the team apply agile rules. I'm mentoring Istanbul Team, Agile Sparrow Project of Scrum Turkey."
+  thumbnailUrl: "BirgeElifBasik.jpg"
   rockstar: true
 - 
   id: 10
@@ -150,15 +237,6 @@
 #   bio: ""
 #   thumbnailUrl: "HulyaKaraerkekKahveci.jpg"
 - 
-  id: 15
-  name: "Başak"
-  surname: "Taşpınar Değim"
-  title: "Founder"
-  company: "Armut.com"
-  bio: "After receiving a bachelor's degree in Civil Engineering at Boğaziçi University, Başak  received an MBA from Koç University and MSIMC degree from Loyola University Chicago. After a brand management career mostly in the United States with Revlon, Nielsen, Coca Cola and Tat, she quit her corporate career to found armut.com in 2011. Armut has been ranked in Wired UK's 100 Hottest Startups of Europe 2014 list, and selected as an Endeavor startup in New York in August 2014. Başak has recently been awarded as the Most Promising Female Entrepreneur of Turkey 2014 (by Garanti, Kadiger, Capital & Ekonomist), and Entrepreneur of the Year by ODTÜ GGT."
-  thumbnailUrl: "BasakTaspinarDegim.jpg"
-  rockstar: true
-- 
   id: 16
   name: "Armağan"
   surname: "Ersöz"
@@ -190,15 +268,6 @@
   company: "Mobile Action"
   bio: "Well rounded,driven & hands-on professional passionate about mobile app marketing ~ app install business. Had an amazing chance to work for leading tech companies and fast-paced startups in the early stages of my career. I love to interpret data to optimize solutions for clients in agile environments. I enjoy consulting about App Store Optimization and Smart Ad Spending for many of the largest app developers and ad agencies.My selected clients are StubHub,TuneIn, NBC ,Any.do ,FitStar ,Ride Scout, Tubi TV ,Slice and Tango. By joining this event,I'd be more than happy to talk about what's recently happening in Silicon Valley's app ecosystem and share real experiences with young Techmakers."
   thumbnailUrl: "MirayAlanlar.jpg"
-- 
-  id: 20
-  name: "Birge Elif"
-  surname: "Basık"
-  title: "Agile Coach"
-  company: "VNGRS"
-  bio: "I'm the Agile Coach of VNGRS, coaching for 4 different development teams. I'm responsible to coaching both team and training Product Owner, removing any kind of impediments throughout development process and increase the productivity of the team. I'm process facilitator, being sure that the team apply agile rules. I'm mentoring Istanbul Team, Agile Sparrow Project of Scrum Turkey."
-  thumbnailUrl: "BirgeElifBasik.jpg"
-  rockstar: true
 - 
   id: 21
   name: "Timea"
@@ -286,20 +355,6 @@
     - {name: "linkedin", link: "https://tr.linkedin.com/pub/cansu-uluda%C4%9F/36/7b5/378"}
     - {name: "twitter", link: "https://twitter.com/cansucaso"}
 - 
-  id: 30
-  name: "Kseniia"
-  surname: "Shumelchyk"
-  title: "Software developer"
-  company: "SoftServe"
-  bio: "Kseniia is working as software developer at SoftServe as well she has an experience of working on open-source project during Google Summer of Code. Kseniia is leading Women Techmakers Ukraine and GDG Dnipropetrovsk for two years. She was a speaker at TechTalk with global Women Techmakers community in 2013. Kseniia is a big fan of development for cutting edge technologies and devices like Google Glass, Android Wear, Android TV, also she is creator of Women Techmakers Android app. "
-  thumbnailUrl: "KseniiaShumelchyk.jpg"
-  ribbon:
-    - {abbr: "GDG", title: "Women Techmakers Ukraine", url: "https://developers.google.com/groups/chapter/116033068768596939209/"}
-  social: 
-    - {name: "site", link: "http://dnipro.gdg.org.ua/"}
-    - {name: "google-plus", link: "https://plus.google.com/u/0/+KseniiaShumelchyk"}
-    - {name: "linkedin", link: "https://www.linkedin.com/pub/kseniia-shumelchyk/49/26/935"}
-- 
   id: 31
   name: "Özge"
   surname: "Özmen"
@@ -311,17 +366,6 @@
     - {name: "twitter", link: "https://twitter.com/Ozgeeozmen"}
     - {name: "facebook", link: "https://www.facebook.com/OzgeOzmeen"}
     - {name: "linkedin", link: "https://tr.linkedin.com/in/ozgeozmen/tr"}
-- 
-  id: 32
-  name: "Maryna"
-  surname: "Zhygadlo"
-  title: "Software developer"
-  company: "Ciklum Ukraine"
-  bio: "Maryna works as a software developer at Ciklum in Kiev. At the current moment she is working in search team of one of the largest Swiss auctions Ricardo.ch. Maryna has a rich experience in designing, developing and maintaining complex distributed applications. Maryna's strong sides in programming are in .Net technology and Apache Solr search engine. Under her responsibility is making search relevant and fast as possible for buyers. Maryna is a first recipient of Google Anita Borg Scholarship 2011 in Ukraine. Since this May 2014 she is Committee Planning Member of  Anita Borg Scholarship Alumni community in EMEA region, the main aim of it is to increase the ratio of women in computer science globally."
-  thumbnailUrl: "MarynaZhygadlo.jpg"
-  social: 
-    - {name: "google-plus", link: "https://google.com/+MarinaZhygadlo"}
-    - {name: "facebook", link: "https://www.facebook.com/marina.zhygadlo"}
 - 
   id: 41
   name: "Çiğdem"
@@ -394,50 +438,6 @@
   title: "System Engineer"
   bio: "I have graduated from Industrial Engineering at Baskent University with Masters degree in Energy Engineering Science Program. I am working as a System Engineer at T2 Yazılım A.Ş. as well as I've experience on business and technical analysis of Billing processes and System Integration managing processes of Telco domain. I am also interested in green and sustainable hybrid energy systems and leaning towards this area of expertise by starting on my PhD programme."
   thumbnailUrl: FundaBayulu.jpg
-- 
-  id: 43
-  name: "Mine"
-  surname: "Heck"
-  company: "OlinData"
-  title: "Operations Manager"
-  bio: "Mine Heck is a location independent entrepreneur and a life long traveller from Turkey. Graduated with a degree in Political Science & International Relations and an MA degree in social sciences, she speaks fluent Mandarin, Turkish, English and a tad of Dutch. She has a background in the international corporate world in Turkey working with big companies like Huawei. In her free time, Mine likes to travel with her son Ayden, cook, read, hike, dive, and watch old movies on the couch."
-  thumbnailUrl: MineHeck.jpg
-- 
-  id: 44
-  name: "Ayse"
-  surname: "Guvencer"
-  company: "iProspect & AMNET"
-  title: "Managing Director"
-  bio: ""
-  thumbnailUrl: AyseGuvencer.jpg
-- 
-  id: 45
-  name: "Elif Deniz"
-  surname: "Ozdemir"
-  company: "ThoughtWorks"
-  title: "Lead Consultant"
-  bio: "Elif is a Lead Consultant at ThoughtWorks with over 12 years of software delivery, product development and consulting experience. She has worked across a range of sectors as a business analyst, project manager and agile coach as part of high-performing, self-organising teams to deliver web and mobile applications. She has trained client teams in Agile analysis and adaptive planning methods and helped businesses realise value through effective alignment of technology and business teams."
-  thumbnailUrl: ElifDenizOzdemir.jpg
-- 
-  id: 46
-  name: "Nilgün"
-  surname: "Bektas"
-  company: "Google"
-  title: "Sektör Yöneticisi"
-  bio: "Marmara Üniversitesi İletişim Fakültesini bitirdikten sonra reklamın hem kreatif hem müşteri ilişkileri ve satış tarafında deneyim kazandıktan sonra Google'da hesap yönetisi olarak çalışmaya başladı. 8 yıl Google İrlanda AdWords Ekibinde görev alan Nilgün, son bir yıldır da İstanbul ofisinde Sektör Yöneticisi olarak görev yapmaktadır."
-  thumbnailUrl: NilgunBektas.jpg
-  ribbon:
-        - {abbr: "Google", title: "Googler", url: "https://google.com"}
-- 
-  id: 47
-  name: "Özlem"
-  surname: "Geyik"
-  company: "Google"
-  title: "New Business Manager, DoubleClick BidManager"
-  bio: ""
-  thumbnailUrl: OzlemGeyik.jpg
-  ribbon:
-        - {abbr: "Google", title: "Googler", url: "https://google.com"}
 
 # - 
 #   id: 0

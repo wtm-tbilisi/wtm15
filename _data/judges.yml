@@ -30,12 +30,18 @@
   thumbnailUrl: DilekDayinlarli.jpg
 - 
   id: 5
+  name: "Elif"
+  surname: "Çoşkunkan"
+  company: "Etohum"
+  thumbnailUrl: ElifCoskunkan.jpg
+- 
+  id: 6
   name: "Hikmet"
   surname: "Ozgozen"
   company: "BIC Angel Investments"
   thumbnailUrl: HikmetOzgozen.jpg
 - 
-  id: 6
+  id: 7
   name: "Serkan"
   surname: "Yazıcıoğlu"
   company: "CMO, BKM"

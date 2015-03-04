@@ -312,22 +312,22 @@
   company: "Monitise"
   bio: "Dilan is a backend software developer at Monitise MEA. She graduated from Grinnell College in December 2013 with a Bachelor’s in Computer Science. She worked as a Summer Technology Analyst at Goldman Sachs & Co. for her last two summers of college.  She has significant research experience with robots in computer science education including a talk at ACM-SIGCSE and ITICSE Sweden. She enjoys taking an active role to increase the number of women who stay in computer science."
   thumbnailUrl: "DilanUstek.jpg"
-# - 
-#   id: 25
-#   name: "Elif T."
-#   surname: "Kuş"
-#   title: "DevOps Lead"
-#   company: "Safkan Yazılım"
-#   bio: "Elif is a Chemical Engineer, Cognitive Scientist, Software Architect and DevOps Engineer in one! Being Swiss-born she is as versatile as the famous Army Knife and has coded in a huge range of languages and databases on multiple platforms. She currently manages architecture and DevOps at Pointr, and is one the founders of the ‘Women Developers’ group and blog www.kadinyazilimci.com - promoting the role of female developers in Turkey."
-#   thumbnailUrl: "ElifKus.jpg"
-# - 
-#   id: 26
-#   name: "Yaşar"
-#   surname: "Safkan"
-#   title: "CTO"
-#   company: "Safkan Yazılım"
-#   bio: "Yasar Safkan graduated from Boğaziçi University in Istanbul with a double major in Electronic Engineering and Physics before heading to MIT for his PhD in Physics. Yasar has worked on huge variety of software solutions on multiple platforms including web and mobile at prestigious companies like Google. He is an entrepreneur at heart so loves the challenges Pointr provides and enjoys getting out in the fresh air when he can."
-#   thumbnailUrl: "YasarSafkan.jpg"
+- 
+  id: 25
+  name: "Elif T."
+  surname: "Kuş"
+  title: "DevOps Lead"
+  company: "Safkan Yazılım"
+  bio: "Elif is a Chemical Engineer, Cognitive Scientist, Software Architect and DevOps Engineer in one! Being Swiss-born she is as versatile as the famous Army Knife and has coded in a huge range of languages and databases on multiple platforms. She currently manages architecture and DevOps at Pointr, and is one the founders of the ‘Women Developers’ group and blog www.kadinyazilimci.com - promoting the role of female developers in Turkey."
+  thumbnailUrl: "ElifKus.jpg"
+- 
+  id: 26
+  name: "Yaşar"
+  surname: "Safkan"
+  title: "CTO"
+  company: "Safkan Yazılım"
+  bio: "Yasar Safkan graduated from Boğaziçi University in Istanbul with a double major in Electronic Engineering and Physics before heading to MIT for his PhD in Physics. Yasar has worked on huge variety of software solutions on multiple platforms including web and mobile at prestigious companies like Google. He is an entrepreneur at heart so loves the challenges Pointr provides and enjoys getting out in the fresh air when he can."
+  thumbnailUrl: "YasarSafkan.jpg"
 - 
   id: 27
   name: "Vildan"

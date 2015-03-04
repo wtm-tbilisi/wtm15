@@ -442,6 +442,16 @@
   title: "System Engineer"
   bio: "I have graduated from Industrial Engineering at Baskent University with Masters degree in Energy Engineering Science Program. I am working as a System Engineer at T2 Yazılım A.Ş. as well as I've experience on business and technical analysis of Billing processes and System Integration managing processes of Telco domain. I am also interested in green and sustainable hybrid energy systems and leaning towards this area of expertise by starting on my PhD programme."
   thumbnailUrl: FundaBayulu.jpg
+- 
+  id: 48
+  name: "Sevnur"
+  surname: "Malik"
+  company: "Türk Telekom"
+  title: ""
+  bio: ""
+  thumbnailUrl: SevnurMalik.jpg
+  ribbon:
+    - {abbr: "GDG", title: "Women Techmaker Istanbul", url: "https://plus.google.com/b/100514812580249787371/+GDGIstanbul/"}
 
 # - 
 #   id: 0

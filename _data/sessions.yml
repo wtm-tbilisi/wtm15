@@ -270,3 +270,9 @@
   description: "This will be a informal panel and Q&A with Googlers. The topics will include:<br><br>Women@Google introduction, Goals and Activities<br>Being women at Google, perks of Google.<br>Google's approach to gender diversification."
   language: tr
   speakers: [46,47]
+- 
+  id: 041
+  title: "Being a Woman in IT - global and local perspective from ThoughtWorks:"
+  description: "What we do in the UK to attract and retain women in the UK, how we might apply those ideas to the Turkish market. Advantages and challenges to attracting women we've encountered in the Turkish market."
+  language: en
+  speakers: [45]

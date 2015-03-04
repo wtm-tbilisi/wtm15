@@ -137,7 +137,7 @@ ticketsTitle: "Kayıt Ol"
 ticketsInfo: ""
 ticketsOffers:
  -
-  name: "Bedava Bilet"
+  name: "Ücretsiz Bilet"
   buyButtonLink: "http://wtmistanbul15.eventbrite.com"
   buyButtonText: "Kayıt Ol"
   additionalInfo: "Konferansa katılabilmek için kayıt olmalısınız."
@@ -178,7 +178,7 @@ blogCommentsEnabled: true
 discusShortName: "wtmistanbul"
 
 # Speakers List Block
-showSessions: false
+showSessions: true
 
 # Team Block
 teamBlockTitle: "Hakkımızda"

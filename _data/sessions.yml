@@ -248,4 +248,9 @@
   description: ""
   language: tr
   speakers: [6]
-  
+- 
+  id: 040
+  title: "Women@Google"
+  description: "This will be a informal panel and Q&A with Googlers. The topics will include:<br><br>Women@Google introduction, Goals and Activities<br>Being women at Google, perks of Google.<br>Google's approach to gender diversification."
+  language: tr
+  speakers: [46,47]

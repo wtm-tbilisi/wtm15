@@ -236,5 +236,16 @@
   description: "Medya dünyasında değişiklikler olmakta; ve medya da tüketiciye servis saglayabildigi surece ayakta kalacağını düşünüyorum. Bir diğer trend ise “convergence”; butun iletişim kanallarının birbiriyle kesişmesi. Artık TV izlerken elimizde cep telefonu, tablet var. Reklam gordugumuzde yansımasını search’de buluyoruz. Bizler de medyacılar olarak planlama yaparken butun ekranları ve mecraları planlamalıyız hedeflerimiz dogrultusunda; ve mesajlarımızı sequential bir sekilde vermeliyiz. Medya ekosisteminden bahsedecegim, ve bize ozel kullandığımız CCS Planner tool’umuzdan. Sonrasında da entegre ornekler göstereceğim."
   language: tr
   speakers: [44]
-
-
+- 
+  id: 038
+  title: "Game Changers for Women in Computer Science Education: Turkey as a Case Study"
+  description: "In recent years, getting more women in technology is becoming important in the US due to steady decline of women getting in the field since the 80s. In this work, we will discuss the perception of women in CS fields in Turkey using nationwide statistics, survey results and experiences. Our aim is to unite and enrich our collective understanding of how to achieve a more gender balanced population that pursue computing degrees by analyzing the delicate balance of social ingredients required for this goal. We believe discussing how game changers for women in CS are aligned in Turkey will provide tremendous insight globally with the goal to increase women involvement in STEM fields. The goal of this research is to share and learn from our global experiences, benefiting women technologist worldwide."
+  language: tr
+  speakers: [3]
+- 
+  id: 039
+  title: "Gelecek Peşimizde"
+  description: ""
+  language: tr
+  speakers: [6]
+  

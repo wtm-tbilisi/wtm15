@@ -287,15 +287,15 @@
     - {name: "twitter", link: "https://twitter.com/TimeaTurdean"}
     - {name: "github", link: "https://github.com/therealimy"}
     - {name: "site", link: "http://www.timeaturdean.com/"}
-    - {name: "linkedIn", link: "https://www.linkedin.com/profile/view?id=101003893"}
-# - 
-#   id: 22
-#   name: "Gizem"
-#   surname: "Peksari"
-#   title: "Mobile Business Development Manager"
-#   company: "TEB-BNP Paribas JV"
-#   bio: "Graduated from Middle East Technical University. Worked for Deloitte Consulting Service, after working ING Bank Mobile  Channel Department, been  transferred  to TEB Mobile Team."
-#   thumbnailUrl: "GizemPeksari.jpg"
+    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=101003893"}
+- 
+  id: 22
+  name: "Gizem"
+  surname: "Peksari"
+  title: "Mobile Business Development Manager"
+  company: "TEB-BNP Paribas JV"
+  bio: "Graduated from Middle East Technical University. Worked for Deloitte Consulting Service, after working ING Bank Mobile  Channel Department, been  transferred  to TEB Mobile Team."
+  thumbnailUrl: "GizemPeksari.jpg"
 # - 
 #   id: 23
 #   name: "Şeyma Nur"

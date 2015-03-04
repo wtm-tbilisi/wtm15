@@ -127,7 +127,7 @@
   surname: "Guvencer"
   company: "iProspect & AMNET"
   title: "Managing Director"
-  bio: ""
+  bio: "Northwestern Universitesi Ekonomi ve Politika mezunu Ayse Guvencer, kariyerine Razorfish New York’da 2003 senesine başladı. Yaklasık 12 senedir sektörde olan Ayse Guvencer, bir cok vertikalde ve performans pazarlamasını bir alanında tecrübeli. 20011 senesinde Turkiye’ye donus yaptı ve sırasıyla Digitouch SEM departmanını kurmakla görev almakla beraber, Ogilvy One’da creative görevler de üstlendikten sonra, 2012 senesinde iProspect ve AMNET Genel Mudurlugune getirildi. Analytics’den SEM’e, Conversion Optimizasyonundan ve Content yönetimine kadar tecrübesi olan Ayse Guvencer’in görev aldığı markalar arasında JP Morgan Chase, Victoria’s Secret, Astra Zeneca, Verizon Wireless, Coca-Cola, Is Bankası, Eczacıbası, Pegasus, Yemek Sepeti, adidas, Fiba Grubu, Microsft ve bir cok endüstride değikiş alanlarda hizmet veren marka bulunmakta."
   thumbnailUrl: AyseGuvencer.jpg
 - 
   id: 45
@@ -242,8 +242,12 @@
   surname: "Ersöz"
   title: "Software Engineer"
   company: "Honda Türkiye A.Ş."
-  bio: ""
+  bio: "Creating as well as developing web-based software backend systems, which includes system / database administration and software development that have challenging problems to be solved are my personal interests in my profession."
   thumbnailUrl: "ArmaganErsoz.jpg"
+  social: 
+    - {name: "twitter", link: "https://twitter.com/broccolinisoup"}
+    - {name: "site", link: "http://www.arminwonderland.net/"}
+    - {name: "linkedIn", link: "https://www.linkedin.com/in/armaganersoz"}
 - 
   id: 17
   name: "Merve"

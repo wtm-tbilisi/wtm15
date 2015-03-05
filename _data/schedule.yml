@@ -55,9 +55,9 @@
     }
 - 
   date: "2015-05-15"
-  dateReadable: "15 Mart"
+  dateReadable: "Startup Launch"
   tracks: 
-    - {title: "Startup Launch - Co-op Ofisi", color: "#03a9f4"}
+    - {title: "Co-op Ofisi", color: "#03a9f4"}
   timeslots: 
     - {
         startTime: "10:45",

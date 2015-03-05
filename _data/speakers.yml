@@ -158,14 +158,6 @@
   ribbon:
         - {abbr: "Google", title: "Googler", url: "https://google.com"}
 - 
-  id: 8
-  name: "Nazlı"
-  surname: "İpek"
-  title: "Fonksiyonel Gıda Mühendisi"
-  company: "MARET"
-  bio: "Nazlı İPEK was graduated Selçuk University Food engineering department at 2008, however still master student at Sakarya University food engineering department. Her professions are R&D at poultry and meat industry, ERP system applications at food factories (specially SAP, also Netsis and IFS), creating innovative products with traditional foods (of course make it with using technology:)).<br><br>Also she's a cofounder of limited company but her first entrepreneurship exprience failed so that's mean she gained more exprience. <br>Everyone tell success but very few people can tell failure. I think you see it, yes she's one of these people who can tell you how you'll be unsuccessful.<br>She defines herself as a functional food engineer. She believes that;<br>Think - Talk and Do it.<br><br>Nazlı İPEK, 2008 yılında Selçuk Üniversitesi gıda mühendisliği bölümünden mezun olmuştur ve halen Sakarya Üniversitesi gıda mühendisliği ana bilim dalında yüksek lisans öğrencisidir. Nazlı İPEK'in uzmanlık alanlarını belirtmek gerekirse; beyaz et ve kırmızı et sektöründeki Ar-Ge faaliyetleri, ERP sistemlerinin gıda fabrikalarına uyarlanması (başta SAP olmak üzere Netsis ve IFS), geleneksel gıdalar ile inovatif ürünler geliştirilmesi (tabii ki teknolojiyi kullanarak:)).<br><br>Aslında Nazlı İPEK'in bir limited şirket kurmuşluğu da vardır; fakat ilk girişimcilik deneyimi başarısızlık ile sonuçlanmış ve elinde, başarısızlıkların bileşkesi olarak da nitelendirebileceğimiz bir tecrübe kalmıştır.<br>Başarılı olmayı herkes anlatır; fakat çok az insan başarısızlığı anlatabilir. Sanırım cümleden anlaşılmıştır; Nazlı İPEK, nasıl başarısız olunacağını anlatabilecek insanlardan biridir.<br>Nazlı İPEK kendini fonksiyonel gıda mühendisi olarak nitelendirmektedir ve aşağıdaki öğretiye inanmaktadır;<br>Düşün - Konuş ve Yap."
-  thumbnailUrl: "NazliIpek.jpg"
-- 
   id: 9
   name: "Aslı"
   surname: "Sabancı"
@@ -429,6 +421,14 @@
   bio: "Anadolu Üniversitesi Bilgisayar Mühendisliği bölümünden 2012 yılında mezun oldum. GDG Eskişehir topluluğunda aktif olarak görev almaktayım. Aynı zamanda WTM Eskişehir topluluğunda co-organizerlar arasındayım. Android uygulama geliştirerek başladığım kariyer hayatıma, daha sonralarda iOS geliştirerek devam ediyorum. LinkedIn: http://tr.linkedin.com/in/btrkmn"
   thumbnailUrl: "BurcuTurkmen.jpg"
 - 
+  id: 8
+  name: "Nazlı"
+  surname: "İpek"
+  title: "Fonksiyonel Gıda Mühendisi"
+  company: "MARET"
+  bio: "Nazlı İPEK was graduated Selçuk University Food engineering department at 2008, however still master student at Sakarya University food engineering department. Her professions are R&D at poultry and meat industry, ERP system applications at food factories (specially SAP, also Netsis and IFS), creating innovative products with traditional foods (of course make it with using technology:)).<br><br>Also she's a cofounder of limited company but her first entrepreneurship exprience failed so that's mean she gained more exprience. <br>Everyone tell success but very few people can tell failure. I think you see it, yes she's one of these people who can tell you how you'll be unsuccessful.<br>She defines herself as a functional food engineer. She believes that;<br>Think - Talk and Do it.<br><br>Nazlı İPEK, 2008 yılında Selçuk Üniversitesi gıda mühendisliği bölümünden mezun olmuştur ve halen Sakarya Üniversitesi gıda mühendisliği ana bilim dalında yüksek lisans öğrencisidir. Nazlı İPEK'in uzmanlık alanlarını belirtmek gerekirse; beyaz et ve kırmızı et sektöründeki Ar-Ge faaliyetleri, ERP sistemlerinin gıda fabrikalarına uyarlanması (başta SAP olmak üzere Netsis ve IFS), geleneksel gıdalar ile inovatif ürünler geliştirilmesi (tabii ki teknolojiyi kullanarak:)).<br><br>Aslında Nazlı İPEK'in bir limited şirket kurmuşluğu da vardır; fakat ilk girişimcilik deneyimi başarısızlık ile sonuçlanmış ve elinde, başarısızlıkların bileşkesi olarak da nitelendirebileceğimiz bir tecrübe kalmıştır.<br>Başarılı olmayı herkes anlatır; fakat çok az insan başarısızlığı anlatabilir. Sanırım cümleden anlaşılmıştır; Nazlı İPEK, nasıl başarısız olunacağını anlatabilecek insanlardan biridir.<br>Nazlı İPEK kendini fonksiyonel gıda mühendisi olarak nitelendirmektedir ve aşağıdaki öğretiye inanmaktadır;<br>Düşün - Konuş ve Yap."
+  thumbnailUrl: "NazliIpek.jpg"
+- 
   id: 37
   name: "Nihan"
   surname: "Guneli"
@@ -464,7 +464,7 @@
   id: 50
   name: "Ülker Özgen"
   surname: "Çitçi"
-  company: "Trkcell"
+  company: "Turkcell"
   title: ""
   bio: ""
   thumbnailUrl: UlkerCiftci.jpg

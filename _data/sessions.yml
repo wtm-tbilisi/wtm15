@@ -254,14 +254,14 @@
   speakers: [45]
 - 
   id: 042
-  title: "Monitise Session"
-  description: ""
+  title: "Nesnelerin Interneti – M2M ve IoT nedir, ne degildir?"
+  description: "Kimilerinin  bir sonraki endüstriyel devrim olarak gördüğü hatta internetten daha büyük bir etki yaratması beklenen Nesnelerin Interneti ve M2M’in ne olduğunu, ne gibi yapı taşların birleşmesinden oluştuğunu, hangi endüstrilerde ne gibi alanlarda kullanıldığını tartışacağız."
   language: tr
   speakers: [49]
 - 
   id: 043
-  title: "Monitise Session 2"
-  description: ""
+  title: "How Mobile Marketing Can Drive Your Product Roadmap"
+  description: "Do you want to learn more about mobile marketing? This session will explore the key levers to get your technology noticed and your app downloaded. From there, we’ll look at what are the metrics that *really* matter and tell you about consumer engagement – and lastly, how you can use this feedback to shape and prioritize your product development."
   language: tr
   speakers: [2]
 - 

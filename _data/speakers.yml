@@ -474,10 +474,10 @@
   id: 50
   name: "Ülker Özgen"
   surname: "Çitçi"
-  company: "Turkcell"
-  title: ""
-  bio: ""
-  thumbnailUrl: UlkerCiftci.jpg
+  company: "Turkcell Teknoloji"
+  title: "Expert Developer"
+  bio: "Ülker is an expert architect at Turkey's leading GSM Company, Turkcell. For the last year she has worked on developing 'Mobile Analytics' platform for mobile applications. She has 12 years of development experience in Java. She participated in technical leading and development of 'Payment Systems' project of a bank for 2 years. She has experience on linux clustering systems."
+  thumbnailUrl: UlkerOzgenCiftci.jpg
 - 
   id: 51
   name: "Ikram"

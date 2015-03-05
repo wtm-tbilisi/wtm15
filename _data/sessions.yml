@@ -266,8 +266,8 @@
   speakers: [2]
 - 
   id: 044
-  title: "Turkcell Session"
-  description: ""
+  title: "Turkcell Curio --  Real Time Mobile Marketing on Apache Kafka, Storm & Cassandra"
+  description: "In this session, hear how a leading telecom operator integrates complementary and powerful real-time big data processing technologies such as Apache Kafka, Apache Storm and Datastax Cassandra to build a distributed, fast, fault tolerant and highly scalable mobile marketing platform. Telecom operators as mobile app marketers can better target and offer individualized personalization by collecting customer behavior data and segmenting customers according to behavior. Currently there are 50 mobile applications in Turkcell's Mobile App. Store, and for now, these applications get almost 100 million hits per day. As more mobile applications and more users become involved in the Turkcell Curio, the data set coming from customer behaviours is growing each day. The main challenge facing mobile marketers is the difficulty of real time big data processing which requires low latency, high availability and high scalability. The second requirement, processing a user's action in an 'exactly once semantics' for the sake of reliability, is making the challenge even bigger. Turkcell Curio, its name inspired from Mars Rover named Curiosity, is developed within Turkcell to solve these challenges. Curio is now in production, giving Turkcell's Mobile Marketers precious real-time statistics, reports and even chance to interact the online customers via another platform, Turkcell's Push Notifications Platform."
   language: tr
   speakers: [50]
 - 

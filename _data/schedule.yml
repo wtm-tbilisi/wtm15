@@ -6,7 +6,6 @@
     - {title: "A 101", color: "#03a9f4"}
     - {title: "A 102", color: "#e91e63"}
     - {title: "B Cep", color: "#e91e63"}
-    - {title: "Sandbox Alanı", color: "#e91e63"}
   timeslots:
     - {
     	startTime: "09:30",
@@ -16,12 +15,12 @@
     - {
         startTime: "10:45",
         endTime: "11:25",
-        sessionIds: [039,999,011,005,014]
+        sessionIds: [039,999,011,005]
     }
     - {
         startTime: "11:40",
         endTime: "12:20",
-        sessionIds: [999,037,017,023,012]
+        sessionIds: [999,037,017,023]
     }
     - {
         startTime: "12:20",
@@ -31,27 +30,73 @@
     - {
         startTime: "13:20",
         endTime: "14:00",
-        sessionIds: [040,041,015,031,042]
+        sessionIds: [040,041,015,031]
     }
     - {
         startTime: "14:15",
         endTime: "14:55",
-        sessionIds: [043,027,044,038,026]
+        sessionIds: [043,027,044,038]
     }
     - {
         startTime: "15:10",
         endTime: "15:50",
-        sessionIds: [018,999,006,016,032]
+        sessionIds: [018,999,006,016]
     }
     - {
         startTime: "16:05",
         endTime: "16:45",
-        sessionIds: [045,029,003,019,035]
+        sessionIds: [045,029,003,019]
     }
     - {
         startTime: "17:00",
         endTime: "17:40",
-        sessionIds: [004,007,020,999,036]
+        sessionIds: [004,007,020,999]
+    }
+- 
+  date: "2015-05-15"
+  dateReadable: "Sanbox"
+  tracks: 
+    - {title: "Sandbox Alanı", color: "#90be4e"}
+  timeslots:
+    - {
+        startTime: "10:45",
+        endTime: "11:25",
+        sessionIds: [014]
+    }
+    - {
+        startTime: "11:40",
+        endTime: "12:20",
+        sessionIds: [012]
+    }
+    - {
+        startTime: "12:20",
+        endTime: "13:20",
+        sessionIds: [997]
+    }
+    - {
+        startTime: "13:20",
+        endTime: "14:00",
+        sessionIds: [042]
+    }
+    - {
+        startTime: "14:15",
+        endTime: "14:55",
+        sessionIds: [026]
+    }
+    - {
+        startTime: "15:10",
+        endTime: "15:50",
+        sessionIds: [032]
+    }
+    - {
+        startTime: "16:05",
+        endTime: "16:45",
+        sessionIds: [035]
+    }
+    - {
+        startTime: "17:00",
+        endTime: "17:40",
+        sessionIds: [036]
     }
 - 
   date: "2015-05-15"

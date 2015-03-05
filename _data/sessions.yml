@@ -23,6 +23,7 @@
 -
   id: 994
   title: "Networking"
+  description: " Girişimciler ve yatırımcılar sunum değerlendirmelerinin ardından informal şekile sohbet edip, geri bildirim alabilecekler. Aynı zamanda farklı girişimciler de birbirleri ile tanışarak fikir alış verişinde bulunacak."
   service: true
 -
   id: 993
@@ -30,11 +31,15 @@
   service: true
 -
   id: 992
-  title: "Asansör Konuşması Eğitimi"
+  title: "Startup Sunumu Eğitimi"
+  description: "Girişimciler için iş fikirlerini iki dakikada anlatmak çok önemli. Girişim dünyasında buna ‘’asansör konuşması’’ deniyor. Girişimciler ve girişimci adayları bir saatlik bir workshop ile asansör konuşması nasıl yapılır hakkında fikri sahibi olup, örnek ve deneyimleri dinleyecekler."
+  language: tr
   speakers: [15,48]
 -
   id: 991
   title: "Asansör Konuşmaları"
+  description: "Girişimciler 8 kişilik yatırımcılardan oluşan jurimizin karşısında maksimum 2dk. içerisinde iş fikirlerini sunacaklar."
+  language: tr
   service: true
 - 
   id: 001

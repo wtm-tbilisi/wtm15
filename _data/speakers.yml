@@ -228,14 +228,14 @@
 #   company: "İngbank"
 #   bio: ""
 #   thumbnailUrl: "GamzeKaraagacliGul.jpg"
-# - 
-#   id: 14
-#   name: "Hülya"
-#   surname: "Karaerkek Kahveci"
-#   title: "CEO"
-#   company: "ARDIC AR-GE"
-#   bio: ""
-#   thumbnailUrl: "HulyaKaraerkekKahveci.jpg"
+- 
+  id: 14
+  name: "Hülya"
+  surname: "Karaerkek Kahveci"
+  title: "CEO"
+  company: "ARDIC AR-GE"
+  bio: ""
+  thumbnailUrl: "HulyaKaraerkekKahveci.jpg"
 - 
   id: 16
   name: "Armağan"
@@ -363,7 +363,7 @@
   name: "Özge"
   surname: "Özmen"
   title: "Social Entrepreneurs"
-  company: ""
+  company: "Gazi University"
   bio: "I was born in Ankara on March 5,1991. I'm currently studying econometrics in Gazi University and i'm a senior. I'm actively working as a volunteer on various ngos. I also have international experience as i worked in Italy for 6 months with children in an EVS project. I am currently one of the board member in Social entrepreneurs leader academy (SOGLA) ı also am the founder of Things Ankara I am the Turkey coordinator and Ankara manager CoderDojo. Also a member of Makers Turkey. I organizer and give social entrepreneurship and social innovation trainings,seminars etc. My work focused on technology,entrepreneurship and social inslusion topics."
   thumbnailUrl: "OzgeOzmen.jpg"
   social: 
@@ -447,8 +447,8 @@
   name: "Sevnur"
   surname: "Malik"
   company: "Türk Telekom"
-  title: ""
-  bio: ""
+  title: "Dijital Strateji ve İş Geliştirme Uzmanı"
+  bio: "Boğaziçi Üniersitesi İşletme bölümünden 2010 yılında mezun oldu. İş hayatına Unilever pazarlama departmanında başladı, ardından Useful İş Geliştirme ajansında proje yönetimi ve pazarlama yöneticiliği yaptı, şu anda Türk Telekom Grubu için Dijital Strateji ve İş Geliştirme departmanında big data ve reklam konularında çalışıyor. Ajansda çalışırken yazılımcılardan kod öğrenmeye başladı sonra railsgirls gibi pek çok etkinliğe katıldı. 2014'de Amerika'da Stanford Üniversitesi girişimcilik yaz programını bitirdi. Çay ile ilgili her şeyi içeren caycek.com un kurucu ortağı, GDG'de Women Techmakers'ın organizatörlerinden."
   thumbnailUrl: SevnurMalik.jpg
   ribbon:
     - {abbr: "GDG", title: "Women Techmaker Istanbul", url: "https://plus.google.com/b/100514812580249787371/+GDGIstanbul/"}

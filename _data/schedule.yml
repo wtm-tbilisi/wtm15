@@ -57,17 +57,22 @@
   date: "2015-05-15"
   dateReadable: "15 Mart"
   tracks: 
-    - {title: "Startup Launc - Co-op Ofisi", color: "#03a9f4"}
+    - {title: "Startup Launch - Co-op Ofisi", color: "#03a9f4"}
   timeslots: 
     - {
         startTime: "10:45",
+        endTime: "11:05",
+        sessionIds: [009]
+    }
+    - {
+        startTime: "11:05",
         endTime: "11:25",
-        sessionIds: []
+        sessionIds: [028]
     }
     - {
         startTime: "11:40",
         endTime: "12:20",
-        sessionIds: []
+        sessionIds: [025]
     }
     - {
         startTime: "12:20",
@@ -77,7 +82,7 @@
     - {
         startTime: "13:20",
         endTime: "14:00",
-        sessionIds: []
+        sessionIds: [010]
     }
     - {
         startTime: "14:15",

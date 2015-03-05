@@ -158,6 +158,16 @@
   ribbon:
         - {abbr: "Google", title: "Googler", url: "https://google.com"}
 - 
+  id: 53
+  name: "Gülşah"
+  surname: "Yılmaz Benk"
+  company: "Google"
+  title: "Analytical Lead"
+  bio: "Başken Üniversitesi Computer Science bölümün'den 2007 yılında mezun olduktan sonra Boğaziçi Üniversitesi MIS Bölümü'nde yüksek lisansımı tamamladım. 3 sene Oracle Partneri bir firmada Software Engineer olarak görev aldıktan sonra 2013 Temmuz ayında Google' a katıldım. Perakende sektöründe Analytical Lead olarak görev almaktayım. Ayrıca halen Boğaziçi Üniversitesi MIS bölümünde PhD öğrencisiyim."
+  thumbnailUrl: GulsahYilmazBenk.jpg
+  ribbon:
+        - {abbr: "Google", title: "Googler", url: "https://google.com"}
+- 
   id: 9
   name: "Aslı"
   surname: "Sabancı"
@@ -206,14 +216,14 @@
     - {name: "facebook", link: "https://facebook.com/hyesimozen"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/hyesimozen"}
     - {name: "twitter", link: "https://twitter.com/hyesimozen"}
-# - 
-#   id: 11
-#   name: "Neslihan"
-#   surname: "Hodancı"
-#   title: "Developer"
-#   company: "Forum Medya"
-#   bio: ""
-#   thumbnailUrl: "NeslihanHodanci.jpg"
+- 
+  id: 11
+  name: "Neslihan"
+  surname: "Hodancı"
+  title: "Developer"
+  company: "Forum Medya"
+  bio: ""
+  thumbnailUrl: "NeslihanHodanci.jpg"
 - 
   id: 12
   name: "Gülşah"

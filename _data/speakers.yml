@@ -168,6 +168,16 @@
   ribbon:
         - {abbr: "Google", title: "Googler", url: "https://google.com"}
 - 
+  id: 54
+  name: "Özge"
+  surname: "Kökçü"
+  company: "Google"
+  title: "Reklam Çözümleri Danışmanı"
+  bio: "Özge Kökçü, Koç Üniversitesi Bilgisayar Mühendisliği bölümünden 2008 yılında mezun olduktan sonra Swiss Federal Institute of Technology Zurich (ETH)'de Master of Science Management, Technology and Economics programını tamamlamıştır. Master programının ardından iş hayatına Google Dublin ofisinde Online Partnerships Group ekibinde Yayıncı Hesapları Stratejisti olarak başlamıştır. <br>Ekim 2013'ten bu yana Google'daki profesyonel hayatına Reklam Çözümleri Danışmanı olarak İstanbul'da devam etmektedir. Ayrıca, iş hayatına kadınların aktif olarak katılımını teşvik etmeyi amaçlayan Women@Google grubunun aktif üyelerinden olan Özge Kökçü, bu yıl İstanbul Üniversitesi Sosyoloji bölümüne başladı."
+  thumbnailUrl: OzgeKokcu.jpg
+  ribbon:
+        - {abbr: "Google", title: "Googler", url: "https://google.com"}
+- 
   id: 9
   name: "Aslı"
   surname: "Sabancı"
@@ -274,7 +284,7 @@
   surname: "Ekizoglu"
   title: "IT Project Leader"
   company: "Bank Asya"
-  bio: ""
+  bio: "A PhD level Industrial Engineer with experience of information technologies and solving real-world business problems with innovative IT solutions. Sharp analytical, critical thinking, problem solving and team management skills developed over a wide range of development and implementation projects within financial institutions as well as research projects in academy. A proven track record of professional and academic success including several honors, awards and presentations at international technology symposiums. A committed and highly motivated individual with the ability to work as part of domestic and international project teams or alone towards delivering first class results."
   thumbnailUrl: "BetulEkizoglu.jpg"
 - 
   id: 19

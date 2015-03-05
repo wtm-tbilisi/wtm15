@@ -175,6 +175,16 @@
   thumbnailUrl: "AsliSabanci.jpg"
   rockstar: true
 - 
+  id: 15
+  name: "Sevnur"
+  surname: "Malik"
+  company: "Türk Telekom"
+  title: "Dijital Strateji ve İş Geliştirme Uzmanı"
+  bio: "Boğaziçi Üniersitesi İşletme bölümünden 2010 yılında mezun oldu. İş hayatına Unilever pazarlama departmanında başladı, ardından Useful İş Geliştirme ajansında proje yönetimi ve pazarlama yöneticiliği yaptı, şu anda Türk Telekom Grubu için Dijital Strateji ve İş Geliştirme departmanında big data ve reklam konularında çalışıyor. Ajansda çalışırken yazılımcılardan kod öğrenmeye başladı sonra railsgirls gibi pek çok etkinliğe katıldı. 2014'de Amerika'da Stanford Üniversitesi girişimcilik yaz programını bitirdi. Çay ile ilgili her şeyi içeren caycek.com un kurucu ortağı, GDG'de Women Techmakers'ın organizatörlerinden."
+  thumbnailUrl: SevnurMalik.jpg
+  ribbon:
+    - {abbr: "GDG", title: "Women Techmaker Istanbul", url: "https://plus.google.com/b/100514812580249787371/+GDGIstanbul/"}
+- 
   id: 48
   name: "Başak"
   surname: "Taşpınar Değim"
@@ -442,16 +452,6 @@
   title: "System Engineer"
   bio: "I have graduated from Industrial Engineering at Baskent University with Masters degree in Energy Engineering Science Program. I am working as a System Engineer at T2 Yazılım A.Ş. as well as I've experience on business and technical analysis of Billing processes and System Integration managing processes of Telco domain. I am also interested in green and sustainable hybrid energy systems and leaning towards this area of expertise by starting on my PhD programme."
   thumbnailUrl: FundaBayulu.jpg
-- 
-  id: 15
-  name: "Sevnur"
-  surname: "Malik"
-  company: "Türk Telekom"
-  title: "Dijital Strateji ve İş Geliştirme Uzmanı"
-  bio: "Boğaziçi Üniersitesi İşletme bölümünden 2010 yılında mezun oldu. İş hayatına Unilever pazarlama departmanında başladı, ardından Useful İş Geliştirme ajansında proje yönetimi ve pazarlama yöneticiliği yaptı, şu anda Türk Telekom Grubu için Dijital Strateji ve İş Geliştirme departmanında big data ve reklam konularında çalışıyor. Ajansda çalışırken yazılımcılardan kod öğrenmeye başladı sonra railsgirls gibi pek çok etkinliğe katıldı. 2014'de Amerika'da Stanford Üniversitesi girişimcilik yaz programını bitirdi. Çay ile ilgili her şeyi içeren caycek.com un kurucu ortağı, GDG'de Women Techmakers'ın organizatörlerinden."
-  thumbnailUrl: SevnurMalik.jpg
-  ribbon:
-    - {abbr: "GDG", title: "Women Techmaker Istanbul", url: "https://plus.google.com/b/100514812580249787371/+GDGIstanbul/"}
 
 # - 
 #   id: 0

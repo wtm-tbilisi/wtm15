@@ -175,7 +175,7 @@
   thumbnailUrl: "AsliSabanci.jpg"
   rockstar: true
 - 
-  id: 15
+  id: 48
   name: "Başak"
   surname: "Taşpınar Değim"
   title: "Founder"
@@ -443,7 +443,7 @@
   bio: "I have graduated from Industrial Engineering at Baskent University with Masters degree in Energy Engineering Science Program. I am working as a System Engineer at T2 Yazılım A.Ş. as well as I've experience on business and technical analysis of Billing processes and System Integration managing processes of Telco domain. I am also interested in green and sustainable hybrid energy systems and leaning towards this area of expertise by starting on my PhD programme."
   thumbnailUrl: FundaBayulu.jpg
 - 
-  id: 48
+  id: 15
   name: "Sevnur"
   surname: "Malik"
   company: "Türk Telekom"

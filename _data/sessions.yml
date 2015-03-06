@@ -1,10 +1,10 @@
 -
   id: 999
-  title: "Will be announced"
+  title: "Daha sonra açıklanacak"
   service: true
 -
   id: 998
-  title: "Coffee Break"
+  title: "Kahve Arası"
   place: "Hall"
   service: true
 -
@@ -14,12 +14,12 @@
   service: true
 -
   id: 996
-  title: "Registration"
+  title: "Kayıt"
   service: true
 -
   id: 995
-  title: "Welcome to Women Techmakers 2015 Istanbul"
-  speakers: []
+  title: "Women Techmakers Istanbul 2015'e Hoşgeldiniz!"
+  speakers: [55]
 -
   id: 994
   title: "Networking"
@@ -272,7 +272,41 @@
   speakers: [50]
 - 
   id: 045
-  title: "Intel Session"
-  description: ""
+  title: "Intel Oturumu"
+  description: "Daha sonra duyurulacaktir."
   language: tr
   speakers: [52]
+- 
+  id: 046
+  title: "IBM Oturumu"
+  description: "Daha sonra duyurulacaktir."
+  language: tr
+  service: true
+  speakers: []
+- 
+  id: 047
+  title: "Google Oturumu"
+  description: "Daha sonra duyurulacaktir."
+  language: tr
+  speakers: [55]
+- 
+  id: 048
+  title: "IBM Oturumu"
+  description: "Daha sonra duyurulacaktir."
+  language: tr
+  service: true
+  speakers: []
+- 
+  id: 049
+  title: "BKM Oturumu"
+  description: "Daha sonra duyurulacaktir."
+  language: tr
+  service: true
+  speakers: []
+- 
+  id: 050
+  title: "IBM Workshop"
+  description: "Daha sonra duyurulacaktir."
+  language: tr
+  service: true
+  speakers: []

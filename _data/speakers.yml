@@ -504,6 +504,16 @@
   title: ""
   bio: ""
   thumbnailUrl: AsliArslanEsme.jpg
+- 
+  id: 55
+  name: "Baris"
+  surname: "Yesugey"
+  company: "Google"
+  title: ""
+  bio: ""
+  thumbnailUrl: BarisYesugey.jpg
+  ribbon:
+        - {abbr: "Google", title: "Googler", url: "https://google.com"}
 # - 
 #   id: 0
 #   name: ""

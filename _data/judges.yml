@@ -36,12 +36,18 @@
   thumbnailUrl: ElifCoskunkan.jpg
 - 
   id: 6
+  name: "Gülsüm"
+  surname: "Çıracı"
+  company: "Etohum"
+  thumbnailUrl: GulsumCiraci.jpg
+- 
+  id: 7
   name: "Hikmet"
   surname: "Ozgozen"
   company: "BIC Angel Investments"
   thumbnailUrl: HikmetOzgozen.jpg
 - 
-  id: 7
+  id: 8
   name: "Serkan"
   surname: "Yazıcıoğlu"
   company: "CMO, BKM"

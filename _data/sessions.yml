@@ -111,7 +111,7 @@
 - 
   id: 014
   title: "Recent App Marketing Trends &<br>Getting SSL Right on Mobile"
-  description: "<strong>Recent App Marketing Trends</strong><br>Recent App Marketing Trends<br><br><strong>Getting SSL Right on Mobile</strong><br>In the light of recent revelations, public is more concernerd about their privacy and security of their data. Mobile apps are a growing holder of user's private data. Many of apps are communicating with other devices and systems on cloud. Such communications are creating vulnerabilitie in security pf apps. TLS(i.e. SSL) is a good way of ensuring security while data is in transfer. However, lack of understanding of TLS and pitfalls made while implementing can leave opportunities for intruders. In this talk, I will attempt to explain TLS as simply as possible and show how to avoid mistakes while implementing TLS in mobile apps."
+  description: "<strong>Recent App Marketing Trends</strong><br>Hergun yuzlerce yeni uygulamanin eklendigi app storelarda,kullanicinin aradigi uygulamayi bulmasi zorlastigi gibi,mobil uygulama gelistiricilerinde artan rekabet karsinda,kullanici kazanimi konusunda buyuk sikintilar yasayip,hayli yuklu paralar harcadigi su donemde,organik olarak kullanici kazanimi yollari nelerdir? Uygulamanizda hemen bugun neleri degistirebilirsiniz?Pazarda yararlanabileceginiz,ucretsiz toollar ve onlardan nasil faydalanabileceginizi biliyormusunuz? Bugun bu sorularin cevaplarini  son donemde Silikon Vadisinde konusulan,mobile marketing trendlerini masaya yatirarak cevaplayacagiz.<br><br><strong>Getting SSL Right on Mobile</strong><br>In the light of recent revelations, public is more concernerd about their privacy and security of their data. Mobile apps are a growing holder of user's private data. Many of apps are communicating with other devices and systems on cloud. Such communications are creating vulnerabilitie in security pf apps. TLS(i.e. SSL) is a good way of ensuring security while data is in transfer. However, lack of understanding of TLS and pitfalls made while implementing can leave opportunities for intruders. In this talk, I will attempt to explain TLS as simply as possible and show how to avoid mistakes while implementing TLS in mobile apps."
   language: tr
   speakers: [19,27]
 - 
@@ -272,8 +272,8 @@
   speakers: [50]
 - 
   id: 045
-  title: "Intel Oturumu"
-  description: "Daha sonra duyurulacaktir."
+  title: "Teknoloji Dünyası Kadınlardan Ne Öğrendi?"
+  description: "Teknoloji dünyasının ana gündemlerinden biri olan Maker Hareketi, kadın girişimciler ve yazılımcılar iş dünyasına nasıl bir yön veriyor? Bu bağlamda, Intel’in vizyonu ve sunduğu fırsatlar neler?"
   language: tr
   speakers: [52]
 - 

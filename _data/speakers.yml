@@ -165,7 +165,7 @@
   surname: "Geyik"
   company: "Google"
   title: "New Business Manager, DoubleClick BidManager"
-  bio: ""
+  bio: "2002 yılında Boğaziçi Üniversitesi, İngiliz Dili ve Edebiyatı bölümünden mezun olan Özlem Geyik, kariyerine uluslararası fuarcılık firmasında satış temsilcisi olarak başladı. 2006 yılı itibariyle satış kariyerine dijital reklamcılık sektöründe devam etti ve sırasıyla Google İrlanda, Yemeksepeti.com ve zanox'ta farklı görevlerde yer aldı. Şu anda da Google Türkiye'de medya satın slma çözümlerinden sorumlu Satış Yöneticisi olarak çalışmaktadır."
   thumbnailUrl: OzlemGeyik.jpg
   ribbon:
         - {abbr: "Google", title: "Googler", url: "https://google.com"}

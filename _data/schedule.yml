@@ -1,6 +1,7 @@
 - 
   date: "2015-05-15"
   dateReadable: "Oturumlar"
+  parallelCount: 1
   tracks: 
     - {title: "Fazıl Say Konferans Salonu", color: "#90be4e"}
     - {title: "A 101", color: "#03a9f4"}
@@ -8,143 +9,209 @@
     - {title: "B Cep", color: "#e91e63"}
   timeslots:
     - {
+        parallel: 1,
+        startTime: "08:30",
+        endTime: "09:30",
+        sessionIds: [996]
+    }
+    - {
+        parallel: 1,
     	startTime: "09:30",
     	endTime: "10:30",
     	sessionIds: [995]
     }
     - {
+        parallel: 1,
         startTime: "10:45",
         endTime: "11:25",
-        sessionIds: [039,999,011,005]
+        sessionIds: [039,049,011,005]
     }
     - {
+        parallel: 1,
         startTime: "11:40",
         endTime: "12:20",
-        sessionIds: [999,037,017,023]
+        sessionIds: [046,037,017,023]
     }
     - {
+        parallel: 1,
         startTime: "12:20",
         endTime: "13:20",
         sessionIds: [997]
     }
     - {
+        parallel: 1,
         startTime: "13:20",
         endTime: "14:00",
         sessionIds: [040,041,015,031]
     }
     - {
+        parallel: 1,
         startTime: "14:15",
         endTime: "14:55",
         sessionIds: [043,027,044,038]
     }
     - {
+        parallel: 1,
         startTime: "15:10",
         endTime: "15:50",
-        sessionIds: [018,999,006,016]
+        sessionIds: [018,047,006,016]
     }
     - {
+        parallel: 1,
         startTime: "16:05",
         endTime: "16:45",
         sessionIds: [045,029,003,019]
     }
     - {
+        parallel: 1,
         startTime: "17:00",
         endTime: "17:40",
-        sessionIds: [004,007,020,999]
+        sessionIds: [004,007,020,048]
     }
 - 
   date: "2015-05-15"
-  dateReadable: "Sanbox"
+  dateReadable: "Sanboxes & Workshops"
+  parallelCount: 2
   tracks: 
-    - {title: "Sandbox Alanı", color: "#90be4e"}
+    - {parallel: 1, title: "Sandbox Alanı", color: "#effb41"}
+    - {parallel: 2, title: "Workshop Odası", color: "#effb41"}
   timeslots:
     - {
+        parallel: 1,
         startTime: "10:45",
         endTime: "11:25",
         sessionIds: [014]
     }
     - {
+        parallel: 1,
         startTime: "11:40",
         endTime: "12:20",
         sessionIds: [012]
     }
     - {
+        parallel: 1,
         startTime: "12:20",
         endTime: "13:20",
         sessionIds: [997]
     }
     - {
+        parallel: 1,
         startTime: "13:20",
         endTime: "14:00",
         sessionIds: [042]
     }
     - {
+        parallel: 1,
         startTime: "14:15",
         endTime: "14:55",
         sessionIds: [026]
     }
     - {
+        parallel: 1,
         startTime: "15:10",
         endTime: "15:50",
         sessionIds: [032]
     }
     - {
+        parallel: 1,
         startTime: "16:05",
         endTime: "16:45",
         sessionIds: [035]
     }
     - {
+        parallel: 1,
         startTime: "17:00",
         endTime: "17:40",
         sessionIds: [036]
     }
-- 
-  date: "2015-05-15"
-  dateReadable: "Startup Launch"
-  tracks: 
-    - {title: "Co-op Ofisi", color: "#03a9f4"}
-  timeslots: 
+    #Worshops
     - {
+        parallel: 2,
         startTime: "10:45",
-        endTime: "11:05",
-        sessionIds: [009]
-    }
-    - {
-        startTime: "11:05",
-        endTime: "11:25",
-        sessionIds: [028]
-    }
-    - {
-        startTime: "11:40",
         endTime: "12:20",
-        sessionIds: [025]
+        sessionIds: [050]
     }
     - {
+        parallel: 2,
         startTime: "12:20",
         endTime: "13:20",
         sessionIds: [997]
     }
     - {
+        parallel: 2,
+        startTime: "13:20",
+        endTime: "14:00",
+        sessionIds: [022]
+    }
+    - {
+        parallel: 2,
+        startTime: "14:15",
+        endTime: "14:55",
+        sessionIds: [999]
+    }
+    - {
+        parallel: 2,
+        startTime: "15:10",
+        endTime: "15:50",
+        sessionIds: [001]
+    }
+- 
+  date: "2015-05-15"
+  dateReadable: "Startup Launch"
+  parallelCount: 1
+  tracks: 
+    - {title: "Co-op Ofisi", color: "#03a9f4"}
+  timeslots: 
+    - {
+        parallel: 1,
+        startTime: "10:45",
+        endTime: "11:05",
+        sessionIds: [009]
+    }
+    - {
+        parallel: 1,
+        startTime: "11:05",
+        endTime: "11:25",
+        sessionIds: [028]
+    }
+    - {
+        parallel: 1,
+        startTime: "11:40",
+        endTime: "12:20",
+        sessionIds: [025]
+    }
+    - {
+        parallel: 1,
+        startTime: "12:20",
+        endTime: "13:20",
+        sessionIds: [997]
+    }
+    - {
+        parallel: 1,
         startTime: "13:20",
         endTime: "14:00",
         sessionIds: [010]
     }
     - {
+        parallel: 1,
         startTime: "14:15",
         endTime: "15:15",
         sessionIds: [992]
     }
     - {
+        parallel: 1,
         startTime: "15:15",
         endTime: "16:00",
         sessionIds: [991]
     }
     - {
+        parallel: 1,
         startTime: "16:00",
         endTime: "16:30",
         sessionIds: [993]
     }
     - {
+        parallel: 1,
         startTime: "16:30",
         endTime: "17:40",
         sessionIds: [994]

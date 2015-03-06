@@ -32,4 +32,5 @@
     - {name: "indir.com", description: "indir.com", link: "http://indir.com", imageUrl: "indircom.jpg"}
     - {name: "chip", description: "chip", link: "http://chip.com.tr", imageUrl: "chip.png"}
     - {name: "Fütüristler Derneği", description: "Fütüristler Derneği", link: "http://www.futurizm.org/", imageUrl: "FuturistlerDernegi.jpg"}
+    - {name: "Kadin Bilisimci", description: "Kadin Bilisimci", link: "http://kadinbilisimci.com", imageUrl: "kadinbilisimci.com.png"}
     # - {name: "", description: "", link: "http://", imageUrl: ""}

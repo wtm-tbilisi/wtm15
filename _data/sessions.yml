@@ -19,7 +19,7 @@
 -
   id: 995
   title: "Women Techmakers Istanbul 2015'e Hoşgeldiniz!"
-  speakers: [55]
+  speakers: [55,56]
 -
   id: 994
   title: "Networking"
@@ -278,10 +278,10 @@
   speakers: [52]
 - 
   id: 046
-  title: "IBM Oturumu"
+  title: "IBM'de Kadın"
   description: "Daha sonra duyurulacaktir."
   language: tr
-  speakers: [56]
+  speakers: [57]
 - 
   id: 047
   title: "Google Oturumu"
@@ -290,10 +290,10 @@
   speakers: [55]
 - 
   id: 048
-  title: "IBM Oturumu"
-  description: "Daha sonra duyurulacaktir."
+  title: "Mobil uygulama gelistirmede IBM Mobilfirst"
+  description: "Web ve native geliştirmenin yanısıra hibrit geliştirmeye de olanak sağlayan İBM Mobilefirst ile  uygulamalarinizi hızla kullanıma açın!"
   language: tr
-  speakers: [57]
+  speakers: [58]
 - 
   id: 049
   title: "Netaş Oturumu"
@@ -303,8 +303,8 @@
   speakers: []
 - 
   id: 050
-  title: "IBM Workshop"
-  description: "Daha sonra duyurulacaktir."
+  title: "Workshop: IBM Bulut Platformu: IBM Bluemix"
+  description: "Paas (platform as a service) olarak hizmet sunan İBM Bluemix ile, geliştiricilere sınırsız sayıda IBM ürünü, yazılım, açık kaynak kodlu geliştirme aracı ve bir çok programlama dili desteği sunmanın yanında, geliştiricilerin çoğunlukla kullandığı pek çok farklı yazılım aracını da bünyesinde barındırır.<br><br>-açık               -bütünleşik <br>-hızlı                -mobile hazır <br>-kolay             -API havuzu         <br><br>IBM Bluemix ile tanışmak ve ilk deneyimi yaşamak için workshopumuzda buluşalım!<br>http://ibm.biz/bmixturkey "
   language: tr
   service: true
-  speakers: []
+  speakers: [58]

@@ -521,17 +521,25 @@
   name: "Jale"
   surname: "Akyel"
   company: "IBM"
-  title: ""
-  bio: ""
+  title: "IBM Ecosystem Development Manager"
+  bio: "1984'te ODTÜ’de Petrol ve Doğal Gaz Müh. bölümünden mezun oldu. 1987 yılına kadar araştırma görevlisi olarak çalışmaları sürdüren Jale Akyel , 1987 yılında Jeotermal Enerji konusunda Y. Lisansını tamamladı. 1988 yılında IBM bünyesine Sistem Uzmanı olarak katılan Akyel, uzun yıllar IBM'de farklı profesyonel ve yönetici rollerinde çalışmıştır. 2002 – 2004 yılları arasında İtalya IBM'de – Milano’da Güney Avrupa satış müdürü olarak çalışan Jale Akyel, 2004 sonunda Türkiye’ye dönüp ibm.com Satış Bölümü müdürü olmuştur.<br><br>2006 yılında IBM Türk Üniversite İlişkileri ve Sosyal Sorumluluk organizasyonlarını kuran Jale Akyel, 2009 yılında Türkiye ile birlikte Orta ve Doğu Avrupa’da Universite İişkilerinin başına getirildi. 2010 yılında ise Istanbul Innovation Center ve Ekosistem Geliştirme gruplarından sorumlu olmuştur. Girişimcilik ekosistemi ve üniversiteler ile önemli çalışmalara imza atan Jale Akyel, son olarak Şili’de IBM Corporate Service Corps programı çerçevesinde sivil toplum örgütleriyle mikro girişimleri desteklemek adına çalışmalar yapmıştır. Ürettiği projelerle Eğitim dönüşümüne katkıda bulunmaktadır."
   thumbnailUrl: JaleAkyel.jpg
 - 
   id: 57
   name: "Sevilay"
   surname: "Kurt"
   company: "IBM"
-  title: "IBM Turkiye Teknoloji Lideri"
+  title: "IBM Country Technical Leader "
   bio: ""
   thumbnailUrl: SevilayKurt.jpg
+- 
+  id: 58
+  name: "Hatice"
+  surname: "Meric"
+  company: "IBM"
+  title: "IBM Technical Consultant"
+  bio: "Hatice Meric is a technical consultant working for IBM Ecosystem Development in Turkey. In her previous IBM role, she was an IT specialist in Software Services at IBM Turkey. She has a bachelor of science degree in Computer Engineering from Yıldız Technical University "
+  thumbnailUrl: HaticeMeric.jpg
 # - 
 #   id: 0
 #   name: ""

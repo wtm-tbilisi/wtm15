@@ -306,5 +306,4 @@
   title: "Workshop: IBM Bulut Platformu: IBM Bluemix"
   description: "Paas (platform as a service) olarak hizmet sunan İBM Bluemix ile, geliştiricilere sınırsız sayıda IBM ürünü, yazılım, açık kaynak kodlu geliştirme aracı ve bir çok programlama dili desteği sunmanın yanında, geliştiricilerin çoğunlukla kullandığı pek çok farklı yazılım aracını da bünyesinde barındırır.<br><br>-açık               -bütünleşik <br>-hızlı                -mobile hazır <br>-kolay             -API havuzu         <br><br>IBM Bluemix ile tanışmak ve ilk deneyimi yaşamak için workshopumuzda buluşalım!<br>http://ibm.biz/bmixturkey "
   language: tr
-  service: true
   speakers: [58]

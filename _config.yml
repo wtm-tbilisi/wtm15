@@ -44,7 +44,7 @@ c4sponsorsUrl: "https://docs.google.com/a/gdgistanbul.com/file/d/0B5Ewb5NwqbwIY0
 navigationLinks:
  - {permalink: "/", text: "Ana Sayfa"}
  # - {permalink: "/blog/", text: "Blog"}
- #- {permalink: "/schedule/", text: "Schedule"}
+ - {permalink: "/schedule/", text: "Program"}
  - {permalink: "/speakers/", text: "Konuşmacılar"}
  - {permalink: "/#partners", text: "Sponsorlar"}
  #- {permalink: "/team/", text: "Team"}
@@ -64,7 +64,7 @@ eventDate: "15 March, 2015"
 typeoutTextValues: '"Women", "Techmakers", "Istanbul"'
 typeoutFallback: "Season"
 heroButtons:
- - {permalink: "/startup/", text: "Startup Başvurusu"}
+ - {permalink: "/schedule/", text: "Konferans Programı"}
  - {permalink: "/#tickets", text: "Kayıt Ol"}
 
 # About Block

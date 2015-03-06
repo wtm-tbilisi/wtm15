@@ -281,8 +281,7 @@
   title: "IBM Oturumu"
   description: "Daha sonra duyurulacaktir."
   language: tr
-  service: true
-  speakers: []
+  speakers: [56]
 - 
   id: 047
   title: "Google Oturumu"
@@ -294,8 +293,7 @@
   title: "IBM Oturumu"
   description: "Daha sonra duyurulacaktir."
   language: tr
-  service: true
-  speakers: []
+  speakers: [57]
 - 
   id: 049
   title: "Netaş Oturumu"

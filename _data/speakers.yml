@@ -516,6 +516,22 @@
   title: "Intel Türkiye Ar-Ge Direktörü"
   bio: "Aslı Arslan Eşme, Intel Türkiye Ar-Ge Merkezi’nde, disiplinlerarası  araştırma projelerin üzerinde çalışan sosyal araştırmacılar, yazılım ve donanım mühendislerinden oluşan bir ekibin direktörlüğünü yapmaktadır. Kariyerine entegre devre tasarımcısı olarak Alcatel Mikroelektronik’te başlayan Eşme,  BİT sektöründe çeşitli firmalarda mühendis ve yönetici pozisyonlarında görev aldı. Intel'e katılmadan önce Ericsson Türkiye’de Mikroelektronik Bölümü Direktörü olarak çalıştı."
   thumbnailUrl: AsliArslanEsme.jpg
+- 
+  id: 56
+  name: "Jale"
+  surname: "Akyel"
+  company: "IBM"
+  title: ""
+  bio: ""
+  thumbnailUrl: JaleAkyel.jpg
+- 
+  id: 57
+  name: "Sevilay"
+  surname: "Kurt"
+  company: "IBM"
+  title: "IBM Turkiye Teknoloji Lideri"
+  bio: ""
+  thumbnailUrl: SevilayKurt.jpg
 # - 
 #   id: 0
 #   name: ""

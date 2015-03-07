@@ -155,6 +155,12 @@
         endTime: "15:50",
         sessionIds: [001]
     }
+    - {
+        parallel: 2,
+        startTime: "16:00",
+        endTime: "18:00",
+        sessionIds: [051]
+    }
 - 
   date: "2015-05-15"
   dateReadable: "Startup Launch"

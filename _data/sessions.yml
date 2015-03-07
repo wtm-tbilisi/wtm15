@@ -19,6 +19,7 @@
 -
   id: 995
   title: "Women Techmakers Istanbul 2015'e Hoşgeldiniz!"
+  description: "GDG Istanbul Women Techmakers grubu tarafından düzenlenen Women Techmakers Istanbul 2015 konferansına hoşgeldiniz.<br><br>Keynote konuşmacıları:<ul><li><strong>Women Techmakers Ekibi</strong></li><li><strong>Barış Yesugey: </strong>Google Developers Group ekosistemi</li><li><strong>Jale Akyel: </strong>Anneme bilişimci olduğumu söylemeyin.</li></ul>"
   speakers: [55,56]
 -
   id: 994
@@ -307,3 +308,12 @@
   description: "Paas (platform as a service) olarak hizmet sunan İBM Bluemix ile, geliştiricilere sınırsız sayıda IBM ürünü, yazılım, açık kaynak kodlu geliştirme aracı ve bir çok programlama dili desteği sunmanın yanında, geliştiricilerin çoğunlukla kullandığı pek çok farklı yazılım aracını da bünyesinde barındırır.<br><br>-açık               -bütünleşik <br>-hızlı                -mobile hazır <br>-kolay             -API havuzu         <br><br>IBM Bluemix ile tanışmak ve ilk deneyimi yaşamak için workshopumuzda buluşalım!<br>http://ibm.biz/bmixturkey "
   language: tr
   speakers: [58]
+
+- 
+  id: 051
+  title: "Study Jams Lesson #3"
+  description: "GDG Istanbul olarak her hafta duzenledigimiz ve toplamda 7 hafta surecek olan Android Fundamentals kursunun 3. dersini Women Techmakers Konferansi Workshop alaninda gerceklestiriyoruz.<br><br>Siz de Android'i en iyilerden ogrenmek istiyorsaniz workshop'umuza gelin.<br><br><strong>Not: </strong>Bu ders Study Jams serisinin 3. dersidir. Ilk 2 dersi <a href=\"https://www.udacity.com/course/viewer#!/c-ud853\">online olarak bu link ile ucretsiz</a> izleyebilirsiniz."
+  language: tr
+  service: true
+  speakers: []
+

@@ -35,4 +35,5 @@
     - {name: "Fütüristler Derneği", description: "Fütüristler Derneği", link: "http://www.futurizm.org/", imageUrl: "FuturistlerDernegi.jpg"}
     - {name: "Kadin Bilisimci", description: "Kadin Bilisimci", link: "http://kadinbilisimci.com", imageUrl: "kadinbilisimci.com.png"}
     - {name: "3Durak", description: "3Durak", link: "http://www.3durak.com/", imageUrl: "3Durak.png"}
+    - {name: "Abaküs Yayınları", description: "Abaküs Yayınları", imageUrl: "abakus.jpg"}
     # - {name: "", description: "", link: "http://", imageUrl: ""}

@@ -230,11 +230,29 @@
   language: tr
   speakers: [28]
 - 
-  id: 026
+  id: 113
   title: "Mobil Dünya ve Turkcell Geleceği Yazanlar"
   description: "Turkcell Geleceği Yazanlar, 35 binden fazla üyesiyle son yıllarda öne çıkan mobil ekosisteme katkı vermeye devam ediyor. Üniversite eğitimleri, binlerce sayfalık eğitim içerikleri, maratonları ve atölyeleriyle ülkenin her yerinden mobil geliştiriciye yol göstericilik yapıyor. <br>Hackathonlar geliştiriciler için neden önemli ve Geleceği Yazanlar Uygulama Maratonu geliştiricilere neler katıyor? Bu zamana kadar düzenlenen iki maratonun başarılı hikayeleri, yüzleri kimler?<br>Yeni başlayan Geleceği Yazanlar Elçiliği Programı nedir ve kimler katılabilir?<br>Teknik konuşmalara kısa bir ara verip, Geleceği Yazanlar ile mobil dünyada yolculuğa çıkmaya ne dersiniz?"
   language: tr
   speakers: [29]
+- 
+  id: 114
+  title: "Panel: Women Techmakers"
+  description: "Yurtdışından gelen değerli Women Techmakers üyesi arkadaşlarımız ve Women Techmakers Türkiye ekibi ile birlikte gerçekleşecek olan panelimize herkesi bekliyoruz. Bu panelde Women Techmakers oluşumu nedir ve teknoloji dünyasındaki kadınlar olarak (çok isterlerse erkekler de) nasıl katılabileceğinizi konuşacağız."
+  language: "tr"
+  speakers: [64]
+- 
+  id: 026
+  title: "Mobil Dünya ve Turkcell Geleceği Yazanlar &<br>Panel: Women Techmakers"
+  description: "<strong>Mobil Dünya ve Turkcell Geleceği Yazanlar</strong><br>Turkcell Geleceği Yazanlar, 35 binden fazla üyesiyle son yıllarda öne çıkan mobil ekosisteme katkı vermeye devam ediyor. Üniversite eğitimleri, binlerce sayfalık eğitim içerikleri, maratonları ve atölyeleriyle ülkenin her yerinden mobil geliştiriciye yol göstericilik yapıyor. <br>Hackathonlar geliştiriciler için neden önemli ve Geleceği Yazanlar Uygulama Maratonu geliştiricilere neler katıyor? Bu zamana kadar düzenlenen iki maratonun başarılı hikayeleri, yüzleri kimler?<br>Yeni başlayan Geleceği Yazanlar Elçiliği Programı nedir ve kimler katılabilir?<br>Teknik konuşmalara kısa bir ara verip, Geleceği Yazanlar ile mobil dünyada yolculuğa çıkmaya ne dersiniz?<br><br><strong>Panel: Women Techmakers</strong><br>Yurtdışından gelen değerli Women Techmakers üyesi arkadaşlarımız ve Women Techmakers Türkiye ekibi ile birlikte gerçekleşecek olan panelimize herkesi bekliyoruz. Bu panelde Women Techmakers oluşumu nedir ve teknoloji dünyasındaki kadınlar olarak (çok isterlerse erkekler de) nasıl katılabileceğinizi konuşacağız."
+  language: tr
+  speakers: [29,64]
+- 
+  id: 014
+  title: "Recent App Marketing Trends &<br>Getting SSL Right on Mobile"
+  description: "<strong>Recent App Marketing Trends</strong><br>Hergun yuzlerce yeni uygulamanin eklendigi app storelarda,kullanicinin aradigi uygulamayi bulmasi zorlastigi gibi,mobil uygulama gelistiricilerinde artan rekabet karsinda,kullanici kazanimi konusunda buyuk sikintilar yasayip,hayli yuklu paralar harcadigi su donemde,organik olarak kullanici kazanimi yollari nelerdir? Uygulamanizda hemen bugun neleri degistirebilirsiniz?Pazarda yararlanabileceginiz,ucretsiz toollar ve onlardan nasil faydalanabileceginizi biliyormusunuz? Bugun bu sorularin cevaplarini  son donemde Silikon Vadisinde konusulan,mobile marketing trendlerini masaya yatirarak cevaplayacagiz.<br><br><strong>Getting SSL Right on Mobile</strong><br>In the light of recent revelations, public is more concernerd about their privacy and security of their data. Mobile apps are a growing holder of user's private data. Many of apps are communicating with other devices and systems on cloud. Such communications are creating vulnerabilitie in security pf apps. TLS(i.e. SSL) is a good way of ensuring security while data is in transfer. However, lack of understanding of TLS and pitfalls made while implementing can leave opportunities for intruders. In this talk, I will attempt to explain TLS as simply as possible and show how to avoid mistakes while implementing TLS in mobile apps."
+  language: tr
+  speakers: [19,27]
 - 
   id: 027
   title: "New Android L Camera API"
@@ -392,9 +410,3 @@
   description: "With revolutions in mobile manufacturing, approaches that once seemed like futuristic fantasies are now mainstream devices filling (often unexpected) needs. In May 2014, Leap Motion entered the vernacular - manufacturing a hardware sensor device that supports hand and finger motions as an input (like a computer mouse), without requiring contact or touching. The potential use cases for Leap Motion are endless - so we decided to take a crack at how it can be paired with another one of our favorite emerging technologies, the drone. Drones, the radio-controlled flying quadcopters you might have seen, can be used for everything from photography to remote medical assistance. <br><br>In the sandbox area, we are going to demonstrate how drones can integrate to Leap Motion, and the many exciting doors this solution can open…"
   language: tr
   speakers: [61,62,63]
-- 
-  id: 053
-  title: "Panel: Women Techmakers"
-  description: "Yurtdışından gelen değerli Women Techmakers üyesi arkadaşlarımız ve Women Techmakers Türkiye ekibi ile birlikte gerçekleşecek olan panelimize herkesi bekliyoruz. Bu panelde Women Techmakers oluşumu nedir ve teknoloji dünyasındaki kadınlar olarak (çok isterlerse erkekler de) nasıl katılabileceğinizi konuşacağız."
-  language: "en,tr"
-  speakers: [64]

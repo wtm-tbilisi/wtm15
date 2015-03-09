@@ -98,13 +98,13 @@
         parallel: 1,
         startTime: "13:20",
         endTime: "14:00",
-        sessionIds: [042]
+        sessionIds: [026,053]
     }
     - {
         parallel: 1,
         startTime: "14:15",
         endTime: "14:55",
-        sessionIds: [026]
+        sessionIds: [042]
     }
     - {
         parallel: 1,

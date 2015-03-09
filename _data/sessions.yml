@@ -300,8 +300,7 @@
   title: "Netaş Oturumu"
   description: "Daha sonra duyurulacaktir."
   language: tr
-  service: true
-  speakers: []
+  speakers: [59,60]
 - 
   id: 050
   title: "Workshop: IBM Bulut Platformu: IBM Bluemix"

@@ -10,7 +10,7 @@
 -
   group: "Sponsorlar"
   elements:
-    - {name: "Google Developers", description: "Google Developers", link: "https://developers.google.com/", imageUrl: "GoogleDevelopers.png"}
+    - {name: "Google", description: "Google", link: "https://google.com/", imageUrl: "google.svg"}
     - {name: "Jet Brains", description: "Jet Brains", link: "https://www.jetbrains.com/", imageUrl: "JetBrains.svg"}
     - {name: "Eteration", description: "Eteration", link: "http://www.eteration.com/", imageUrl: "eteration.png"}
     - {name: "M-GEN", description: "M-GEN", link: "http://m-gen.biz/tr/anasayfa", imageUrl: "M-GEN.svg"}

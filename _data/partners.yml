@@ -24,6 +24,7 @@
     - {name: "Revo Capital", description: "Revo Capital", link: "http://www.revo.vc/", imageUrl: "RevoVC.png"}
     - {name: "String Ventures", description: "String Ventures", link: "https://www.stringventures.com/", imageUrl: "StringVentures.svg"}
     - {name: "TEB Melek Yatırım Platformu", description: "TEB Melek Yatırım Platformu", link: "http://www.melekyatirimplatformu.com/", imageUrl: "TEBMelekYatirim.jpg"}
+    - {name: "Istanbul Startup Angels", description: "Istanbul Startup Angels", link: "http://www.istanbulstartupangels.com/", imageUrl: "IstanbulStartupAngels.png"}
 -
   group: "Destekleyenler"
   elements:

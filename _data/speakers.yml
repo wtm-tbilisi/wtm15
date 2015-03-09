@@ -451,6 +451,10 @@
   company: "Triodor R&D"
   bio: "Anadolu Üniversitesi Bilgisayar Mühendisliği bölümünden 2012 yılında mezun oldum. GDG Eskişehir topluluğunda aktif olarak görev almaktayım. Aynı zamanda WTM Eskişehir topluluğunda co-organizerlar arasındayım. Android uygulama geliştirerek başladığım kariyer hayatıma, daha sonralarda iOS geliştirerek devam ediyorum. LinkedIn: http://tr.linkedin.com/in/btrkmn"
   thumbnailUrl: "BurcuTurkmen.jpg"
+  social:
+    - {name: "facebook", link: "https://facebook.com/btrkmn"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/btrkmn"}
+    - {name: "twitter", link: "https://twitter.com/btrkmn"}
 - 
   id: 8
   name: "Nazlı"

@@ -556,6 +556,30 @@
   title: "Director R&D Applications"
   bio: ""
   thumbnailUrl: AytulArisoy.jpg
+- 
+  id: 61
+  name: "Tilbe"
+  surname: "Saltan"
+  company: "Monitise"
+  title: "Senior Software Developer"
+  bio: "Tilbe is a Senior Software Developer at Monitise MEA. She graduated from Bilkent University in 2010 with a Bachelor’s in Computer Technology and Information Systems. She started her career in Noktacom Media Inc. with Online Game Development by developing the Flash client of a board game on Facebook. She played role in development ofhttp://www.izlesene.com and http://www.alkislarlayasiyorum.com. Afterwards, within Anvato Inc., she supported development and maintenance of a Flash Web Player being used by American media companies such as MSNBC, Fox and Gray Television. Along with becoming a part of the team Monitise, she has worked in development of several applications including Android Applications of Yapi Kredi and Turkish Airlines that are Top 10 in their categories in Play Store."
+  thumbnailUrl: TilbeSaltan.png
+- 
+  id: 62
+  name: "Selcan"
+  surname: "Güner"
+  company: "Monitise"
+  title: "Senior Software Developer"
+  bio: "Selcan Güner works as a Senior Software Developer at Monitise. Selcan has been specialized in the mobile applications for Android devices. She started her career as a software engineer at P1M1 in 2010, where  she developed web applications. Selcan is a master student in Bogazici University in Computer Engineering department. She received her Bachelor of Science degree in computer engineering from Bogazici University in 2011."
+  thumbnailUrl: SelcanGuner.jpg
+- 
+  id: 63
+  name: "Aslı"
+  surname: "Kaya"
+  company: "Monitise"
+  title: "Software Developer"
+  bio: "Aslı Kaya Monitise şirketinde Yazılım Geliştirme Uzmanı olarak çalışmaktadır. Aslı, Sabancı Üniversitesi'nde ElektronikMühendisliği bölümünden mezun olduktan sonra Sabancı Üniversitesi'nde Bilgisayar Bilimi ve Mühendisliği Master derecesinitamamladı."
+  thumbnailUrl: AsliKaya.jpg
 # - 
 #   id: 0
 #   name: ""

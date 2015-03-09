@@ -16,6 +16,12 @@
   id: 996
   title: "Kayıt"
   service: true
+- 
+  id: 047
+  title: "Google Oturumu"
+  description: "Daha sonra duyurulacaktir."
+  language: tr
+  speakers: [55]
 -
   id: 995
   title: "Women Techmakers Istanbul 2015'e Hoşgeldiniz!"
@@ -31,6 +37,12 @@
   id: 993
   title: "Değerlendirme"
   service: true
+- 
+  id: 010
+  title: "Dream to Reality: 10 lessons from a female .com entrepreneur"
+  description: "There are many things one does not know, or is aware of, when she decides to follow  her dream to change the world and pursue entrepreneurship. <br>But where do you start, how do you build your technology, create a team are questions that linger at the back of your mind.  What if there are things you could have learned by listening to someone who has already  been there, and done that? <br>This talk will help you hear the inspirational story of a .com female entrepreneur,  a journey through difficulties, failures, accomplishments and motherhood among many other things. The 10 lessons she learned from her experience of building armut.com are great insights for all dreamers out there with the willpower to change the world for the better!"
+  language: tr
+  speakers: [48]
 -
   id: 992
   title: "Startup Sunumu Eğitimi"
@@ -68,11 +80,35 @@
   language: tr
   speakers: [11]
 - 
+  id: 101
+  title: "CSS3 Animation ve Transition"
+  description: "CSS3 animation özelliklerini teker teker inceleyip, kullanımı hakkında bilgi edineceğiniz. Sunum boyunca her özellik için örnekler ile konuyu daha da pekiştireceğiz. Sunumun sonunda herkesin giriş seviyesinde animation ve transition özelliklerini kullanıp, gereksinimlerini karşılayabilmeleri hedefleniyor. Temel css bilginiz olması konuyu daha rahat kavrayabilmenizi sağlayacaktır."
+  language: tr
+  speakers: [4]
+- 
+  id: 102
+  title: "UX Facilitation"
+  description: "User Experience Design is all about design and design thinking for sure. Yet when it comes to the actual outcome, the product; it is only as strong and as good as how everyone else in the team. How to bring those parties together in design: Communication. <br>Whether in a startup, consultancy, IT or a big corporate organisation; working in a team or alone; we end up bringing people to a shared value of design. Then we can talk about good design. <br>In this talk, I would like to share how I formed design conscious teams in very different environments. How I communicated shared vision and how effective it is to invest at least 35-40 percent of our time to think together and not rot in long meetings."
+  language: tr
+  speakers: [38]
+- 
   id: 006
   title: "CSS3 Animation ve Transition &<br>UX Facilitation"
   description: "<strong>CSS3 Animation ve Transition</strong><br>CSS3 animation özelliklerini teker teker inceleyip, kullanımı hakkında bilgi edineceğiniz. Sunum boyunca her özellik için örnekler ile konuyu daha da pekiştireceğiz. Sunumun sonunda herkesin giriş seviyesinde animation ve transition özelliklerini kullanıp, gereksinimlerini karşılayabilmeleri hedefleniyor. Temel css bilginiz olması konuyu daha rahat kavrayabilmenizi sağlayacaktır.<br><br>U<strong>X Facilitation: Your design is as strong as the design understanding of your whole team</strong><br>User Experience Design is all about design and design thinking for sure. Yet when it comes to the actual outcome, the product; it is only as strong and as good as how everyone else in the team. How to bring those parties together in design: Communication. <br>Whether in a startup, consultancy, IT or a big corporate organisation; working in a team or alone; we end up bringing people to a shared value of design. Then we can talk about good design. <br>In this talk, I would like to share how I formed design conscious teams in very different environments. How I communicated shared vision and how effective it is to invest at least 35-40 percent of our time to think together and not rot in long meetings."
   language: tr
   speakers: [4,38]
+- 
+  id: 103
+  title: "Akıllı saat ve bilgisayar etkileşimi"
+  description: "Pebble android ve ios cihazlarla haberleşmek üzere üretilmiş bir milyondan fazla satmış bir akıllı saattir.<br>Bu sunumda Pebble ile linux tabanlı işletim sistemleri üzerinde LibreOffice ve OpenOffice Impress sunumlarını uzaktan yönetmeyi sağlayan, benim geliştirdiğim ve The Document Foundation depolarına alınan bir özgür yazılım projesi olan pebble-remote tanıtılacaktır.<br>www.pebbleremote.com"
+  language: tr
+  speakers: [12]
+- 
+  id: 104
+  title: "A Novel Analytic Approach for Fraud Detection"
+  description: "<strong>Using Unsupervised Methods to Analyze Spatio-Temporal ATM Usage Data for Fraud Detection and Prevention</strong><br>We present a novel approach for detecting fraudulent behaviors from automated teller machine (ATM) usage data by analyzing geo-behavioral habits of the customers. We first compute the geographic entropies of ATM cardholders to form customer classes based on these entropies. ATM transactions are spatio-temporal by inclusion of location information. The transition data can be generated by using transaction data from the current location to the next one. Once, the transition data are generated, statistical outlier detection techniques can be utilized. On top of classical methods, we can easily use unsupervised methods to detect outliers in the transition data. Such outliers may help us to derive some business rules that can be used for detecting fraudulent behavior under the framework of a business rule management system (BRMS). We analyze ATM usage dataset which contains around two years’ worth of data, provided by a mid-size Turkish bank. We have shown that a significant bulk of ATM users does not leave the vicinity of their living places. We also present some insightful business rules that can be extracted from geo-tagged ATM transaction data."
+  language: tr
+  speakers: [18]
 - 
   id: 007
   title: "Akıllı saat ve bilgisayar etkileşimi &<br>A Novel Analytic Approach for Fraud Detection"
@@ -92,23 +128,41 @@
   language: tr
   speakers: [14]
 - 
-  id: 010
-  title: "Dream to Reality: 10 lessons from a female .com entrepreneur"
-  description: "There are many things one does not know, or is aware of, when she decides to follow  her dream to change the world and pursue entrepreneurship. <br>But where do you start, how do you build your technology, create a team are questions that linger at the back of your mind.  What if there are things you could have learned by listening to someone who has already  been there, and done that? <br>This talk will help you hear the inspirational story of a .com female entrepreneur,  a journey through difficulties, failures, accomplishments and motherhood among many other things. The 10 lessons she learned from her experience of building armut.com are great insights for all dreamers out there with the willpower to change the world for the better!"
-  language: tr
-  speakers: [48]
-- 
   id: 011
   title: "PrimeFaces is Power"
   description: "I would like to talk about PrimeFaces which is a component library of JSF that is a Java Framework. PrimeFaces is a third party library that includes many html, css and js components.<br>I am planning to present what PrimeFaces is, why we use it, which components PrimeFaces have. Also, I am planning to make a basic JSF Application which uses PrimeFaces."
   language: tr
   speakers: [16]
 - 
+  id: 105
+  title: "Bilişim Dünyasında Kadın Yönetici olmak"
+  description: "Bilişim sektörün de kadın olmak her sektör de kadın olmak kadar zor. Ancak erkeklerin egemen olduğu bu alan da kadınların belli yerlere gelmeleri hem karşı cinsleri hem de hem cinsleri tarafından zor kabul edilen bir durum. Halbuki burada her türlü acıya katlanabilen, zorluklar karşısında mücadele ruhuna sahip, farklı açılardan olayları değerlendirebilen bir canlıdan, kadından bahsediyoruz. Kendi canından can doğurabilen kadının insan yapımı 0 ve 1’lerden oluşan bilgisayarı anlayıp çözmesi çok da zor olmasa gerek ki bilişim sektöründe ufak bir inceleme de yaparsanız bu alanda kadınların ne kadar başarılı olduğunu görebilirsiniz..."
+  language: tr
+  speakers: [17]
+- 
+  id: 106
+  title: "Working as an IT Lawyer"
+  description: "Planning to share my experience of being a woman at IT both as an attorney at law and an entrepreneur."
+  language: tr
+  speakers: [37]
+- 
   id: 012
   title: "Bilişim Dünyasında Kadın Yönetici olmak &<br>Working as an IT Lawyer"
   description: "<strong>Bilişim Dünyasında Kadın Yönetici olmak</strong><br>Bilişim sektörün de kadın olmak her sektör de kadın olmak kadar zor. Ancak erkeklerin egemen olduğu bu alan da kadınların belli yerlere gelmeleri hem karşı cinsleri hem de hem cinsleri tarafından zor kabul edilen bir durum. Halbuki burada her türlü acıya katlanabilen, zorluklar karşısında mücadele ruhuna sahip, farklı açılardan olayları değerlendirebilen bir canlıdan, kadından bahsediyoruz. Kendi canından can doğurabilen kadının insan yapımı 0 ve 1’lerden oluşan bilgisayarı anlayıp çözmesi çok da zor olmasa gerek ki bilişim sektöründe ufak bir inceleme de yaparsanız bu alanda kadınların ne kadar başarılı olduğunu görebilirsiniz...<br><br><strong>Working as an IT Lawyer</strong><br>Planning to share my experience of being a woman at IT both as an attorney at law and an entrepreneur."
   language: tr
   speakers: [17,37]
+- 
+  id: 107
+  title: "Recent App Marketing Trends"
+  description: "Hergun yuzlerce yeni uygulamanin eklendigi app storelarda,kullanicinin aradigi uygulamayi bulmasi zorlastigi gibi,mobil uygulama gelistiricilerinde artan rekabet karsinda,kullanici kazanimi konusunda buyuk sikintilar yasayip,hayli yuklu paralar harcadigi su donemde,organik olarak kullanici kazanimi yollari nelerdir? Uygulamanizda hemen bugun neleri degistirebilirsiniz?Pazarda yararlanabileceginiz,ucretsiz toollar ve onlardan nasil faydalanabileceginizi biliyormusunuz? Bugun bu sorularin cevaplarini  son donemde Silikon Vadisinde konusulan,mobile marketing trendlerini masaya yatirarak cevaplayacagiz."
+  language: tr
+  speakers: [19]
+- 
+  id: 108
+  title: "Getting SSL Right on Mobile"
+  description: "In the light of recent revelations, public is more concernerd about their privacy and security of their data. Mobile apps are a growing holder of user's private data. Many of apps are communicating with other devices and systems on cloud. Such communications are creating vulnerabilitie in security pf apps. TLS(i.e. SSL) is a good way of ensuring security while data is in transfer. However, lack of understanding of TLS and pitfalls made while implementing can leave opportunities for intruders. In this talk, I will attempt to explain TLS as simply as possible and show how to avoid mistakes while implementing TLS in mobile apps."
+  language: tr
+  speakers: [27]
 - 
   id: 014
   title: "Recent App Marketing Trends &<br>Getting SSL Right on Mobile"
@@ -206,6 +260,18 @@
   language: tr
   speakers: [34,39,40,41]
 - 
+  id: 109
+  title: "İstatistiklerle Eskişehir Topluluğu"
+  description: "Oturumumuzda Google Developer Group Eskişehir tarafından yapılan etkinlikler hakkında sayısal veriler, genel etkinliklerin yanısıra kadın ve öğrenci topluluklarında yaşanılan sorunlar ve bu toplulukların bize sağladığı faydalar hakkında konuşacağız."
+  language: tr
+  speakers: [35,36]
+- 
+  id: 110
+  title: "Diyabetliler için lokum"
+  description: "Tüm dünyada oldukça yaygın olan siyabet hastalığının maalesef henüz kesin bir tedavisi yoktur. Hastalık sebebi ile düzenli ve dikkatli bir yaşam tarzı sürmek gerekmektedir. Gerek fiziksel aktiviteler gerek yeme düzeni ve yenilebilecek gıdaların hem çeşit hem de miktar olarak sınırlandırıldığı diyabet hastalığında, hastanın bu sınırlara ve yasaklara karşı olan tavrı pek çok hastalığı daha tetiklemektedir. Çok ayrıntılı hususları olsa da en önemlisi şeker tüketiminin ziyadesiyle azaltılması ve hatta tamamen sıfırlanması durumudur. Bu durum hastanın her türlü tatlıdan uzak durması, bir daha asla pasta, çikolata, şekerleme, lokum gibi ürünlerden yiyemeyeceği gibi algılansa da bu doğru değildir. Elbette diyabet hastaları da tatlı yiyebilirler; fakat porsiyonları ziyadesiyle küçüktür. Yemekten zevk aldığı tatlı gıdaları dilediği doyumluk miktarda tüketemeyen hastalarda psikolojik sıkıntılar görülmektedir ki bu sıkıntılar vücudun hormonal düzenini etkileyerek yine diyabet hastalığına olumsuz etki etmektedir. Son zamanlarda diyabetli hastalara özel ürünler üretiliyor olsa da bunlar oldukça sınırlıdır. Türk milletinin düğününde, bayramında ikramlar arasından eksik olmayan ve Türk kahvesinin ayrılmaz parçası olan lokum... Bu ürünü diyabetli hastaların sorunsuzca tüketebileceği bir hale getirebiliriz; üstelik çikolata kaplamalı olsa bile. Benim fikrim hem tarımsal bir ürüne katma değer kazandırmak hem de özel beslenme ihtiyacı olan diyabetlilere inovatif bir ürün sunmaktan ibarettir."
+  language: tr
+  speakers: [8]
+- 
   id: 032
   title: "İstatistiklerle Eskişehir Topluluğu &<br>Diyabetliler için lokum"
   description: "<strong>İstatistiklerle Eskişehir Topluluğu</strong><br>Oturumumuzda Google Developer Group Eskişehir tarafından yapılan etkinlikler hakkında sayısal veriler, genel etkinliklerin yanısıra kadın ve öğrenci topluluklarında yaşanılan sorunlar ve bu toplulukların bize sağladığı faydalar hakkında konuşacağız.<br><br><strong>Diyabetliler için lokum</strong><br>Tüm dünyada oldukça yaygın olan siyabet hastalığının maalesef henüz kesin bir tedavisi yoktur. Hastalık sebebi ile düzenli ve dikkatli bir yaşam tarzı sürmek gerekmektedir. Gerek fiziksel aktiviteler gerek yeme düzeni ve yenilebilecek gıdaların hem çeşit hem de miktar olarak sınırlandırıldığı diyabet hastalığında, hastanın bu sınırlara ve yasaklara karşı olan tavrı pek çok hastalığı daha tetiklemektedir. Çok ayrıntılı hususları olsa da en önemlisi şeker tüketiminin ziyadesiyle azaltılması ve hatta tamamen sıfırlanması durumudur. Bu durum hastanın her türlü tatlıdan uzak durması, bir daha asla pasta, çikolata, şekerleme, lokum gibi ürünlerden yiyemeyeceği gibi algılansa da bu doğru değildir. Elbette diyabet hastaları da tatlı yiyebilirler; fakat porsiyonları ziyadesiyle küçüktür. Yemekten zevk aldığı tatlı gıdaları dilediği doyumluk miktarda tüketemeyen hastalarda psikolojik sıkıntılar görülmektedir ki bu sıkıntılar vücudun hormonal düzenini etkileyerek yine diyabet hastalığına olumsuz etki etmektedir. Son zamanlarda diyabetli hastalara özel ürünler üretiliyor olsa da bunlar oldukça sınırlıdır. Türk milletinin düğününde, bayramında ikramlar arasından eksik olmayan ve Türk kahvesinin ayrılmaz parçası olan lokum... Bu ürünü diyabetli hastaların sorunsuzca tüketebileceği bir hale getirebiliriz; üstelik çikolata kaplamalı olsa bile. Benim fikrim hem tarımsal bir ürüne katma değer kazandırmak hem de özel beslenme ihtiyacı olan diyabetlilere inovatif bir ürün sunmaktan ibarettir."
@@ -229,6 +295,18 @@
   description: "Medya dünyası, özellikle son dönemdeki dijital ve teknoloji alanındaki gelişmeler doğrultusunda yeni bir çağa girdi. Rekabet avantajı sağlamak için sektörün gittiği yönü iyi okumak, ona göre değişmek ve gelişmek gerekiyor.<br>Sektöre son dönemde damgasını vuran en önemli trendlerden bir tanesi convergence olarak ifade edilen, tüm iletişim kanallarının ortak hedef doğrultusunda entegre çalışarak birbirini güçlendirmesine yönelik trend. Bu trend, tüketici deneyiminin kesilmeden birden çok kanala taşınması ve böylece daha ilgi çekici, daha başarılı etkileşimler ortaya konulması üzerine kurulu.<br>Convergence trendi esasen günümüzün gerçeği olan çok ekranlılıktan doğdu. Artık televizyon keyfimize cep telefonu, tablet ya da farklı bir ikinci ekran eşlik ediyor. Oralardan da farklı medya kanallarını ve içerikleri takip ediyoruz. İşte bu nokta markalar için önemli bir fırsat teşkil ediyor. Örneğin, televizyondaki bir marka reklamı ya da içeriğini, search yani arama motoru pazarlaması ile destekleyip çok daha üst seviyelere taşımak mümkün. "
   language: tr
   speakers: [44]
+- 
+  id: 111
+  title: "Game Changers for Women in Computer Science Education: Turkey as a Case Study"
+  description: "In recent years, getting more women in technology is becoming important in the US due to steady decline of women getting in the field since the 80s. In this work, we will discuss the perception of women in CS fields in Turkey using nationwide statistics, survey results and experiences. Our aim is to unite and enrich our collective understanding of how to achieve a more gender balanced population that pursue computing degrees by analyzing the delicate balance of social ingredients required for this goal. We believe discussing how game changers for women in CS are aligned in Turkey will provide tremendous insight globally with the goal to increase women involvement in STEM fields. The goal of this research is to share and learn from our global experiences, benefiting women technologist worldwide."
+  language: tr
+  speakers: [3]
+- 
+  id: 112
+  title: "Google - Inside Search"
+  description: "Behind your simple page of results is a complex system, carefully crafted and tested, to support more than one-hundred billion searches each month. So How does It work?"
+  language: tr
+  speakers: [51]
 - 
   id: 038
   title: "Game Changers for Women in Computer Science Education: Turkey as a Case Study &<br>Google - Inside Search"
@@ -283,12 +361,6 @@
   description: "Daha sonra duyurulacaktir."
   language: tr
   speakers: [57]
-- 
-  id: 047
-  title: "Google Oturumu"
-  description: "Daha sonra duyurulacaktir."
-  language: tr
-  speakers: [55]
 - 
   id: 048
   title: "Mobil uygulama gelistirmede IBM Mobilfirst"

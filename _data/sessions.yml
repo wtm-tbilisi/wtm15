@@ -307,12 +307,16 @@
   description: "Paas (platform as a service) olarak hizmet sunan İBM Bluemix ile, geliştiricilere sınırsız sayıda IBM ürünü, yazılım, açık kaynak kodlu geliştirme aracı ve bir çok programlama dili desteği sunmanın yanında, geliştiricilerin çoğunlukla kullandığı pek çok farklı yazılım aracını da bünyesinde barındırır.<br><br>-açık               -bütünleşik <br>-hızlı                -mobile hazır <br>-kolay             -API havuzu         <br><br>IBM Bluemix ile tanışmak ve ilk deneyimi yaşamak için workshopumuzda buluşalım!<br>http://ibm.biz/bmixturkey "
   language: tr
   speakers: [58]
-
 - 
   id: 051
   title: "Study Jams Lesson #3"
-  description: "GDG Istanbul olarak her hafta duzenledigimiz ve toplamda 7 hafta surecek olan Android Fundamentals kursunun 3. dersini Women Techmakers Konferansi Workshop alaninda gerceklestiriyoruz.<br><br>Siz de Android'i en iyilerden ogrenmek istiyorsaniz workshop'umuza gelin.<br><br><strong>Not: </strong>Bu ders Study Jams serisinin 3. dersidir. Ilk 2 dersi <a href=\"https://www.udacity.com/course/viewer#!/c-ud853\">online olarak bu link ile ucretsiz</a> izleyebilirsiniz."
+  description: "GDG Istanbul olarak her hafta duzenledigimiz ve toplamda 7 hafta surecek olan Android Fundamentals kursunun 3. dersini Women Techmakers Konferansi Workshop alaninda gerceklestiriyoruz.<br><br><strong>Not: </strong>Bu ders Study Jams serisinin 3. dersidir. Ilk 2 dersi <a href=\"https://www.udacity.com/course/viewer#!/c-ud853\">online olarak bu link ile ucretsiz</a> izleyebilirsiniz."
   language: tr
   service: true
   speakers: []
-
+- 
+  id: 052
+  title: "Game of Drones
+  description: "With revolutions in mobile manufacturing, approaches that once seemed like futuristic fantasies are now mainstream devices filling (often unexpected) needs. In May 2014, Leap Motion entered the vernacular - manufacturing a hardware sensor device that supports hand and finger motions as an input (like a computer mouse), without requiring contact or touching. The potential use cases for Leap Motion are endless - so we decided to take a crack at how it can be paired with another one of our favorite emerging technologies, the drone. Drones, the radio-controlled flying quadcopters you might have seen, can be used for everything from photography to remote medical assistance. <br><br>In the sandbox area, we are going to demonstrate how drones can integrate to Leap Motion, and the many exciting doors this solution can open…"
+  language: tr
+  speakers: [61,62,63]

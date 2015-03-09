@@ -28,6 +28,9 @@
 -
   group: "Destekleyenler"
   elements:
+    - {name: "4pps", description: "Creating Mobile Apps", link: "http://4pps.co/", imageUrl: "4pps.png"}
+    - {name: "Mobillium", description: "Mobillium", link: "http://www.mobillium.com", imageUrl: "mobillium.png"}
+    - {name: "Akıllı Yazılım", description: "Akıllı Yazılım", link: "http://www.akilliyazilim.org", imageUrl: "akilliyazilim.png"}
     - {name: "Kodcu.com", description: "Kodcu.com", link: "http://www.kodcu.com/", imageUrl: "KodcuCom.png"}
     - {name: "Voxxed Days Istanbul", description: "Voxxed Days Istanbul", link: "https://www.voxxed.com/days-istanbul15/", imageUrl: "VoxxedIstanbul.png"}
     - {name: "Turkish WIN", description: "Turkish WIN", link: "http://www.turkishwin.com/", imageUrl: "TurkishWin.jpg"}

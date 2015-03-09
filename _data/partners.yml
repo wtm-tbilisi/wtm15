@@ -1,15 +1,16 @@
 - 
-  group: "Ana sponsor"
+  group: "Platin Sponsor"
   elements: 
-    - {name: "Google Developers", description: "Google Developers", link: "https://developers.google.com/", imageUrl: "GoogleDevelopers.png"}
+    - {name: "IBM", description: "IBM", link: "http://www.ibm.com/tr/tr/", imageUrl: "IBM.jpg"}
 - 
-  group: "Gümüş sponsor"
+  group: "Gümüş Sponsorlar"
   elements: 
     - {name: "BKM", description: "BKM", link: "http://www.bkm.com.tr/", imageUrl: "bkm.jpg"}
     - {name: "Monitise", description: "Monitise", link: "http://www.monitise.com/", imageUrl: "Monitise.jpg"}
 -
   group: "Sponsorlar"
   elements:
+    - {name: "Google Developers", description: "Google Developers", link: "https://developers.google.com/", imageUrl: "GoogleDevelopers.png"}
     - {name: "Jet Brains", description: "Jet Brains", link: "https://www.jetbrains.com/", imageUrl: "JetBrains.svg"}
     - {name: "Eteration", description: "Eteration", link: "http://www.eteration.com/", imageUrl: "eteration.png"}
     - {name: "M-GEN", description: "M-GEN", link: "http://m-gen.biz/tr/anasayfa", imageUrl: "M-GEN.svg"}

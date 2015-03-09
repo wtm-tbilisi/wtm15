@@ -584,6 +584,14 @@
   title: "Software Developer"
   bio: "Aslı Kaya Monitise şirketinde Yazılım Geliştirme Uzmanı olarak çalışmaktadır. Aslı, Sabancı Üniversitesi'nde ElektronikMühendisliği bölümünden mezun olduktan sonra Sabancı Üniversitesi'nde Bilgisayar Bilimi ve Mühendisliği Master derecesinitamamladı."
   thumbnailUrl: AsliKaya.jpg
+- 
+  id: 64
+  name: "Women Techmakers"
+  surname: "Üyeleri"
+  company: "GDG Istanbul"
+  title: ""
+  bio: "Women Techmakers ekibi."
+  thumbnailUrl: WomenTechMakers.jpg
 # - 
 #   id: 0
 #   name: ""

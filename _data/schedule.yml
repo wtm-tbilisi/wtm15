@@ -24,13 +24,13 @@
         parallel: 1,
         startTime: "10:45",
         endTime: "11:25",
-        sessionIds: [039,049,011,005]
+        sessionIds: [039,037,011,005]
     }
     - {
         parallel: 1,
         startTime: "11:40",
         endTime: "12:20",
-        sessionIds: [046,037,017,023]
+        sessionIds: [046,045,017,023]
     }
     - {
         parallel: 1,
@@ -54,13 +54,13 @@
         parallel: 1,
         startTime: "15:10",
         endTime: "15:50",
-        sessionIds: [018,047,006,016]
+        sessionIds: [049,047,006,016]
     }
     - {
         parallel: 1,
         startTime: "16:05",
         endTime: "16:45",
-        sessionIds: [045,029,003,019]
+        sessionIds: [018,029,003,019]
     }
     - {
         parallel: 1,

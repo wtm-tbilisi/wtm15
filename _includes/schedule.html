@@ -2,31 +2,16 @@
 <section id="schedule" class="schedule">
     <div class="content-wrapper">
         {% for day in site.data.schedule %}
-
-        {% if day.parallelCount == 2 %}
-        {% assign colWidthLg = 4 %}
-        {% else %}
-        {% assign colWidthLg = 10 %}
-        {% endif %}
-        {% assign colWidthMd = 10 | divided_by: day.parallelCount %}
-
-        <div class="col-md-10 col-md-offset-1">
+        <div id="{{ day.dateReadable| replace:' ','-' | downcase }}" class="schedule-table col-lg-10 col-md-10 col-md-offset-1">
             <h4 class="schedule-table-heading">{{ day.dateReadable }}</h4>
-        </div>
-
-        {% for parallelIndex in (1..day.parallelCount) %}
-        <div id="{{ day.dateReadable| replace:' ','-' | downcase }}" class="schedule-table col-lg-{{ colWidthLg }} col-md-{{ colWidthMd }} col-md-offset-1">
-            
             <div class="timeslot track-header stick-header">
                 <div class="track-header-label"></div>
                 <div class="timeslot-elements flexbox-wrapper">
                     {% for track in day.tracks %}
                     {% assign trackColWidth = 12 | divided_by: forloop.length %}
-                    {% if track.parallel == parallelIndex %}
                     <div class="track-header-slot col-md-{{ trackColWidth }} flexbox-item-height hidden-xs">
                         <h5 class="track-header-title">{{ track.title }}</h5>
                     </div>
-                    {% endif %}
                     {% endfor %}
                     <div class="track-header-slot col-xs-12 visible-xs">
                         <h5 class="slot-detail track-header-title"></h5>
@@ -34,7 +19,6 @@
                 </div>
             </div>
             {% for timeslot in day.timeslots %}
-            {% if timeslot.parallel == parallelIndex %}
             <div class="timeslot" itemtype="http://schema.org/subEvent">
                 <div class="timeslot-label">
                     <time class="start-time" itemprop="startDate" datetime="{{ day.dateReadable }}T{{ timeslot.startTime }}">
@@ -94,10 +78,8 @@
                     {% endfor %}
                 </div>
             </div>
-            {% endif %}
             {% endfor %}
         </div>
-        {% endfor %}
         {% endfor %}
     </div>
 </section>

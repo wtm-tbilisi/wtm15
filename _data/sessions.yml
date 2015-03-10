@@ -352,8 +352,8 @@
 - 
   id: 042
   title: "Connected World – M2M and IoT"
-  description: "Kimilerinin  bir sonraki endüstriyel devrim olarak gördüğü hatta internetten daha büyük bir etki yaratması beklenen Nesnelerin Interneti ve M2M’in ne olduğunu, ne gibi yapı taşların birleşmesinden oluştuğunu, hangi endüstrilerde ne gibi alanlarda kullanıldığını tartışacağız."
-  language: tr
+  description: "Described as the next industrial revolution by some, even estimated to have a bigger impact than Internet; we will be talking about what M2M and IoT stands for, overlap and differences between the two. We will dive into building blocks of M2M and IoT, which industry verticals currently leverage power of them; and thinking through what’s next in terms of business potential and predictions for the Connected World."
+  language: en
   speakers: [49]
 - 
   id: 043

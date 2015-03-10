@@ -594,12 +594,12 @@
   thumbnailUrl: WomenTechMakers.jpg
 - 
   id: 65
-  name: "Buşra"
-  surname: "Deniz"
+  name: "Semen"
+  surname: "Cirit"
   company: "Netaş"
-  title: ""
-  bio: ""
-  thumbnailUrl: BusraDeniz.jpg
+  title: "Scrum Master"
+  bio: "Sabancı Bilgisayar Mühendisliği Yüksek Lisansını tamamlamıştır. Şu anda Scrum Master + Developer olarak görev yapmaktadır. <br>Pardus Linux Dağıtımı projesinde çalıştığı süre boyunca açık kaynak yazılım ile ilgili bir çok konferansta konuşmacı olarak katılmıştır. <br>Yazılım geliştirme, Yazılım Proje Yönetimi, Süreç iyileştirme ile ilgili konularda çalışmaktadır. <br>İstanbul Coders ve Agile Turkey üyesidir."
+  thumbnailUrl: SemenCirit.jpg
 # - 
 #   id: 0
 #   name: ""

@@ -218,14 +218,26 @@
   language: tr
   speakers: [24]
 - 
-  id: 023
+  id: 115
   title: "Kadın Yazılımcı Gelenekçi Yazılımcı'ya karşı"
   description: "Gelenekçi yazılımcı ve yöneticiler, kadından neden yazılımcı olmayacağını düşünürler ve iddia ederler? Nerde haksızlar nerde haklılar? Diyalog şeklindeki sunumumuzda gelenekçi yazılımcı rolünde Yaşar Safkan, yenilikçi yazılımcı rolünde Elif T. Kuş."
   language: tr
   speakers: [25,26]
 - 
+  id: 116
+  title: "Scaled Agile"
+  description: "Agile framework 5-10 kişilik projeler için uygulanmaya ve başarılı sonuçlara ulaşmaya başlamış durumda. Ancak 30-60 kişilik daha büyük ölçekli projeler için soru işaretleri devam etmekte. Bu duruma çözüm olarak sunulan Scaled Agile Framework'un farklılıkları neler, hep beraber bunun üzerinde duracağız. "
+  language: tr
+  speakers: [65]
+- 
+  id: 023
+  title: "Kadın Yazılımcı Gelenekçi Yazılımcı'ya karşı &<br>Scaled Agile"
+  description: "<strong>Kadın Yazılımcı Gelenekçi Yazılımcı'ya karşı</strong><br>Gelenekçi yazılımcı ve yöneticiler, kadından neden yazılımcı olmayacağını düşünürler ve iddia ederler? Nerde haksızlar nerde haklılar? Diyalog şeklindeki sunumumuzda gelenekçi yazılımcı rolünde Yaşar Safkan, yenilikçi yazılımcı rolünde Elif T. Kuş.<br><br><strong>Scaled Agile</strong><br>Agile framework 5-10 kişilik projeler için uygulanmaya ve başarılı sonuçlara ulaşmaya başlamış durumda. Ancak 30-60 kişilik daha büyük ölçekli projeler için soru işaretleri devam etmekte. Bu duruma çözüm olarak sunulan Scaled Agile Framework'un farklılıkları neler, hep beraber bunun üzerinde duracağız."
+  language: tr
+  speakers: [25,26,65]
+- 
   id: 025
-  title: "Entrepreneurship"
+  title: "Girişimciler için Hibeler ve Fon Kaynakları"
   description: "Girişimcilerin kısa ve uzun vadede başvurabilecekleri hibe programları.<br>Yatırımcı profilleri ve bu profillerin beklentileri<br>Crowdfunding sistemi ile fikirlerin gerçek olması"
   language: tr
   speakers: [28]

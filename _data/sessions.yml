@@ -308,12 +308,6 @@
   language: tr
   speakers: [43]
 - 
-  id: 037
-  title: "Medya Entegrasyonu"
-  description: "Medya dünyası, özellikle son dönemdeki dijital ve teknoloji alanındaki gelişmeler doğrultusunda yeni bir çağa girdi. Rekabet avantajı sağlamak için sektörün gittiği yönü iyi okumak, ona göre değişmek ve gelişmek gerekiyor.<br>Sektöre son dönemde damgasını vuran en önemli trendlerden bir tanesi convergence olarak ifade edilen, tüm iletişim kanallarının ortak hedef doğrultusunda entegre çalışarak birbirini güçlendirmesine yönelik trend. Bu trend, tüketici deneyiminin kesilmeden birden çok kanala taşınması ve böylece daha ilgi çekici, daha başarılı etkileşimler ortaya konulması üzerine kurulu.<br>Convergence trendi esasen günümüzün gerçeği olan çok ekranlılıktan doğdu. Artık televizyon keyfimize cep telefonu, tablet ya da farklı bir ikinci ekran eşlik ediyor. Oralardan da farklı medya kanallarını ve içerikleri takip ediyoruz. İşte bu nokta markalar için önemli bir fırsat teşkil ediyor. Örneğin, televizyondaki bir marka reklamı ya da içeriğini, search yani arama motoru pazarlaması ile destekleyip çok daha üst seviyelere taşımak mümkün. "
-  language: tr
-  speakers: [44]
-- 
   id: 111
   title: "Game Changers for Women in Computer Science Education: Turkey as a Case Study"
   description: "In recent years, getting more women in technology is becoming important in the US due to steady decline of women getting in the field since the 80s. In this work, we will discuss the perception of women in CS fields in Turkey using nationwide statistics, survey results and experiences. Our aim is to unite and enrich our collective understanding of how to achieve a more gender balanced population that pursue computing degrees by analyzing the delicate balance of social ingredients required for this goal. We believe discussing how game changers for women in CS are aligned in Turkey will provide tremendous insight globally with the goal to increase women involvement in STEM fields. The goal of this research is to share and learn from our global experiences, benefiting women technologist worldwide."

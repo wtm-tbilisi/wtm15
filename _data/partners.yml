@@ -3,6 +3,10 @@
   elements: 
     - {name: "IBM", description: "IBM", link: "http://www.ibm.com/tr/tr/", imageUrl: "IBM.jpg"}
 - 
+  group: "Altın Sponsor"
+  elements: 
+    - {name: "Netaş", description: "Netaş", link: "http://www.netas.com.tr/", imageUrl: "Netas.jpg"}
+- 
   group: "Gümüş Sponsorlar"
   elements: 
     - {name: "BKM", description: "BKM", link: "http://www.bkm.com.tr/", imageUrl: "bkm.jpg"}

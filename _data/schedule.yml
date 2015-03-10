@@ -1,7 +1,6 @@
 - 
   date: "2015-05-15"
   dateReadable: "Oturumlar"
-  parallelCount: 1
   tracks: 
     - {title: "Fazıl Say Konferans Salonu", color: "#90be4e"}
     - {title: "A 101", color: "#03a9f4"}
@@ -70,94 +69,83 @@
     }
 - 
   date: "2015-05-15"
-  dateReadable: "Sanboxes & Workshops"
-  parallelCount: 2
+  dateReadable: "Sanboxes"
   tracks: 
-    - {parallel: 1, title: "Sandbox Alanı #1", color: "#effb41"}
-    - {parallel: 1, title: "Sandbox Alanı #2", color: "#effb41"}
-    - {parallel: 2, title: "Workshop Odası", color: "#effb41"}
+    - {title: "Sandbox Alanı #1", color: "#effb41"}
+    - {title: "Sandbox Alanı #2", color: "#effb41"}
   timeslots:
     - {
-        parallel: 1,
         startTime: "10:45",
         endTime: "11:25",
         sessionIds: [014]
     }
     - {
-        parallel: 1,
         startTime: "11:40",
         endTime: "12:20",
         sessionIds: [012,114]
     }
     - {
-        parallel: 1,
         startTime: "12:20",
         endTime: "13:20",
         sessionIds: [997]
     }
     - {
-        parallel: 1,
         startTime: "13:20",
         endTime: "14:00",
         sessionIds: [026,052]
     }
     - {
-        parallel: 1,
         startTime: "14:15",
         endTime: "14:55",
         sessionIds: [019]
     }
     - {
-        parallel: 1,
         startTime: "15:10",
         endTime: "15:50",
         sessionIds: [032]
     }
     - {
-        parallel: 1,
         startTime: "16:05",
         endTime: "16:45",
         sessionIds: [035]
     }
     - {
-        parallel: 1,
         startTime: "17:00",
         endTime: "17:40",
         sessionIds: [036]
     }
-    #Worshops
+- 
+  date: "2015-05-15"
+  dateReadable: "Workshops"
+  tracks: 
+    - {title: "Workshop Odası", color: "#effb41"}
+  timeslots:
     - {
-        parallel: 2,
         startTime: "10:45",
         endTime: "12:20",
         sessionIds: [050]
     }
     - {
-        parallel: 2,
         startTime: "12:20",
         endTime: "13:20",
         sessionIds: [997]
     }
     - {
-        parallel: 2,
         startTime: "13:20",
         endTime: "14:00",
         sessionIds: [022]
     }
     - {
-        parallel: 2,
         startTime: "14:15",
         endTime: "14:55",
         sessionIds: [999]
     }
     - {
-        parallel: 2,
         startTime: "15:10",
         endTime: "15:50",
         sessionIds: [001]
     }
     - {
-        parallel: 2,
         startTime: "16:00",
         endTime: "18:00",
         sessionIds: [051]

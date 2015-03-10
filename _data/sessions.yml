@@ -242,7 +242,7 @@
   language: tr
   speakers: [28]
 - 
-  id: 113
+  id: 026
   title: "Mobil Dünya ve Turkcell Geleceği Yazanlar"
   description: "Turkcell Geleceği Yazanlar, 35 binden fazla üyesiyle son yıllarda öne çıkan mobil ekosisteme katkı vermeye devam ediyor. Üniversite eğitimleri, binlerce sayfalık eğitim içerikleri, maratonları ve atölyeleriyle ülkenin her yerinden mobil geliştiriciye yol göstericilik yapıyor. <br>Hackathonlar geliştiriciler için neden önemli ve Geleceği Yazanlar Uygulama Maratonu geliştiricilere neler katıyor? Bu zamana kadar düzenlenen iki maratonun başarılı hikayeleri, yüzleri kimler?<br>Yeni başlayan Geleceği Yazanlar Elçiliği Programı nedir ve kimler katılabilir?<br>Teknik konuşmalara kısa bir ara verip, Geleceği Yazanlar ile mobil dünyada yolculuğa çıkmaya ne dersiniz?"
   language: tr
@@ -253,12 +253,6 @@
   description: "Yurtdışından gelen değerli Women Techmakers üyesi arkadaşlarımız ve Women Techmakers Türkiye ekibi ile birlikte gerçekleşecek olan panelimize herkesi bekliyoruz. Bu panelde Women Techmakers oluşumu nedir ve teknoloji dünyasındaki kadınlar olarak (çok isterlerse erkekler de) nasıl katılabileceğinizi konuşacağız."
   language: "tr"
   speakers: [64]
-- 
-  id: 026
-  title: "Mobil Dünya ve Turkcell Geleceği Yazanlar &<br>Panel: Women Techmakers"
-  description: "<strong>Mobil Dünya ve Turkcell Geleceği Yazanlar</strong><br>Turkcell Geleceği Yazanlar, 35 binden fazla üyesiyle son yıllarda öne çıkan mobil ekosisteme katkı vermeye devam ediyor. Üniversite eğitimleri, binlerce sayfalık eğitim içerikleri, maratonları ve atölyeleriyle ülkenin her yerinden mobil geliştiriciye yol göstericilik yapıyor. <br>Hackathonlar geliştiriciler için neden önemli ve Geleceği Yazanlar Uygulama Maratonu geliştiricilere neler katıyor? Bu zamana kadar düzenlenen iki maratonun başarılı hikayeleri, yüzleri kimler?<br>Yeni başlayan Geleceği Yazanlar Elçiliği Programı nedir ve kimler katılabilir?<br>Teknik konuşmalara kısa bir ara verip, Geleceği Yazanlar ile mobil dünyada yolculuğa çıkmaya ne dersiniz?<br><br><strong>Panel: Women Techmakers</strong><br>Yurtdışından gelen değerli Women Techmakers üyesi arkadaşlarımız ve Women Techmakers Türkiye ekibi ile birlikte gerçekleşecek olan panelimize herkesi bekliyoruz. Bu panelde Women Techmakers oluşumu nedir ve teknoloji dünyasındaki kadınlar olarak (çok isterlerse erkekler de) nasıl katılabileceğinizi konuşacağız."
-  language: tr
-  speakers: [29,64]
 - 
   id: 014
   title: "Recent App Marketing Trends &<br>Getting SSL Right on Mobile"

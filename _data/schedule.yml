@@ -60,7 +60,7 @@
         parallel: 1,
         startTime: "16:05",
         endTime: "16:45",
-        sessionIds: [018,029,003,019]
+        sessionIds: [018,029,003,042]
     }
     - {
         parallel: 1,
@@ -73,7 +73,8 @@
   dateReadable: "Sanboxes & Workshops"
   parallelCount: 2
   tracks: 
-    - {parallel: 1, title: "Sandbox Alanı", color: "#effb41"}
+    - {parallel: 1, title: "Sandbox Alanı #1", color: "#effb41"}
+    - {parallel: 1, title: "Sandbox Alanı #2", color: "#effb41"}
     - {parallel: 2, title: "Workshop Odası", color: "#effb41"}
   timeslots:
     - {
@@ -86,7 +87,7 @@
         parallel: 1,
         startTime: "11:40",
         endTime: "12:20",
-        sessionIds: [012]
+        sessionIds: [012,114]
     }
     - {
         parallel: 1,
@@ -98,13 +99,13 @@
         parallel: 1,
         startTime: "13:20",
         endTime: "14:00",
-        sessionIds: [026,053]
+        sessionIds: [026,052]
     }
     - {
         parallel: 1,
         startTime: "14:15",
         endTime: "14:55",
-        sessionIds: [042]
+        sessionIds: [019]
     }
     - {
         parallel: 1,

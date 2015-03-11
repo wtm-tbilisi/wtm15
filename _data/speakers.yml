@@ -27,6 +27,50 @@
     - {name: "linkedin", link: "https://www.linkedin.com/in/audreyehouman"}
     - {name: "twitter", link: "https://twitter.com/only_pink3"}
 - 
+  id: 6
+  name: "Fütürist Ufuk"
+  surname: "Tarhan"
+  company: "M-Gen Dijital"
+  title: "En İyi Gelecek Tasarımcısı & İş Avatarı"
+  bio: "Ufuk Tarhan, ODTÜ Ekonomi Mezunudur. 1982-2005 arasında çoğunluğu teknoloji olmak üzere çeşitli sektörlerde üst düzey yöneticilik yapmıştır. 2006 da M-GEN Gelecek Planlama Merkezi’ni, 2011’de M-GEN Dijital Ajansı kurmuştur. 2002 Yılı-Dünya Gazetesi-Bilişim Sektörünün En Başarılı İş Kadını Ödülünün sahibi olan Tarhan; 2009-2011 yıllarında Fütüristler Derneği Başkanlığı yapmıştır. 1 Mart Gelecek Günü’nün yaratıcısı ve küratörüdür.  Halen Türkiye’nin ilk ve tek Fütürist kadın konuşmacısıdır. Gelecekçi, sürdürülebilir iş modelleri, dijital iş stratejileri tasarlar ve uygular, İş Avatarlığı yapar. Blogger, Harvard Business Review Turkiye, Platin Dergisi, Hürriyet Eğitim, Yenibiris.com, Martı Dijital Dergisi yazarıdır. Twitter’da mutlaka takip edilmesi gereken 25 Türk arasında gösterilmektedir. ODTÜ'de ve çeşitli Üniversitelerde Future Studies dersleri verir. World Future Society, Association of Professional FuturistsÜyesi, The Futurist Türkiye Dergisinin yayın haklarını Türkiye’ye getiren kişidir."
+  thumbnailUrl: UfukTarhan.jpg
+- 
+  id: 56
+  name: "Jale"
+  surname: "Akyel"
+  company: "IBM"
+  title: "IBM Ecosystem Development Manager"
+  bio: "1984'te ODTÜ’de Petrol ve Doğal Gaz Müh. bölümünden mezun oldu. 1987 yılına kadar araştırma görevlisi olarak çalışmaları sürdüren Jale Akyel , 1987 yılında Jeotermal Enerji konusunda Y. Lisansını tamamladı. 1988 yılında IBM bünyesine Sistem Uzmanı olarak katılan Akyel, uzun yıllar IBM'de farklı profesyonel ve yönetici rollerinde çalışmıştır. 2002 – 2004 yılları arasında İtalya IBM'de – Milano’da Güney Avrupa satış müdürü olarak çalışan Jale Akyel, 2004 sonunda Türkiye’ye dönüp ibm.com Satış Bölümü müdürü olmuştur.<br><br>2006 yılında IBM Türk Üniversite İlişkileri ve Sosyal Sorumluluk organizasyonlarını kuran Jale Akyel, 2009 yılında Türkiye ile birlikte Orta ve Doğu Avrupa’da Universite İişkilerinin başına getirildi. 2010 yılında ise Istanbul Innovation Center ve Ekosistem Geliştirme gruplarından sorumlu olmuştur. Girişimcilik ekosistemi ve üniversiteler ile önemli çalışmalara imza atan Jale Akyel, son olarak Şili’de IBM Corporate Service Corps programı çerçevesinde sivil toplum örgütleriyle mikro girişimleri desteklemek adına çalışmalar yapmıştır. Ürettiği projelerle Eğitim dönüşümüne katkıda bulunmaktadır."
+  thumbnailUrl: JaleAkyel.jpg
+- 
+  id: 57
+  name: "Sevilay"
+  surname: "Kurt"
+  company: "IBM"
+  title: "IBM Country Technical Leader"
+  bio: "ODTÜ Bilgisayar Mühendisliğinden mezun, Aselsan, TCMB, YKB IT tecrübesine, 7 yıldır IBM'le devam ediyorum.  2 oğlum var"
+  thumbnailUrl: SevilayKurt.png
+- 
+  id: 59
+  name: "Gönül"
+  surname: "Kamalı"
+  company: "Netaş"
+  title: "Genel Müdür Yardımcısı"
+  bio: "21 yildir Nortel NETAS’ta cesitli yonetim pozisyonlarinda basarili calismalara imza atmistir. Su anda Teknolojiden sorumlu Genel Müdür Yardımcısı olarak görevini sürdürmektedir.<br>2006 – 2009 yılları arasında Tasiyici VOIP Urunleri Tasarim ARGE Direktorü,<br>2005 - 2006 yillari arasinda Tasiyici VOIP Surum Yonetimi,<br>2002 - 2005 yillari arasinda Uluslararasi Iliskiler Koordinatoru,<br>1999 - 2002 yillari arasinda GSM ve Optik Cogullayici Tasarim Gelistirme Kidemli Muduru,<br>1998 - 2000 yillari arasinda Nortel Harlow’da (Ingiltere) IP Urunleri Gelistirme Muduru,<br>1996 - 1998 yillari arasinda Peripheral Tasarim Gelistirme ve Destek Muduru olarak gorev yapmistir.<br>Ayrica, 2009 yılından beri, Yazılım Sanayicileri Derneği’nde, Yazılım İhracatı Grubu Başkanlığı ve Başkan Yardımcılığı görevlerini sürdürmektedir."
+  thumbnailUrl: GonulKamali.jpg
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=10367809"}
+- 
+  id: 60
+  name: "Aytül"
+  surname: "Arısoy"
+  company: "Netaş"
+  title: "AR-GE Direktörü"
+  bio: "NETAS’ta araştırma geliştirme süreçlerinin her aşamasında büyük katkı sağlamıştır. Şu anda multimedya iletişim platformları AR-GE direktörü pozısyonunda görevini sürdürmektedir.<br>2012 - 2013 : Senior Manager in Applications R&D (MultiMedia Business Unit) at Netas (Genband R&D) <br>2009 - 2012 : Domain/Project Manager & Product Quality Prime at Netas<br>2008 - 2009 : Team Leader / People Manager at Nortel Netas<br>2003 - 2008 : Software Design Engineer at Nortel Netas"
+  thumbnailUrl: AytulArisoy.jpg
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=42003655"}
+- 
   id: 2
   name: "Peri"
   surname: "Kadaster"
@@ -37,14 +81,6 @@
   social: 
     - {name: "linkedin", link: "https://tr.linkedin.com/in/perikadaster"}
     - {name: "twitter", link: "https://twitter.com/pkadaster"}
-- 
-  id: 6
-  name: "Fütürist Ufuk"
-  surname: "Tarhan"
-  company: "M-Gen Dijital"
-  title: "En İyi Gelecek Tasarımcısı & İş Avatarı"
-  bio: "Ufuk Tarhan, ODTÜ Ekonomi Mezunudur. 1982-2005 arasında çoğunluğu teknoloji olmak üzere çeşitli sektörlerde üst düzey yöneticilik yapmıştır. 2006 da M-GEN Gelecek Planlama Merkezi’ni, 2011’de M-GEN Dijital Ajansı kurmuştur. 2002 Yılı-Dünya Gazetesi-Bilişim Sektörünün En Başarılı İş Kadını Ödülünün sahibi olan Tarhan; 2009-2011 yıllarında Fütüristler Derneği Başkanlığı yapmıştır. 1 Mart Gelecek Günü’nün yaratıcısı ve küratörüdür.  Halen Türkiye’nin ilk ve tek Fütürist kadın konuşmacısıdır. Gelecekçi, sürdürülebilir iş modelleri, dijital iş stratejileri tasarlar ve uygular, İş Avatarlığı yapar. Blogger, Harvard Business Review Turkiye, Platin Dergisi, Hürriyet Eğitim, Yenibiris.com, Martı Dijital Dergisi yazarıdır. Twitter’da mutlaka takip edilmesi gereken 25 Türk arasında gösterilmektedir. ODTÜ'de ve çeşitli Üniversitelerde Future Studies dersleri verir. World Future Society, Association of Professional FuturistsÜyesi, The Futurist Türkiye Dergisinin yayın haklarını Türkiye’ye getiren kişidir."
-  thumbnailUrl: UfukTarhan.jpg
 - 
   id: 55
   name: "Baris"
@@ -181,6 +217,22 @@
   thumbnailUrl: OzgeKokcu.jpg
   ribbon:
         - {abbr: "Google", title: "Googler", url: "https://google.com"}
+- 
+  id: 52
+  name: "Aslı"
+  surname: "Arslan Eşme"
+  company: "Intel"
+  title: "Intel Türkiye Ar-Ge Direktörü"
+  bio: "Aslı Arslan Eşme, Intel Türkiye Ar-Ge Merkezi’nde, disiplinlerarası  araştırma projelerin üzerinde çalışan sosyal araştırmacılar, yazılım ve donanım mühendislerinden oluşan bir ekibin direktörlüğünü yapmaktadır. Kariyerine entegre devre tasarımcısı olarak Alcatel Mikroelektronik’te başlayan Eşme,  BİT sektöründe çeşitli firmalarda mühendis ve yönetici pozisyonlarında görev aldı. Intel'e katılmadan önce Ericsson Türkiye’de Mikroelektronik Bölümü Direktörü olarak çalıştı."
+  thumbnailUrl: AsliArslanEsme.jpg
+- 
+  id: 58
+  name: "Hatice"
+  surname: "Meric"
+  company: "IBM"
+  title: "IBM Technical Consultant"
+  bio: "Hatice Meriç, lisansını Yıldız Teknik Üniversitesi Bilgisayar Mühendisliği Bölümünde tamamladı. 2010-2012 yılları arasında, IBM  Yazılım bölümünde IT Uzmanı olarak çalıştı. Bu süre zarfında, çeşitli telekomünikasyon firmalarında proje bazlı çalıştı. Devamında ise IBM Innovation Center bünyesinde Teknik Danışman olarak başladığı görevini hala devam ettirmektedir. IBM WebSphere ve IBM Tivoli ürün ailesi, IBM DB2 veritabanı ve IBM Pure Systems ürün ailesi konusunda bilgi sahibidir. Hobi olarak öğrencilik hayatında başladığı Mobil çalışmalarına, çalışma hayatında da devam etmiş ve IBM Worklight ürününde uzmanlaşarak iş ortaklarına desteğini sürdürmektedir. Gönüllü olarak katıldığı ve her sene düzenlenen IBM Yazılım Akademisi Yarışması'na da hem juri olarak hem de eğitmen olarak destek vermektedir."
+  thumbnailUrl: HaticeMeric.jpg
 - 
   id: 9
   name: "Aslı"
@@ -504,58 +556,6 @@
   title: "Student"
   bio: ""
   thumbnailUrl: IkramKella.jpg      
-- 
-  id: 52
-  name: "Aslı"
-  surname: "Arslan Eşme"
-  company: "Intel"
-  title: "Intel Türkiye Ar-Ge Direktörü"
-  bio: "Aslı Arslan Eşme, Intel Türkiye Ar-Ge Merkezi’nde, disiplinlerarası  araştırma projelerin üzerinde çalışan sosyal araştırmacılar, yazılım ve donanım mühendislerinden oluşan bir ekibin direktörlüğünü yapmaktadır. Kariyerine entegre devre tasarımcısı olarak Alcatel Mikroelektronik’te başlayan Eşme,  BİT sektöründe çeşitli firmalarda mühendis ve yönetici pozisyonlarında görev aldı. Intel'e katılmadan önce Ericsson Türkiye’de Mikroelektronik Bölümü Direktörü olarak çalıştı."
-  thumbnailUrl: AsliArslanEsme.jpg
-- 
-  id: 56
-  name: "Jale"
-  surname: "Akyel"
-  company: "IBM"
-  title: "IBM Ecosystem Development Manager"
-  bio: "1984'te ODTÜ’de Petrol ve Doğal Gaz Müh. bölümünden mezun oldu. 1987 yılına kadar araştırma görevlisi olarak çalışmaları sürdüren Jale Akyel , 1987 yılında Jeotermal Enerji konusunda Y. Lisansını tamamladı. 1988 yılında IBM bünyesine Sistem Uzmanı olarak katılan Akyel, uzun yıllar IBM'de farklı profesyonel ve yönetici rollerinde çalışmıştır. 2002 – 2004 yılları arasında İtalya IBM'de – Milano’da Güney Avrupa satış müdürü olarak çalışan Jale Akyel, 2004 sonunda Türkiye’ye dönüp ibm.com Satış Bölümü müdürü olmuştur.<br><br>2006 yılında IBM Türk Üniversite İlişkileri ve Sosyal Sorumluluk organizasyonlarını kuran Jale Akyel, 2009 yılında Türkiye ile birlikte Orta ve Doğu Avrupa’da Universite İişkilerinin başına getirildi. 2010 yılında ise Istanbul Innovation Center ve Ekosistem Geliştirme gruplarından sorumlu olmuştur. Girişimcilik ekosistemi ve üniversiteler ile önemli çalışmalara imza atan Jale Akyel, son olarak Şili’de IBM Corporate Service Corps programı çerçevesinde sivil toplum örgütleriyle mikro girişimleri desteklemek adına çalışmalar yapmıştır. Ürettiği projelerle Eğitim dönüşümüne katkıda bulunmaktadır."
-  thumbnailUrl: JaleAkyel.jpg
-- 
-  id: 57
-  name: "Sevilay"
-  surname: "Kurt"
-  company: "IBM"
-  title: "IBM Country Technical Leader"
-  bio: "ODTÜ Bilgisayar Mühendisliğinden mezun, Aselsan, TCMB, YKB IT tecrübesine, 7 yıldır IBM'le devam ediyorum.  2 oğlum var"
-  thumbnailUrl: SevilayKurt.png
-- 
-  id: 58
-  name: "Hatice"
-  surname: "Meric"
-  company: "IBM"
-  title: "IBM Technical Consultant"
-  bio: "Hatice Meriç, lisansını Yıldız Teknik Üniversitesi Bilgisayar Mühendisliği Bölümünde tamamladı. 2010-2012 yılları arasında, IBM  Yazılım bölümünde IT Uzmanı olarak çalıştı. Bu süre zarfında, çeşitli telekomünikasyon firmalarında proje bazlı çalıştı. Devamında ise IBM Innovation Center bünyesinde Teknik Danışman olarak başladığı görevini hala devam ettirmektedir. IBM WebSphere ve IBM Tivoli ürün ailesi, IBM DB2 veritabanı ve IBM Pure Systems ürün ailesi konusunda bilgi sahibidir. Hobi olarak öğrencilik hayatında başladığı Mobil çalışmalarına, çalışma hayatında da devam etmiş ve IBM Worklight ürününde uzmanlaşarak iş ortaklarına desteğini sürdürmektedir. Gönüllü olarak katıldığı ve her sene düzenlenen IBM Yazılım Akademisi Yarışması'na da hem juri olarak hem de eğitmen olarak destek vermektedir."
-  thumbnailUrl: HaticeMeric.jpg
-- 
-  id: 59
-  name: "Gönül"
-  surname: "Kamalı"
-  company: "Netaş"
-  title: "Genel Müdür Yardımcısı"
-  bio: "21 yildir Nortel NETAS’ta cesitli yonetim pozisyonlarinda basarili calismalara imza atmistir. Su anda Teknolojiden sorumlu Genel Müdür Yardımcısı olarak görevini sürdürmektedir.<br>2006 – 2009 yılları arasında Tasiyici VOIP Urunleri Tasarim ARGE Direktorü,<br>2005 - 2006 yillari arasinda Tasiyici VOIP Surum Yonetimi,<br>2002 - 2005 yillari arasinda Uluslararasi Iliskiler Koordinatoru,<br>1999 - 2002 yillari arasinda GSM ve Optik Cogullayici Tasarim Gelistirme Kidemli Muduru,<br>1998 - 2000 yillari arasinda Nortel Harlow’da (Ingiltere) IP Urunleri Gelistirme Muduru,<br>1996 - 1998 yillari arasinda Peripheral Tasarim Gelistirme ve Destek Muduru olarak gorev yapmistir.<br>Ayrica, 2009 yılından beri, Yazılım Sanayicileri Derneği’nde, Yazılım İhracatı Grubu Başkanlığı ve Başkan Yardımcılığı görevlerini sürdürmektedir."
-  thumbnailUrl: GonulKamali.jpg
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=10367809"}
-- 
-  id: 60
-  name: "Aytül"
-  surname: "Arısoy"
-  company: "Netaş"
-  title: "AR-GE Direktörü"
-  bio: "NETAS’ta araştırma geliştirme süreçlerinin her aşamasında büyük katkı sağlamıştır. Şu anda multimedya iletişim platformları AR-GE direktörü pozısyonunda görevini sürdürmektedir.<br>2012 - 2013 : Senior Manager in Applications R&D (MultiMedia Business Unit) at Netas (Genband R&D) <br>2009 - 2012 : Domain/Project Manager & Product Quality Prime at Netas<br>2008 - 2009 : Team Leader / People Manager at Nortel Netas<br>2003 - 2008 : Software Design Engineer at Nortel Netas"
-  thumbnailUrl: AytulArisoy.jpg
-  social: 
-    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=42003655"}
 - 
   id: 61
   name: "Tilbe"

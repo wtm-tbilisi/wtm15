@@ -536,22 +536,26 @@
   title: "IBM Technical Consultant"
   bio: "Hatice Meriç, lisansını Yıldız Teknik Üniversitesi Bilgisayar Mühendisliği Bölümünde tamamladı. 2010-2012 yılları arasında, IBM  Yazılım bölümünde IT Uzmanı olarak çalıştı. Bu süre zarfında, çeşitli telekomünikasyon firmalarında proje bazlı çalıştı. Devamında ise IBM Innovation Center bünyesinde Teknik Danışman olarak başladığı görevini hala devam ettirmektedir. IBM WebSphere ve IBM Tivoli ürün ailesi, IBM DB2 veritabanı ve IBM Pure Systems ürün ailesi konusunda bilgi sahibidir. Hobi olarak öğrencilik hayatında başladığı Mobil çalışmalarına, çalışma hayatında da devam etmiş ve IBM Worklight ürününde uzmanlaşarak iş ortaklarına desteğini sürdürmektedir. Gönüllü olarak katıldığı ve her sene düzenlenen IBM Yazılım Akademisi Yarışması'na da hem juri olarak hem de eğitmen olarak destek vermektedir."
   thumbnailUrl: HaticeMeric.jpg
-# - 
-#   id: 59
-#   name: "Gönül"
-#   surname: "Kamalı"
-#   company: "Netaş"
-#   title: "VP Networking Technologies R&D and Operations "
-#   bio: ""
-#   thumbnailUrl: GonulKamali.jpg
-# - 
-#   id: 60
-#   name: "Aytül"
-#   surname: "Arısoy"
-#   company: "Netaş"
-#   title: "Director R&D Applications"
-#   bio: ""
-#   thumbnailUrl: AytulArisoy.jpg
+- 
+  id: 59
+  name: "Gönül"
+  surname: "Kamalı"
+  company: "Netaş"
+  title: "Genel Müdür Yardımcısı"
+  bio: "21 yildir Nortel NETAS’ta cesitli yonetim pozisyonlarinda basarili calismalara imza atmistir. Su anda Teknolojiden sorumlu Genel Müdür Yardımcısı olarak görevini sürdürmektedir.<br>2006 – 2009 yılları arasında Tasiyici VOIP Urunleri Tasarim ARGE Direktorü,<br>2005 - 2006 yillari arasinda Tasiyici VOIP Surum Yonetimi,<br>2002 - 2005 yillari arasinda Uluslararasi Iliskiler Koordinatoru,<br>1999 - 2002 yillari arasinda GSM ve Optik Cogullayici Tasarim Gelistirme Kidemli Muduru,<br>1998 - 2000 yillari arasinda Nortel Harlow’da (Ingiltere) IP Urunleri Gelistirme Muduru,<br>1996 - 1998 yillari arasinda Peripheral Tasarim Gelistirme ve Destek Muduru olarak gorev yapmistir.<br>Ayrica, 2009 yılından beri, Yazılım Sanayicileri Derneği’nde, Yazılım İhracatı Grubu Başkanlığı ve Başkan Yardımcılığı görevlerini sürdürmektedir."
+  thumbnailUrl: GonulKamali.jpg
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=10367809"}
+- 
+  id: 60
+  name: "Aytül"
+  surname: "Arısoy"
+  company: "Netaş"
+  title: "AR-GE Direktörü"
+  bio: "NETAS’ta araştırma geliştirme süreçlerinin her aşamasında büyük katkı sağlamıştır. Şu anda multimedya iletişim platformları AR-GE direktörü pozısyonunda görevini sürdürmektedir.<br>2012 - 2013 : Senior Manager in Applications R&D (MultiMedia Business Unit) at Netas (Genband R&D) <br>2009 - 2012 : Domain/Project Manager & Product Quality Prime at Netas<br>2008 - 2009 : Team Leader / People Manager at Nortel Netas<br>2003 - 2008 : Software Design Engineer at Nortel Netas"
+  thumbnailUrl: AytulArisoy.jpg
+  social: 
+    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=42003655"}
 - 
   id: 61
   name: "Tilbe"

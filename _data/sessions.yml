@@ -380,6 +380,18 @@
   language: tr
   speakers: [58]
 - 
+  id: 117
+  title: "AR-GE de kadın liderliği"
+  description: "Daha sonra duyurulacaktir."
+  language: tr
+  speakers: [59]
+- 
+  id: 118
+  title: "WebRTC Teknoloji Liderliği"
+  description: "Daha sonra duyurulacaktir."
+  language: tr
+  speakers: [60]
+- 
   id: 049
   title: "AR-GE de kadın liderliği &<br>WebRTC Teknoloji Liderliği"
   description: "Daha sonra duyurulacaktir."

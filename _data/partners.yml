@@ -6,6 +6,7 @@
   group: "Altın Sponsor"
   elements: 
     - {name: "Netaş", description: "Netaş", link: "http://www.netas.com.tr/", imageUrl: "Netas.jpg"}
+    - {name: "Turkcell", description: "Turkcell & Turkcell Gelecegi Yazanlar", link: "http://www.turkcell.com.tr", imageUrl: "turkcell_white_bg.jpg"}
 - 
   group: "Gümüş Sponsorlar"
   elements: 

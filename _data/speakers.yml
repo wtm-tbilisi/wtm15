@@ -128,6 +128,10 @@
   thumbnailUrl: NinoNanitashvili.jpg
   ribbon:
     - {abbr: "GDG", title: "Google Developer Group Tbilisi", url: "https://plus.google.com/106672659252619762166"}
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/u/2/111935958268092931913/posts"}
+    - {name: "facebook", link: "https://www.facebook.com/ninonanitashvili"}
+    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=398321857&trk=hp-identity-name"}
 - 
   id: 3
   name: "Gulustan"

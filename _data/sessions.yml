@@ -25,8 +25,8 @@
 -
   id: 995
   title: "Women Techmakers Istanbul 2015'e Hoşgeldiniz!"
-  description: "GDG Istanbul Women Techmakers grubu tarafından düzenlenen Women Techmakers Istanbul 2015 konferansına hoşgeldiniz.<br><br>Keynote konuşmacıları:<ul><li><strong>Women Techmakers Ekibi</strong></li><li><strong>Barış Yesugey: </strong>Google Developers Group ekosistemi</li><li><strong>Jale Akyel: </strong>Anneme bilişimci olduğumu söylemeyin.</li></ul>"
-  speakers: [55,56]
+  description: "GDG Istanbul Women Techmakers grubu tarafından düzenlenen Women Techmakers Istanbul 2015 konferansına hoşgeldiniz.<br><br>Keynote konuşmacıları:<ul><li><strong>Women Techmakers Ekibi</strong></li><li><strong>Barış Yesugey: </strong>Google Developers Group ekosistemi</li><li><strong>Jale Akyel: </strong>Anneme bilişimci olduğumu söylemeyin.</li><li><strong>Gönül Kamalı: </strong>AR-GE de kadın liderliği.</li></ul>"
+  speakers: [55,56,59]
 -
   id: 994
   title: "Networking"

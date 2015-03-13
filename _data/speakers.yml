@@ -119,6 +119,16 @@
     - {name: "google-plus", link: "https://google.com/+MarinaZhygadlo"}
     - {name: "facebook", link: "https://www.facebook.com/marina.zhygadlo"}
 - 
+  id: 66
+  name: "Nino"
+  surname: "Nanitashvili"
+  company: "Google Developer Group Tbilisi"
+  title: "Founder & Manager"
+  bio: "Nino Nanitashvili has been founder of the first ever Google Developer Group in Georgia (at that time called GTUG). Throughout 3 years of leadership she has been organizer of numbers of small to large scale events and conferences. In addition to GDG, Nino has broad experience at international, governmental and non-governmental institutions working on social issues, civic engagement and transformation through technologies."
+  thumbnailUrl: NinoNanitashvili.jpg
+  ribbon:
+    - {abbr: "GDG", title: "Google Developer Group Tbilisi", url: "https://plus.google.com/106672659252619762166"}
+- 
   id: 3
   name: "Gulustan"
   surname: "Dogan"
@@ -152,14 +162,14 @@
   thumbnailUrl: DilerOzdemir.jpg
   social: 
     - {name: "linkedin", link: "https://tr.linkedin.com/pub/cemile-diler-özdemir/5a/83/194/en"}
-- 
-  id: 7
-  name: "Ikram"
-  surname: "El khadji"
-  title: "Fresh graduate Master IT"
-  company: "Sabanci university"
-  bio: ""
-  thumbnailUrl: "IkramElKhadji.jpg"
+# - 
+#   id: 7
+#   name: "Ikram"
+#   surname: "El khadji"
+#   title: "Fresh graduate Master IT"
+#   company: "Sabanci university"
+#   bio: ""
+#   thumbnailUrl: "IkramElKhadji.jpg"
 - 
   id: 43
   name: "Mine"
@@ -605,5 +615,4 @@
 #   bio: ""
 #   thumbnailUrl: .jpg
 
-# Nino Nanitashvili 
 # Roman

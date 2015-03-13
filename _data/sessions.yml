@@ -378,25 +378,13 @@
   title: "Mobil uygulama gelistirmede IBM Mobilfirst"
   description: "Web ve native geliştirmenin yanısıra hibrit geliştirmeye de olanak sağlayan İBM Mobilefirst ile  uygulamalarinizi hızla kullanıma açın!"
   language: tr
-  speakers: [58]
-- 
-  id: 117
-  title: "AR-GE de kadın liderliği"
-  description: "Daha sonra duyurulacaktir."
-  language: tr
-  speakers: [59]
+  speakers: [58] 
 - 
   id: 118
   title: "WebRTC Teknoloji Liderliği"
   description: "Daha sonra duyurulacaktir."
   language: tr
   speakers: [60]
-- 
-  id: 049
-  title: "AR-GE de kadın liderliği &<br>WebRTC Teknoloji Liderliği"
-  description: "Daha sonra duyurulacaktir."
-  language: tr
-  speakers: [59,60]
 - 
   id: 050
   title: "Workshop: IBM Bulut Platformu: IBM Bluemix"

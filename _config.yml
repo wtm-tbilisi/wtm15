@@ -52,9 +52,9 @@ navigationLinks:
  - {permalink: "/startup/", text: "Startup Launch"}
  - {permalink: "http://wtm14.devfesttr.com/", text: "DevFestW'14"}
 bottomNavigationLinks:
- - {permalink: "http://wtmistanbul15.eventbrite.com/", text: "Kayıt Ol"}
+ - {link: "http://wtmistanbul15.eventbrite.com/", text: "Kayıt Ol"}
 rightNavigationButtons:
- - {permalink: "http://wtmistanbul15.eventbrite.com/", text: "Kayıt Ol"}
+ - {link: "http://wtmistanbul15.eventbrite.com/", text: "Kayıt Ol"}
 
 # Hero Block
 heroImage: "hero.jpg"

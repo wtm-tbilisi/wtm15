@@ -44,4 +44,6 @@
     - {name: "Kadin Bilisimci", description: "Kadin Bilisimci", link: "http://kadinbilisimci.com", imageUrl: "kadinbilisimci.com.png"}
     - {name: "3Durak", description: "3Durak", link: "http://www.3durak.com/", imageUrl: "3Durak.png"}
     - {name: "Abaküs Yayınları", description: "Abaküs Yayınları", imageUrl: "abakus.jpg"}
+    - {name: "Kadin Yazilimci", description: "Kadin Yazilimci", link: "http://www.kadinyazilimci.com/", imageUrl: "kadinyazilimci.jpg"}
+    - {name: "Agile Turkey", description: "Agile Turkey", link: "http://www.agileturkey.org/", imageUrl: "AgileTurkey.jpg"}
     # - {name: "", description: "", link: "http://", imageUrl: ""}

@@ -52,7 +52,6 @@ navigationLinks:
  - {permalink: "/startup/", text: "Startup Launch"}
  - {permalink: "http://wtm14.devfesttr.com/", text: "DevFestW'14"}
 bottomNavigationLinks:
- - {permalink: "/startup/", text: "Startup Başvurusu"}
  - {permalink: "http://wtmistanbul15.eventbrite.com/", text: "Kayıt Ol"}
 rightNavigationButtons:
  - {permalink: "http://wtmistanbul15.eventbrite.com/", text: "Kayıt Ol"}
@@ -65,7 +64,7 @@ typeoutTextValues: '"Women", "Techmakers", "Istanbul"'
 typeoutFallback: "Season"
 heroButtons:
  - {permalink: "/schedule/", text: "Konferans Programı"}
- - {permalink: "/#tickets", text: "Kayıt Ol"}
+ - {link: "http://wtmistanbul15.eventbrite.com/", text: "Kayıt Ol"}
 
 # About Block
 aboutTitle: "Women Techmakers Hakkında"
@@ -143,13 +142,13 @@ ticketsOffers:
   additionalInfo: "Konferansa katılabilmek için kayıt olmalısınız."
   validFrom: ""
   validThrough: ""
- -
-  name: "Startup Launch"
-  buyButtonLink: "https://docs.google.com/forms/d/1Gt13d2GbSkFWcqV4bk1g_MbE17AvZVM5V5oHKH5wFd4/viewform?usp=send_form"
-  buyButtonText: "Şimdi Başvur"
-  additionalInfo: "Sahneye çıkma, fikirlerini VCler ile paylaşma ve networking partisine katılma imkanı."
-  validFrom: ""
-  validThrough: ""
+ # -
+ #  name: "Startup Launch"
+ #  buyButtonLink: "https://docs.google.com/forms/d/1Gt13d2GbSkFWcqV4bk1g_MbE17AvZVM5V5oHKH5wFd4/viewform?usp=send_form"
+ #  buyButtonText: "Şimdi Başvur"
+ #  additionalInfo: "Sahneye çıkma, fikirlerini VCler ile paylaşma ve networking partisine katılma imkanı."
+ #  validFrom: ""
+ #  validThrough: ""
 
 # Footer
 socialLinks:

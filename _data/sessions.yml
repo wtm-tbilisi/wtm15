@@ -22,6 +22,18 @@
   description: "Daha sonra duyurulacaktir."
   language: tr
   speakers: [55]
+- 
+  id: 117
+  title: "Anneme bilişimci olduğumu söylemeyin."
+  description: "Daha sonra duyurulacaktir."
+  language: tr
+  speakers: [56]
+- 
+  id: 118
+  title: "AR-GE de kadın liderliği"
+  description: "Daha sonra duyurulacaktir."
+  language: tr
+  speakers: [59]
 -
   id: 995
   title: "Women Techmakers Istanbul 2015'e Hoşgeldiniz!"

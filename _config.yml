@@ -10,27 +10,27 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Women Techmakers Istanbul 2015"
+title: "Women Techmakers Tbilisi 2015"
 email: "wtm@gdgistanbul.com"
 description: "Women Techmakers is a set of event about Women in technology"
 baseurl: ""
-url: "http://wtmistanbul.com/"
+url: "http://womentechmakers.ge/"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-58630743-1"
-googleAnalyticsSiteUrl: "wtmistanbul.com"
+googleAnalyticsSiteUrl: "womentechmakers.ge"
 siteVerification: "J78BVBOHc0PWM6qbrydtmvG1KjsM5HFF4JUSzcuoqCw"
 
 # Organizer Info
-organizerName: "GDG Women Istanbul"
-organizerAlternateName: "Google Developer Group Istanbul"
+organizerName: "GDG Women Tbilisi"
+organizerAlternateName: "Google Developer Group Tbilisi"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
 organizerEmail: "wtm@gdgistanbul.com"
 organizerLogo: "/img/seo/organizer-logo.png"
 organizerLink: "http://www.gdgistanbul.com/"
 
 # Head
-metaKeywords: "wtm, women, womentechmakers, event, gdg, google, programming, android, chrome, developers, Istanbul"
-twitterAccount: "@wtmistanbul"
+metaKeywords: "wtm, women, womentechmakers, event, gdg, google, programming, android, chrome, developers, Tbilisi"
+twitterAccount: "@wtmtbilisi"
 socialImageSrcGooglePlus: "/img/seo/sharing-google-plus.png"
 socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
@@ -42,43 +42,43 @@ c4sponsorsUrl: "https://docs.google.com/a/gdgistanbul.com/file/d/0B5Ewb5NwqbwIY0
 
 # Navigation
 navigationLinks:
- - {permalink: "/", text: "Ana Sayfa"}
- # - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Program"}
- - {permalink: "/speakers/", text: "Konuşmacılar"}
- - {permalink: "/#partners", text: "Sponsorlar"}
+ - {permalink: "/", text: "მთავარი"}
+ #- {permalink: "/blog/", text: "Blog"}
+ - {permalink: "/schedule/", text: "პროგრამა"}
+ - {permalink: "/speakers/", text: "სპიკერები"}
+ - {permalink: "/#partners", text: "პარტნიორები"}
  #- {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Ulaşım"}
- - {permalink: "/startup/", text: "Startup Launch"}
- - {permalink: "http://wtm14.devfesttr.com/", text: "DevFestW'14"}
+ - {permalink: "/logistics/", text: "მდებარეობა"}
+ #- {permalink: "/startup/", text: "Startup Launch"}
+ - {permalink: "https://www.youtube.com/watch?v=UBIPRliSFVk", text: "WTMTbilisi'14"}
 bottomNavigationLinks:
- - {link: "http://wtmistanbul15.eventbrite.com/", text: "Kayıt Ol"}
+ - {link: "https://docs.google.com/forms/d/15BrehqDMIW4y972f-i55DkYLyk_Ke1-6mI27b7f7yiE/viewform", text: "რეგისტრაცია"}
 rightNavigationButtons:
- - {link: "http://wtmistanbul15.eventbrite.com/", text: "Kayıt Ol"}
+ - {link: "https://docs.google.com/forms/d/15BrehqDMIW4y972f-i55DkYLyk_Ke1-6mI27b7f7yiE/viewform", text: "რეგისტრაცია"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "WTM Istanbul 2015"
-eventDate: "15 March, 2015"
-typeoutTextValues: '"Women", "Techmakers", "Istanbul"'
+heroTitle: "WTM Tbilisi 2015"
+eventDate: "29 March, 2015"
+typeoutTextValues: '"Women", "Techmakers", "Tbilisi"'
 typeoutFallback: "Season"
 heroButtons:
- - {permalink: "/schedule/", text: "Konferans Programı"}
- - {link: "http://wtmistanbul15.eventbrite.com/", text: "Kayıt Ol"}
+ - {permalink: "/schedule/", text: "პროგრამა"}
+ - {link: "https://docs.google.com/forms/d/15BrehqDMIW4y972f-i55DkYLyk_Ke1-6mI27b7f7yiE/viewform", text: "რეგისტრაცია"}
 
 # About Block
-aboutTitle: "Women Techmakers Hakkında"
+aboutTitle: "Women Techmakers თბილისი"
 aboutBlock:
- - {title: "Dünya Kadınlar Günü", image: "conference.jpg", text: "Mart ayında dünya kadınlar gününü kutlarken teknoloji bilişim ve mühendislik alanında kadınları destekliyor ve ilham veriyoruz." }
- - {title: "Teknoloji", image: "workshop.jpg", text: "Teknoloji sektörundeki gelişmeler, yenilikler ve haberleri dinlemek icin sahneye teknoloji dunyasında calışan başarılı kadınları davet ediyoruz." }
- - {title: "Startup Launch", image: "hackathon.jpg", text: "Kadın girişimciliği destekliyoruz. Girişimciler ve girşimci adayları, WTM İstanbul'da yatırımcılarla bir araya geliyor!" }
+ - {title: "WomenTechmakers პანელი", image: "conference.jpg", text: "STEM პროფესიებში ქალების ჩართულობის წახალისება, წარმატებული მაგალითების ჩვენების საფუძველზე" }
+ - {title: "ტექნოლოგიური საუბრები", image: "workshop.jpg", text: "საინტერესო გამომსვლელები სასარგებლო თემებზე" }
+ - {title: "პრაქტიკული CodeLab", image: "hackathon.jpg", text: "მონაწილეები შეისწავლიან კონკრეტულ ტექნოლოგიას, მენტორის უშუალო დახმარებით კი შეძლებენ რეალური შედეგის მიღებას" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "700", specialCharacter: "+", info: "katılımcı", detail: "kadın ve erkek"}
- - {count: "52", specialCharacter: "+", info: "konuşmacı", detail: "1 Google çalışanı haricinde hepsi kadın"}
- - {count: "4", specialCharacter: "", info: "paralel oturum", detail: "ve çalıştaylar"}
+ - {count: "100", specialCharacter: "+", info: "დამსწრე", detail: "განურჩევლას სქესისა"}
+ - {count: "12", specialCharacter: "+", info: "სპიკერი", detail: "ადგილობრივი და უცხოელი პროფესიონალები"}
+ - {count: "6", specialCharacter: "+", info: "საათი", detail: "ტექნოლოგიური საუბრები, სადისკუსიო პანელი, Codelab"}
 
 # Latest News Block
 latestNewsTitle: "Son haberler"
@@ -86,24 +86,24 @@ latestNewsTitle: "Son haberler"
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
 rockstarSpeakersCount: 5
-rockstarSpeakersTitle: "Rockstar konuşmacılar"
-rockstarSpeakersButtonText: "Tüm konuşmacılar"
+rockstarSpeakersTitle: "ქალი სპიკერები"
+rockstarSpeakersButtonText: "ყველა სპიკერი"
 
 # Location Block
-locationBlockTitle: "Ulaşım"
-eventLocationName: "Bahcesehir Üniversitesi Besiktas Kampüsü"
-eventLocationLink: "http://maps.google.com/maps?ll=41.041994,29.009049&z=16&t=m&hl=en-US&gl=US&mapclient=embed&cid=8534833363515311385"
-eventStreetAddress: "Ciragan Caddesi, Besiktas"
-eventAddressLocality: "Istanbul"
+locationBlockTitle: "ადგილი"
+eventLocationName: "კახა ბენდუქიძის საუნივერსიტეტო კამპუსი"
+eventLocationLink: "https://www.google.ge/maps/place/Dighomi+University+Campus/@41.8066109,44.7692284,17z/"
+eventStreetAddress: "დავით აღმაშენებლის ხეივანი #240"
+eventAddressLocality: "თბილისი"
 eventAddressLocalityRegion: ""
 eventPostalCode: ""
-eventAddressCountry: "Türkiye"
-eventStartTime: "2015-03-15T09:00"
-eventDoorTime: "09:00"
-eventEndTime: "2015-03-15T17:30"
-eventPlaceCoordinates: "41.041994, 29.009049"
-mapCenterCoordinates: "41.041994, 29.009049"
-mapMobileCenterCoordinates: "41.041994, 29.009049"
+eventAddressCountry: "საქართველო"
+eventStartTime: "2015-03-29T12:00"
+eventDoorTime: "12:00"
+eventEndTime: "2015-03-29T18:00"
+eventPlaceCoordinates: "41.8066109,44.7692284"
+mapCenterCoordinates: "41.806331,44.7665784"
+mapMobileCenterCoordinates: "41.8066109,44.7692284"
 
 # Venue Block
 venueBlockTitle: "Konferans alanı"
@@ -116,14 +116,13 @@ venueFeatures: ["4 adet konferans salonu", "Sandbox alanı", "Şehrin merkezinde
 
 # Tweets Feed Block
 tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "Naber?"
-twitterHashTag: "wtmistanbul"
+tweetsFeedTitle: "რა ხდება?"
+twitterHashTag: "wtmtbilisi"
 twitterFeed: ""
 
 # Partners Block
-organizersTitle: "Organizatörler"
-partnersTitle: "Sponsorlar"
-partnersC4sponsorsButton: "Sponsor Ol"
+organizersTitle: "ორგანიზატორები"
+partnersTitle: "პარტნიორები"
 
 # Subscribe Block
 subscribeImage: "subscribe.jpg"
@@ -132,13 +131,13 @@ subscribeAction: "http://gdgistanbul.us7.list-manage.com/subscribe/post?u=850f58
 subscribeInfo: "Registration will be open around end of February. Number of tickets are limited. Stay tuned!"
 
 # Tickets Block
-ticketsTitle: "Kayıt Ol"
+ticketsTitle: "რეგისტრაცია"
 ticketsInfo: ""
 ticketsOffers:
  -
   name: "Ücretsiz Bilet"
   buyButtonLink: "http://wtmistanbul15.eventbrite.com"
-  buyButtonText: "Kayıt Ol"
+  buyButtonText: "რეგისტრაცია"
   additionalInfo: "Konferansa katılabilmek için kayıt olmalısınız."
   validFrom: ""
   validThrough: ""
@@ -151,25 +150,22 @@ ticketsOffers:
  #  validThrough: ""
 
 # Footer
+# Footer
 socialLinks:
- - {link: "https://plus.googleapis.com/communities/108925709024625495301", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=wtmistanbul", icon: "twitter"}
- - {link: "https://www.facebook.com/pages/Women-Techmakers-Istanbul/671948679589644", icon: "facebook"}
- - {permalink: "/feed.xml", icon: "rss"}
+ - {link: "https://plus.google.com/u/0/106672659252619762166", icon: "google-plus"}
+ - {link: "https://www.facebook.com/gdgtbilisi", icon: "facebook"}
+# - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
-  title: "Bağlantılar"
+  title: "Links"
   links:
-   - {link: "http://www.gdgistanbul.com", text: "GDG Istanbul"}
-   - {link: "https://developers.google.com", text: "Google Developers"}
+   - {link: "https://developers.google.com/groups/chapter/1066726592619762166/", text: "GDG Tbilisi Group"}
+   - {link: "gdgtbilisi.blogspot.com", text: "GDG Tbilisi Blog"}
+   - {link: "https://developers.google.com/", text: "Google Developers"}
  -
-  title: "İletişim"
+  title: "Contact"
   links:
-   - {link: "mailto:wtm@gdgistanbul.com", text: "wtm@gdgistanbul.com"}
- -
-  title: "SSS"
-  links:
-   - {permalink: "/cod/", text: "Adap Kuralı"}
+   - {link: "mailto:nino.nanitashvili@gmail.com", text: "nino.nanitashvili@gmail.com"}
 
 # Blog
 blogTitle: "Son haberler"
@@ -184,23 +180,19 @@ teamBlockTitle: "Hakkımızda"
 aboutUs: "Google's services have become synonymous with simple things online. Number of technological innovations and IT industries in which Google is creating new products is enormous. It's hard to get to know all of them, but realistic. This is why people have started to gather in small local groups and share their experience. Later, the following groups have been called Google Developer Groups. GDGs can take many forms -- from just a few people getting together to watch some videos, to large gatherings with demos, tech talks, hackathons and conferences."
 
 # Logistics Find Way Block
-findWayTitle: "Yol tarifi alın"
-findWayDistance: "Uzaklık"
-findWayDriving: "ARABAYLA"
-findWayWalking: "YÜRÜYEREK"
-findWayBicycling: "BİSİKLET"
-findWayTransit: "OTOBÜS"
-findWayFindFlight: "Uçak Bul"
-logisticsMapCenterCoordinates: "41.041994, 29.009049"
-logisticsMapMobileCenterCoordinates: "41.041994, 29.009049"
+findWayTitle: "როგორ მოვიდე?"
+findWayDistance: "მანძილი"
+findWayDriving: "მანქანით"
+findWayWalking: "ფეხით"
+logisticsMapCenterCoordinates: "41.8066109,44.7692284"
+logisticsMapMobileCenterCoordinates: "41.8066109,44.7692284"
 
 # Logistics Direction Details Block
 directionDetailsImage: "direction-details.jpg"
-directionDetailsTitle: "Istanbul'u keşfet"
+directionDetailsTitle: "ტრანსპორტის დეტალები"
 directionDetailsCards:
- - {title: "Havaalanından", information: 'Havaalanı toplu taşıma ile kolay erişilen bir konumda. Metroya binebileceğiniz gibi HAVATAŞ otobüslerine de binebilirsiniz. Daha fazla bilgiyi <a href="http://www.ataturkairport.com/en-EN/Transportation/pages/airporttrasnportation.aspx">havaalanı internet sitesinde</a> bulabilirsiniz.'}
- - {title: "Toplu Taşıma", information: 'Metroyu kullanabileceğiniz gibi HAVATAŞ otobüslerini de bulabilirsiniz. İstanbul içerisinde toplu taşıma yol tarifi almak için bu uygulamayı tavsiye ediyoruz. <a href="http://www.trafi.com.tr/">Trafi App</a>'}
- - {title: "Oteller", information: 'Oteller hakkında bilgi daha sonra verilecektir.'}
+ - {title: "მიკროავტობუსი", information: '<strong>44</strong> - ჭავჭავაძის გამზირი > ზაჰესი; <strong>51</strong> - ქავთარაძის ქუჩა > თბილისი მოლი; <strong>87</strong> - მეტროსადგური დიდუბე > თბილისი მოლი; <strong>116</strong> - გლდანის VII-VIII მ/რ > თბილისი მოლი; <strong>117</strong> - ვაზისუბანი > თბილისი მოლი;'}
+ - {title: "ავტობუსი", information: '<strong>121</strong> - მეტროსადგური დიდუბე > ზაჰესი; <strong>84</strong> - სადგურის მოედანი > აღმაშენებლის ხეივანი; <strong>38</strong> - მეტრო დიდუბე > დიღმის საუნივერსიტეტო კამპუსი;'}
 
 # Hackathon
 hackathonTitle: "Startup Launch"
@@ -230,15 +222,15 @@ hackathonLocationBlockTitle: "Location"
 hackathonLocationName: "Communa"
 hackathonLocationLink: "http://communa.net.ua/"
 hackathonStreetAddress: "1 Halytska St"
-hackathonAddressLocality: "Istanbul"
-hackathonAddressLocalityRegion: "Istanbul"
+hackathonAddressLocality: "Tbilisi"
+hackathonAddressLocalityRegion: "Tbilisi"
 hackathonPostalCode: "79000"
-hackathonAddressCountry: "Turkey"
+hackathonAddressCountry: "Georgia"
 hackathonTimeTitle: "Hack through"
 hackathonStartTime: "2014-10-24T10:00"
 hackathonDoorTime: "09:00"
 hackathonEndTime: "2014-10-25T00:00"
-viewOnMap: "Google Maps ile aç"
-hackathonPlaceCoordinates: "49.840999, 24.031144"
-hackathonMapCenterCoordinates: "49.840696, 24.028754"
-hackathonMapMobileCenterCoordinates: "49.841639, 24.031182"
+viewOnMap: "Google Maps-ზე ნახვა"
+hackathonPlaceCoordinates: "41.8066109,44.7692284"
+hackathonMapCenterCoordinates: "41.8066109,44.7692284"
+hackathonMapMobileCenterCoordinates: "41.8066109,44.7692284"

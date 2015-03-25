@@ -1,7 +1,7 @@
 -
   group: "მთავარი ორგანიზატორი"
   elements: 
-    - {width: "500px", name: "WTM Tbilisi", description: "GDG Tbilisi - Open and volunteer geek community", link: "http://www.gdgistanbul.com", imageUrl: "wtm.jpg"}
+    - {width: "500px", name: "WTM Tbilisi", description: "GDG Tbilisi - Open and volunteer geek community", link: "https://developers.google.com/groups/chapter/106672659252619762166/", imageUrl: "wtm.jpg"}
 -
   group: "მასპინძელი"
   elements: 

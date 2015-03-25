@@ -58,8 +58,8 @@ rightNavigationButtons:
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "WTM Tbilisi 2015"
-eventDate: "29 March, 2015"
+heroTitle: "WTM თბილისი 2015"
+eventDate: "29 მარტი, 2015"
 typeoutTextValues: '"Women", "Techmakers", "Tbilisi"'
 typeoutFallback: "Season"
 heroButtons:
@@ -69,14 +69,14 @@ heroButtons:
 # About Block
 aboutTitle: "Women Techmakers თბილისი"
 aboutBlock:
- - {title: "WomenTechmakers პანელი", image: "conference.jpg", text: "STEM პროფესიებში ქალების ჩართულობის წახალისება, წარმატებული მაგალითების ჩვენების საფუძველზე" }
- - {title: "ტექნოლოგიური საუბრები", image: "workshop.jpg", text: "საინტერესო გამომსვლელები სასარგებლო თემებზე" }
- - {title: "პრაქტიკული CodeLab", image: "hackathon.jpg", text: "მონაწილეები შეისწავლიან კონკრეტულ ტექნოლოგიას, მენტორის უშუალო დახმარებით კი შეძლებენ რეალური შედეგის მიღებას" }
+ - {title: "პანელი", image: "conference.jpg", text: "STEM პროფესიებში ქალების ჩართულობის წახალისება, წარმატებული მაგალითების ჩვენების საფუძველზე" }
+ - {title: "ტექსაუბრები", image: "workshop.jpg", text: "საინტერესო გამომსვლელები სასარგებლო თემებზე" }
+ - {title: "codelab", image: "hackathon.jpg", text: "მონაწილეები შეისწავლიან კონკრეტულ ტექნოლოგიას, მენტორის უშუალო დახმარებით კი შეძლებენ რეალური შედეგის მიღებას" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "100", specialCharacter: "+", info: "დამსწრე", detail: "განურჩევლას სქესისა"}
+ - {count: "100", specialCharacter: "+", info: "დამსწრე", detail: "განურჩევლად სქესისა"}
  - {count: "12", specialCharacter: "+", info: "სპიკერი", detail: "ადგილობრივი და უცხოელი პროფესიონალები"}
  - {count: "6", specialCharacter: "+", info: "საათი", detail: "ტექნოლოგიური საუბრები, სადისკუსიო პანელი, Codelab"}
 

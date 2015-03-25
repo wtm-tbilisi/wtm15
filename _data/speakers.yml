@@ -6,7 +6,7 @@
   company: "ფინანსთა სამინისტრო, საფინანსო-ანალიტიკური სამსახური"
   title: "უფროსი პროგრამისტი"
   bio: "თინათინ ქევანიშვილს აქვს 6 წლიანი გამოცდილება პროგრამირებში. კარიერის სხვადასხვა ეტაპზე იგი მუშაობდა ერთმანეთისგან განსხვავებულ პროექტებზე, ეცნობოდა ახალ–ახალ დაპროგრამების ენებსა და ტექნოლოგიებს. განსხვავებული გამოცდილების მისაღებად თინათინს არაერთხელ მიუღია მონაწილეობა კონკურსებში/მარათონებში/კონფერენციებში. ერთ–ერთი ასეთი იყო GameJam, სადაც მისმა გუნდმა ორჯერ გაიმარჯვა. "
-  thumbnailUrl: "noimage.jpg"
+  thumbnailUrl: "tinatinqetevanishvili.jpg"
   social: 
     - {name: "google-plus", link: "https://plus.google.com/107586471351065800712"}
     - {name: "facebook", link: "https://www.facebook.com/tinatin.qevanishvili"}
@@ -86,7 +86,7 @@
   company: "მდგრადი განვითარების ცენტრი რემისია"
   title: "ტექნიკური მენეჯერი"
   bio: "ანა სიხარულიძე არის ფიზ.მათ მეცნიერებათა კანდიდატი კომპიუტერული სისტემებისა და ქსელების მათემატიუკური და პროგრამული უზრუნველყოფის სპეციალიზაციით. 11 წელი ასწავლიდა თბილისის სახელმწიფო უნივერსიტეტში დაპროგრამების ტექნოლოგიებსა და პროგრამული უზრუნველყოფის ინჟინერიას. ამჟამად არის არასამთავრობო-არაკომერციული ორგანიზაციის „მდგრადი განვითარების ცენტრი რემისია“-ს დამფუძნებელი და ტექნიკური მენეჯერი. მოღვაწეობს როგორც საქართველოში, ასევე საზღვარგარეთ (სერბეთი, ამკედონია, მოლდავეთი, მონტენეგრო, სომხეთი და სხვა) სხვადასხვა დონორის მიერ დაფინანსებულ საერთაშორისო პროექტებში, რომელთა მიზანია რთული მოდელებისა და სისტემების გამოყენებით ხელი შეუწყონ ქვეყნების სტრატეგიულ დაგეგმარებასა და გადაწყვეტილებების მიღების პროცესებს. "
-  thumbnailUrl: "noimage.jpg"
+  thumbnailUrl: "annasikharulidze.jpg"
   social: 
     - {name: "facebook", link: "https://www.facebook.com/anna.sikharulidze.3"}
     - {name: "linkedin", link: "https://www.linkedin.com/pub/anna-sikharulidze/25/707/194"}
@@ -100,17 +100,20 @@
   company: "Ribbler"
   title: "CEO"
   bio: "არაფერი იმისგან განსხვავებული რაც ლინკდინზეა. გარდა ერთისა - 23 მარტს მამა გავხდი :)"
-  thumbnailUrl: "noimage.jpg"
+  thumbnailUrl: "lashakvantaliani.jpg"
   social: 
     - {name: "linkedin", link: "www.linkedin.com/in/lkvantaliani/"}
 
 -
   id: 8
-  name: "ნატალია"
-  surname: "კოვალჩუკი"
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: "noimage.jpg"
+  name: "Natalya"
+  surname: "Kovalchuk"
+  company: "Cushman & Wakefield | Veritas Brown"
+  title: "Regional Director Strategic Consulting and Advisory Services"
+  bio: "a/k/a Kasya Shahovskaya (pen-name)<br>.................................................................................................................<br>k.shahovskaya@gmail.com<br>M +995 591 100 805<br>Skype: kasya.shahovskaya<br>.................................................................................................................<br>1. Creativity thinking trainer (WIPO Certificate, Seoul, Korea, 2014) <br>2. Awareness hacker (+307% annual brand awareness growth in 2012)<br>3. Innovator (Georgia Innovation Agency strategy lead, 2014)<br>4. Transdisciplinary ideas adaptor (MBA + MSc Computer Subject = biz & tech degrees)<br>5. Strategic Consultant – 8 years of trackable experience within international companies.<br>6. Manager: $’00M annual budgets, 30+ teams, cross border, time zones, events with 2.000 participants, national level contests."
+  thumbnailUrl: "natalyakovalchuk.jpg"
   social: 
+    - {name: "google-plus", link: "https://plus.google.com/+KasyaShahovskaya/posts"}
+    - {name: "facebook", link: "https://www.facebook.com/shahovskaya"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/kasya"}
 

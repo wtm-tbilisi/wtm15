@@ -6,33 +6,33 @@
   timeslots:
     - {
         startTime: "12:00",
-        endTime: "12:15",
-        sessionIds: [1]
+        endTime: "12:30",
+        sessionIds: [2]
     }
     - {
-        startTime: "12:15",
+        startTime: "12:30",
         endTime: "13:00",
-        sessionIds: [2]
+        sessionIds: [3]
     }
     - {
         startTime: "13:00",
         endTime: "13:30",
-        sessionIds: [3]
+        sessionIds: [5]
     }
     - {
         startTime: "13:30",
         endTime: "14:00",
-        sessionIds: [4]
+        sessionIds: [16]
     }
     - {
         startTime: "14:00",
         endTime: "14:30",
-        sessionIds: [5]
+        sessionIds: [6]
     }
     - {
         startTime: "14:30",
         endTime: "15:00",
-        sessionIds: [6]
+        sessionIds: [4]
     }
     - {
         startTime: "15:00",
@@ -42,31 +42,36 @@
     - {
         startTime: "15:30",
         endTime: "16:00",
-        sessionIds: [8]
+        sessionIds: [17]
     }
     - {
         startTime: "16:00",
         endTime: "16:30",
-        sessionIds: [9]
+        sessionIds: [8]
     }
     - {
         startTime: "16:30",
         endTime: "17:00",
-        sessionIds: [10]
+        sessionIds: [9]
     }
     - {
         startTime: "17:00",
-        endTime: "17:15",
+        endTime: "17:30",
+        sessionIds: [10]
+    }
+    - {
+        startTime: "17:30",
+        endTime: "18:00",
         sessionIds: [11]
     }
     - {
-        startTime: "17:15",
-        endTime: "17:45",
+        startTime: "18:00",
+        endTime: "18:20",
         sessionIds: [12]
     }
     - {
-        startTime: "17:45",
-        endTime: "18:00",
+        startTime: "18:20",
+        endTime: "18:25",
         sessionIds: [13]
     }
 
@@ -78,12 +83,12 @@
     - {title: "CodeLab ოთახი", color: "#03a9f4"}
   timeslots: 
     - {
-        startTime: "14:30",
-        endTime: "15:30",
-        sessionIds: [14]
+        startTime: "14:00",
+        endTime: "15:00",
+        sessionIds: [15]
     }
     - {
         startTime: "16:00",
         endTime: "17:00",
-        sessionIds: [15]
+        sessionIds: [14]
     }

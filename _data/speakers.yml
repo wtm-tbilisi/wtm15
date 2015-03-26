@@ -117,3 +117,23 @@
     - {name: "facebook", link: "https://www.facebook.com/shahovskaya"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/kasya"}
 
+-
+  id: 9
+  name: "მარი"
+  surname: "კევლიშვილი"
+  company: "Falcon"
+  title: "CEO & Co-founder"
+  bio: "ჩემი პროფილის კარი მუდამ ღიაა სტუმრებისთვის და ბევრად მეტს ამბობს ჩემზე, ვიდრე აქ დაწერილი \"მე მარი ვარ ...\" ეწვიეთ, დამიმეგობრდით: https://www.facebook.com/KevlishviliMariam"
+  thumbnailUrl: "KevlishviliMariam.jpg"
+  social: 
+    - {name: "facebook", link: "https://www.facebook.com/KevlishviliMariam"}
+
+-
+  id: 10
+  name: "Luka"
+  surname: "Ramishvili"
+  company: "Hrguru LLC"
+  title: "Programmer"
+  bio: "Lisp hacker, entrepreneur, lecturer @ CST, researcher @ Iliauni"
+  thumbnailUrl: "LukaRamishvili.jpg"
+

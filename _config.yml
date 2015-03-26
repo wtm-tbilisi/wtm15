@@ -50,7 +50,7 @@ navigationLinks:
  #- {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "მდებარეობა"}
  #- {permalink: "/startup/", text: "Startup Launch"}
- - {permalink: "https://www.youtube.com/watch?v=UBIPRliSFVk", text: "WTMTbilisi'14"}
+ # - {permalink: "https://www.youtube.com/watch?v=UBIPRliSFVk", text: "WTMTbilisi'14"}
 bottomNavigationLinks:
  - {link: "https://docs.google.com/forms/d/15BrehqDMIW4y972f-i55DkYLyk_Ke1-6mI27b7f7yiE/viewform", text: "რეგისტრაცია"}
 rightNavigationButtons:
@@ -81,7 +81,7 @@ statisticBlock:
  - {count: "6", specialCharacter: "+", info: "საათი", detail: "ტექნოლოგიური საუბრები, სადისკუსიო პანელი, Codelab"}
 
 # Latest News Block
-latestNewsTitle: "Son haberler"
+latestNewsTitle: "ინიციატივის შესახებ"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -168,9 +168,9 @@ footerBlocks:
    - {link: "mailto:nino.nanitashvili@gmail.com", text: "nino.nanitashvili@gmail.com"}
 
 # Blog
-blogTitle: "Son haberler"
-blogCommentsEnabled: true
-discusShortName: "wtmistanbul"
+blogTitle: "ინიციატივის შესახებ"
+blogCommentsEnabled: false
+discusShortName: "wtmtbilisi"
 
 # Speakers List Block
 showSessions: true

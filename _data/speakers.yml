@@ -29,7 +29,7 @@
   id: 2
   name: "ვატო"
   surname: "კვანტალიანი"
-  company: "ჯეოსელი"
+  company: "Tuna Consulting"
   title: "მონაცემთა ბაზების ადმინისტრატორი"
   bio: "2005 წლიდან ვმუშაობ კომპანია ჯეოსელში მონაცემთა ბაზების ადმინისტრატორად. ჩემი საქმიანობის ძირითადი მიმართულებაა მონაცემთა ბაზების დიზაინი და ადმინისტრაცია, DWH და ETL სისტემები. <br>ბოლო ორი წლის მანძლზე დაინტერესებული ვარ NoSQL და დისტრიბუციული სისტემებით. ვთვლი რომ მომავალში ინფორმაციის დამუშავება, მისი სიდიდან გამომდინარე, დიდწილად განხორციელდება დისტრიბუციულ და გეოგრაფიულად განაწილებულ სისტემებზე. <br>2013 წელს მეგობრებთან ერთად დავაფუძნე კომპანია ტუნა კონსალტინგი (tuna.ge) რომლის ძირითად საქმიანობას წარმოადგენს ინფორმაციული სისტემების და მონაცემთა ბაზების აუთსორსინგი. <br>2014 წლიდან ჩვენი კომაპნია MongoDB-ის პარტნიორია საქართველოში. 2015 წლიდან კომპანიის ბაზაზე დაარსდა პირველი ორაკლის მომხმარებელთა ჯგუფი საქართვეოში Oracle user group Georgia. <br>მივესალმები ქალების ჩართულობა ამ საქმეში და დაინტერესებას ინფორმაციული ტექნოლოგიებით. ზოგადად მივესალმები ქალებს."
   thumbnailUrl: "vatokvantaliani.jpg"
@@ -61,7 +61,7 @@
   thumbnailUrl: "xatialapiashvili.jpg"
   social: 
     - {name: "google-plus", link: "https://plus.google.com/u/0/113227659548396937078/posts"}
-    - {name: "facebook", link: "https://www.facebook.com/xatia"}
+    - {name: "facebook", link: "https://www.facebook.com/xatia.l"}
     - {name: "behance", link: "https://www.behance.net/khatia"}
   rockstar: true
 
@@ -117,3 +117,37 @@
     - {name: "facebook", link: "https://www.facebook.com/shahovskaya"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/kasya"}
 
+-
+  id: 9
+  name: "მარი"
+  surname: "კევლიშვილი"
+  company: "Falcon"
+  title: "CEO & Co-founder"
+  bio: ""
+  thumbnailUrl: "marikevlishvili.jpg"
+  social: 
+    - {name: "facebook", link: "https://www.facebook.com/KevlishviliMariam"}
+
+-
+  id: 10
+  name: "ლუკა"
+  surname: "რამიშვილი"
+  company: "Hrguru LLC"
+  title: "პროგრამისტი"
+  bio: "Lisp hacker, entrepreneur, lecturer @ CST, researcher @ Iliauni"
+  thumbnailUrl: "lukaramishvili.jpg"
+  social: 
+    - {name: "facebook", link: "#"}
+
+-
+  id: 11
+  name: "ნინუცა"
+  surname: "ნანიტაშვილი"
+  company: "თბილისის Google-ის დეველოპერების ჯგუფი"
+  title: "დამფუძნებელი და მენეჯერი"
+  bio: ""
+  thumbnailUrl: ""
+  social: 
+    - {name: "google-plus", link: "https://plus.google.com/111935958268092931913/posts"}
+    - {name: "facebook", link: "https://www.facebook.com/ninonanitashvili"}
+    - {name: "linkedin", link: "www.linkedin.com/pub/nino-nanitashvili/b1/492/401/en"}

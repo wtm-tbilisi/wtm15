@@ -5,5 +5,5 @@
 -
   group: "მასპინძელი"
   elements: 
-    - {name: "კახა ბენდუქიძის საუნივერსიტეტო კამპუსი", description: "კახა ბენდუქიძის საუნივერსიტეტო კამპუსი", link: "http://freeuni.edu.ge", imageUrl: "campus.png"}
+    - {name: "ფაბრიკა", link: "http://fabrikatbilisi.com/", imageUrl: "fabrika.png"}
 

@@ -1,144 +1,122 @@
-
 -
   id: 0
-  name: "თინათინ"
-  surname: "ქევანიშვილი"
-  company: "ფინანსთა სამინისტრო, საფინანსო-ანალიტიკური სამსახური"
-  title: "უფროსი პროგრამისტი"
-  bio: "თინათინ ქევანიშვილს აქვს 6 წლიანი გამოცდილება პროგრამირებში. კარიერის სხვადასხვა ეტაპზე იგი მუშაობდა ერთმანეთისგან განსხვავებულ პროექტებზე, ეცნობოდა ახალ–ახალ დაპროგრამების ენებსა და ტექნოლოგიებს. განსხვავებული გამოცდილების მისაღებად თინათინს არაერთხელ მიუღია მონაწილეობა კონკურსებში/მარათონებში/კონფერენციებში. ერთ–ერთი ასეთი იყო GameJam, სადაც მისმა გუნდმა ორჯერ გაიმარჯვა. "
-  thumbnailUrl: "tinatinqetevanishvili.jpg"
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/107586471351065800712"}
-    - {name: "facebook", link: "https://www.facebook.com/tinatin.qevanishvili"}
-    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=97101371"}
-  rockstar: true
+  name: "დათო"
+  surname: "გოგიჩაიშვილი"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: ""
 
 -
   id: 1
-  name: "ეზეკი"
-  surname: "ზიბზიბაძე"
-  company: "Jok Entertainers, Alta Software"
-  title: "დეველოპერი"
-  bio: "ეზეკი ზიბზიბაძე არის Microsoft-ის სერთიფიცირებული ვებ დეველოპერი ვებ გადაწყვეტების კუთხით. "
-  thumbnailUrl: "ezeki.png"
-  social: 
-    - {name: "facebook", link: "https://www.facebook.com/ezeki.zibzibadze"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/ezeki"}
+  name: "ანდრო"
+  surname: "დგებუაძე"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: ""
 
 -
   id: 2
-  name: "ვატო"
-  surname: "კვანტალიანი"
-  company: "Tuna Consulting"
-  title: "მონაცემთა ბაზების ადმინისტრატორი"
-  bio: "2005 წლიდან ვმუშაობ კომპანია ჯეოსელში მონაცემთა ბაზების ადმინისტრატორად. ჩემი საქმიანობის ძირითადი მიმართულებაა მონაცემთა ბაზების დიზაინი და ადმინისტრაცია, DWH და ETL სისტემები. <br>ბოლო ორი წლის მანძლზე დაინტერესებული ვარ NoSQL და დისტრიბუციული სისტემებით. ვთვლი რომ მომავალში ინფორმაციის დამუშავება, მისი სიდიდან გამომდინარე, დიდწილად განხორციელდება დისტრიბუციულ და გეოგრაფიულად განაწილებულ სისტემებზე. <br>2013 წელს მეგობრებთან ერთად დავაფუძნე კომპანია ტუნა კონსალტინგი (tuna.ge) რომლის ძირითად საქმიანობას წარმოადგენს ინფორმაციული სისტემების და მონაცემთა ბაზების აუთსორსინგი. <br>2014 წლიდან ჩვენი კომაპნია MongoDB-ის პარტნიორია საქართველოში. 2015 წლიდან კომპანიის ბაზაზე დაარსდა პირველი ორაკლის მომხმარებელთა ჯგუფი საქართვეოში Oracle user group Georgia. <br>მივესალმები ქალების ჩართულობა ამ საქმეში და დაინტერესებას ინფორმაციული ტექნოლოგიებით. ზოგადად მივესალმები ქალებს."
-  thumbnailUrl: "vatokvantaliani.jpg"
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/107593087604669907827/posts"}
-    - {name: "facebook", link: "https://www.facebook.com/vato.kvantaliani"}
-    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=199122107"}
+  name: "თამუნა"
+  surname: "კეშელავა"
+  company: "ალდაგი"
+  title: "პროგრამისტი"
+  bio: "დამთავრებული აქვს თავისუფალი უნივერსიტეტის მათემატიკისა და კომპიუტერული მეცნიერების ფაკულტეტი (MACS). უნივერსიტეტში სწავლების დროს მიხვდა, რომ ძალიან მოსწონდა თავისი საქმე და პარალელურად დაიწყო მუშაობა კომპანია ალდაგში პროგრამისტის თანამდებობაზე, სადაც დღემდე წარმატებით მოღვაწეობს. პარალელურად არის \"GOGO CODE\"-ის ინსტრუქტორი, რომელიც კომპანია 
+  \"Jumpstart Georgia\"-ს და ამერიკის საელჩოს საერთო პროექტია, რომელიც მოიცავს საზაფხულო ბანაკში ახალგაზრდა გოგონებისთვის პროგრამირების შესავლის სწავლას და მათი ინტერესის გაღრმავებას ინოვაციურ ტექნოლოგიებში"
+  thumbnailUrl: "tamar_keshelava.png"
 
 -
   id: 3
-  name: "ცოტნე"
-  surname: "ნაზარაშვილი"
-  company: "ITDC"
-  title: "ვებ დეველოპერი"
-  bio: "ცოტნე არის თვითნასწავლი პროგრამისტი. მუშაოვს ITDC-ში ვებ დეველოპერად. უყვარს პროგრამირება და სიამოვნებით უზიარებს თავის გამოცდილებას და ცოდნას სხვებს."
-  thumbnailUrl: "cotnenazarashvili.jpg"
-  social: 
-    - {name: "github", link: "https://github.com/thecotne"}
-    - {name: "facebook", link: "https://www.facebook.com/cotnen"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/cotne"}
+  name: "ირაკლი"
+  surname: "ქოქრაშვილი"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: ""
 
 -
   id: 4
-  name: "ხატია"
-  surname: "ლაპიაშვილი"
-  company: "ITDC"
-  title: "ვებ-დიზაინერი"
-  bio: "ხატიამ დაამთავრა ივ. ჯავახიშბილის სახელობის თბილისის სახელმწიფო უნივერსიტეტის კომპიუტერული მეცნიერების ფაკულტეტი. <br>მუშაობს დეველოპერულ კომპანია ITDC-ში ვებ, გრაფიკული ინტერფეისის და ux დიზაინერად. <br>პორტფოლიო: www.behance.net/khatia"
-  thumbnailUrl: "xatialapiashvili.jpg"
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/u/0/113227659548396937078/posts"}
-    - {name: "facebook", link: "https://www.facebook.com/xatia.l"}
-    - {name: "behance", link: "https://www.behance.net/khatia"}
-  rockstar: true
+  name: "ბესო"
+  surname: "კაჭარავა"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: ""
 
 -
   id: 5
-  name: "ნინო"
-  surname: "დარახველიძე"
-  company: "ვითიბი ბანკი, აითინოვეიშენს"
-  title: "პროექტების მენეჯერი, ბიზნესის განვითარების მენეჯერი"
-  bio: "ნინო დარახველიძე – IT პროექტების მენეჯერი, სს. „ვითიბი“ ბანკი საქართველო, დირექტორი და თანადამფუძნებელი, შპს. აითინოვეიშენს, ბიზნეს განვითარების მენეჯერი და თანადამფუძნებელი, შპს სტილი. მისი საინფორმაციო ტექნოლოგიების სფეროში მუშაობის გამოცდილება იწყება 1998 წლიდან. ბოლო 15 წლის განმავლობაში მუშოაბდა სხვადასხვა პოზიციებზე დაწყებული ვებ–გვერდის ადმინისტრატორითა და დასრულებული პროექტების მენეჯერისა და ვებ–დეველოპერული კომპანიის დირექტორის პოზიციებით. დააფუძნა და მართავს ორ ტექნოლოგიოური კომპანიას. მისი ხელმძღვანელობით განხორციელდა 150–მდე ვებ–გვერდის შემუშავების პროექტისა და 30–მდეა პროგრამული უზრუნველყოფის შემუშავების პროექტის მართვა. ჰყავს მეუღლე და ორი შვილი."
-  thumbnailUrl: "ninodaraxvelidze.jpg"
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/u/0/115544551395844174883/posts"}
-    - {name: "facebook", link: "https://www.facebook.com/nino.darakhvelidze"}
-    - {name: "linkedin", link: "https://www.linkedin.com/profile/view?id=6485866"}
-  rockstar: true
+  name: "ვიღაც"
+  surname: "ვიღაც"
+  company: "ექსპერიმენტორიუმი"
+  title: ""
+  bio: ""
+  thumbnailUrl: ""
 
 -
   id: 6
-  name: "ანა"
-  surname: "სიხარულიძე"
-  company: "მდგრადი განვითარების ცენტრი რემისია"
-  title: "ტექნიკური მენეჯერი"
-  bio: "ანა სიხარულიძე არის ფიზ.მათ მეცნიერებათა კანდიდატი კომპიუტერული სისტემებისა და ქსელების მათემატიუკური და პროგრამული უზრუნველყოფის სპეციალიზაციით. 11 წელი ასწავლიდა თბილისის სახელმწიფო უნივერსიტეტში დაპროგრამების ტექნოლოგიებსა და პროგრამული უზრუნველყოფის ინჟინერიას. ამჟამად არის არასამთავრობო-არაკომერციული ორგანიზაციის „მდგრადი განვითარების ცენტრი რემისია“-ს დამფუძნებელი და ტექნიკური მენეჯერი. მოღვაწეობს როგორც საქართველოში, ასევე საზღვარგარეთ (სერბეთი, ამკედონია, მოლდავეთი, მონტენეგრო, სომხეთი და სხვა) სხვადასხვა დონორის მიერ დაფინანსებულ საერთაშორისო პროექტებში, რომელთა მიზანია რთული მოდელებისა და სისტემების გამოყენებით ხელი შეუწყონ ქვეყნების სტრატეგიულ დაგეგმარებასა და გადაწყვეტილებების მიღების პროცესებს. "
-  thumbnailUrl: "annasikharulidze.jpg"
-  social: 
-    - {name: "facebook", link: "https://www.facebook.com/anna.sikharulidze.3"}
-    - {name: "linkedin", link: "https://www.linkedin.com/pub/anna-sikharulidze/25/707/194"}
-  rockstar: true
-
+  name: "კესი"
+  surname: "კაციტაძე"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: ""
 
 -
   id: 7
-  name: "ლაშა"
-  surname: "კვანტალიანი"
-  company: "Ribbler"
-  title: "CEO"
-  bio: "არაფერი იმისგან განსხვავებული რაც ლინკდინზეა. გარდა ერთისა - 23 მარტს მამა გავხდი :)"
-  thumbnailUrl: "lashakvantaliani.jpg"
-  social: 
-    - {name: "linkedin", link: "www.linkedin.com/in/lkvantaliani/"}
+  name: "მარიამ"
+  surname: "ქობულაძე"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: ""
 
 -
   id: 8
-  name: "Natalya"
-  surname: "Kovalchuk"
-  company: "Cushman & Wakefield | Veritas Brown"
-  title: "Regional Director Strategic Consulting and Advisory Services"
-  bio: "a/k/a Kasya Shahovskaya (pen-name)<br>.................................................................................................................<br>k.shahovskaya@gmail.com<br>M +995 591 100 805<br>Skype: kasya.shahovskaya<br>.................................................................................................................<br>1. Creativity thinking trainer (WIPO Certificate, Seoul, Korea, 2014) <br>2. Awareness hacker (+307% annual brand awareness growth in 2012)<br>3. Innovator (Georgia Innovation Agency strategy lead, 2014)<br>4. Transdisciplinary ideas adaptor (MBA + MSc Computer Subject = biz & tech degrees)<br>5. Strategic Consultant – 8 years of trackable experience within international companies.<br>6. Manager: $’00M annual budgets, 30+ teams, cross border, time zones, events with 2.000 participants, national level contests."
-  thumbnailUrl: "natalyakovalchuk.jpg"
-  social: 
-    - {name: "google-plus", link: "https://plus.google.com/+KasyaShahovskaya/posts"}
-    - {name: "facebook", link: "https://www.facebook.com/shahovskaya"}
-    - {name: "linkedin", link: "https://www.linkedin.com/in/kasya"}
+  name: "ნინო"
+  surname: "მაჭარაშვილი"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: ""
 
 -
   id: 9
-  name: "მარი"
-  surname: "კევლიშვილი"
-  company: "Falcon"
-  title: "CEO & Co-founder"
+  name: "ვინმე"
+  surname: "ვინმე"
+  company: "EduCare"
+  title: ""
   bio: ""
-  thumbnailUrl: "marikevlishvili.jpg"
-  social: 
-    - {name: "facebook", link: "https://www.facebook.com/KevlishviliMariam"}
+  thumbnailUrl: ""
 
 -
   id: 10
-  name: "ლუკა"
-  surname: "რამიშვილი"
-  company: "Hrguru LLC"
-  title: "პროგრამისტი"
-  bio: "Lisp hacker, entrepreneur, lecturer @ CST, researcher @ Iliauni"
-  thumbnailUrl: "lukaramishvili.jpg"
+  name: "ნანუკა"
+  surname: "მელუა"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: ""
 
 -
   id: 11
+  name: "მარიშკა"
+  surname: "ჯავახაძე"
+  company: ""
+  title: ""
+  bio: ""
+  thumbnailUrl: ""
+
+-
+  id: 12
+  name: "სალომე"
+  surname: "ვახტანგაძე"
+  title: "პროგრამისტი"
+  bio: "დაამთავრა თბილისის სახელმწიფო უნივერსიტეტი, შემდეგ მაგისტრატურა ნიუ იორკის უნივერსიტეტში გაიარა. 5 წლის განმავლობაში მუშაობდა კომპანია Google-ში რამდენიმე პროექტზე. 2016 წლიდან ცხოვრობს თბილისში და კითხულობს ლექციებს თავისუფალ უნივერსიტეტში."
+  thumbnailUrl: "salome_vakhtangadze.jpg"
+
+-
+  id: 13
   name: "ნინუცა"
   surname: "ნანიტაშვილი"
   company: "თბილისის Google-ის დეველოპერების ჯგუფი"

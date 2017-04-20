@@ -10,11 +10,12 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Women Techmakers Tbilisi 2015"
+title: "WTM Tbilisi 2017"
 email: "wtm@gdgistanbul.com"
 description: "Women Techmakers is a set of event about Women in technology"
 baseurl: ""
-url: "http://womentechmakers.ge/"
+#url: "http://womentechmakers.ge/"
+url: "http://gdg-tbilisi.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-58630743-1"
 googleAnalyticsSiteUrl: "womentechmakers.ge"
@@ -48,37 +49,36 @@ navigationLinks:
  - {permalink: "/speakers/", text: "სპიკერები"}
  - {permalink: "/#partners", text: "პარტნიორები"}
  #- {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "მდებარეობა"}
+ #- {permalink: "/logistics/", text: "მდებარეობა"}
  #- {permalink: "/startup/", text: "Startup Launch"}
  # - {permalink: "https://www.youtube.com/watch?v=UBIPRliSFVk", text: "WTMTbilisi'14"}
-bottomNavigationLinks:
- - {link: "https://docs.google.com/forms/d/15BrehqDMIW4y972f-i55DkYLyk_Ke1-6mI27b7f7yiE/viewform", text: "რეგისტრაცია"}
-rightNavigationButtons:
- - {link: "https://docs.google.com/forms/d/15BrehqDMIW4y972f-i55DkYLyk_Ke1-6mI27b7f7yiE/viewform", text: "რეგისტრაცია"}
+#bottomNavigationLinks:
+# - {link: "https://docs.google.com/forms/d/15BrehqDMIW4y972f-i55DkYLyk_Ke1-6mI27b7f7yiE/viewform", text: "რეგისტრაცია"}
+#rightNavigationButtons:
+# - {link: "https://docs.google.com/forms/d/15BrehqDMIW4y972f-i55DkYLyk_Ke1-6mI27b7f7yiE/viewform", text: "რეგისტრაცია"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "WTM თბილისი 2015"
-eventDate: "29 მარტი, 2015"
+heroTitle: "WTM თბილისი 2017"
+eventDate: "22-23 აპრილი, 2017"
 typeoutTextValues: '"Women", "Techmakers", "Tbilisi"'
 typeoutFallback: "Season"
 heroButtons:
  - {permalink: "/schedule/", text: "პროგრამა"}
- - {link: "https://docs.google.com/forms/d/15BrehqDMIW4y972f-i55DkYLyk_Ke1-6mI27b7f7yiE/viewform", text: "რეგისტრაცია"}
+ #- {link: "https://docs.google.com/forms/d/15BrehqDMIW4y972f-i55DkYLyk_Ke1-6mI27b7f7yiE/viewform", text: "რეგისტრაცია"}
 
 # About Block
 aboutTitle: "Women Techmakers თბილისი"
 aboutBlock:
- - {title: "პანელი", image: "conference.jpg", text: "STEM პროფესიებში ქალების ჩართულობის წახალისება, წარმატებული მაგალითების ჩვენების საფუძველზე" }
- - {title: "ტექსაუბრები", image: "workshop.jpg", text: "საინტერესო გამომსვლელები სასარგებლო თემებზე" }
- - {title: "codelab", image: "hackathon.jpg", text: "მონაწილეები შეისწავლიან კონკრეტულ ტექნოლოგიას, მენტორის უშუალო დახმარებით კი შეძლებენ რეალური შედეგის მიღებას" }
+ - {title: "ტექსაუბრები", image: "workshop.jpg", text: "სხვადასხვა სფეროში მოღვაწე კომპიუტერული ტექნოლოგიების სპეციალისტები ახალგაზრდებთან ისაუბრებენ საკუთარი გამოცდილების შესახებ" }
+ - {title: "workshop", image: "hackathon.jpg", text: "მონაწილეები გაეცნობიან scratch ტექნოლოგიას და მენტორის უშუალო დახმარებით შეძლებენ ელემენტარული ანიმაციის ან თამაშის შექმნას" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "100", specialCharacter: "+", info: "დამსწრე", detail: "განურჩევლად სქესისა"}
- - {count: "12", specialCharacter: "+", info: "სპიკერი", detail: "ადგილობრივი და უცხოელი პროფესიონალები"}
- - {count: "6", specialCharacter: "+", info: "საათი", detail: "ტექნოლოგიური საუბრები, სადისკუსიო პანელი, Codelab"}
+ - {count: "80", info: "დამსწრე", detail: "საქართველოს სხვადასხვა რეგიონებიდან"}
+ - {count: "14", info: "სპიკერი", detail: "პროფესიონალები სხვადასხვა სფეროდან"}
+ - {count: "26", info: "მენტორი", detail: "გამოცდილი პროგრამისტები"}
 
 # Latest News Block
 latestNewsTitle: "ინიციატივის შესახებ"
@@ -91,19 +91,19 @@ rockstarSpeakersButtonText: "ყველა სპიკერი"
 
 # Location Block
 locationBlockTitle: "ადგილი"
-eventLocationName: "კახა ბენდუქიძის საუნივერსიტეტო კამპუსი"
-eventLocationLink: "https://www.google.ge/maps/place/Dighomi+University+Campus/@41.8066109,44.7692284,17z/"
-eventStreetAddress: "დავით აღმაშენებლის ხეივანი #240"
+eventLocationName: "ფაბრიკა`"
+eventLocationLink: "https://www.google.ge/maps/place/Fabrika+Tbilisi/@41.7095404,44.8007214,17z"
+eventStreetAddress: "ეგნატე ნინოშვილის ქუჩა #8"
 eventAddressLocality: "თბილისი"
 eventAddressLocalityRegion: ""
 eventPostalCode: ""
 eventAddressCountry: "საქართველო"
-eventStartTime: "2015-03-29T12:00"
-eventDoorTime: "12:00"
-eventEndTime: "2015-03-29T18:00"
-eventPlaceCoordinates: "41.8066109,44.7692284"
-mapCenterCoordinates: "41.806331,44.7665784"
-mapMobileCenterCoordinates: "41.8066109,44.7692284"
+eventStartTime: "2017-04-22T11:00"
+eventDoorTime: "10:30"
+eventEndTime: "2017-04-23T17:00"
+eventPlaceCoordinates: "41.7095404,44.8007214"
+mapCenterCoordinates: "41.7095404,44.8007214"
+mapMobileCenterCoordinates: "41.7095404,44.8007214"
 
 # Venue Block
 venueBlockTitle: "Konferans alanı"

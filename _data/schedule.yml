@@ -5,90 +5,104 @@
     - {title: "საკონფერენციო", color: "#e91e63"}
   timeslots:
     - {
+        startTime: "11:00",
+        endTime: "11:30",
+        sessionIds: [0]
+    }
+    - {
+        startTime: "11:30",
+        endTime: "12:00",
+        sessionIds: [1]
+    }
+    - {
         startTime: "12:00",
         endTime: "12:30",
         sessionIds: [2]
     }
     - {
         startTime: "12:30",
-        endTime: "13:00",
+        endTime: "12:45",
         sessionIds: [3]
     }
     - {
-        startTime: "13:00",
-        endTime: "13:30",
-        sessionIds: [5]
-    }
-    - {
-        startTime: "13:30",
-        endTime: "14:00",
-        sessionIds: [16]
-    }
-    - {
-        startTime: "14:00",
-        endTime: "14:30",
-        sessionIds: [6]
-    }
-    - {
-        startTime: "14:30",
-        endTime: "15:00",
+        startTime: "12:45",
+        endTime: "13:15",
         sessionIds: [4]
     }
     - {
-        startTime: "15:00",
+        startTime: "13:15",
+        endTime: "14:00",
+        sessionIds: [5]
+    }
+    - {
+        startTime: "14:00",
+        endTime: "14:45",
+        sessionIds: [6]
+    }
+    - {
+        startTime: "14:45",
         endTime: "15:30",
         sessionIds: [7]
     }
     - {
         startTime: "15:30",
-        endTime: "16:00",
-        sessionIds: [17]
+        endTime: "15:45",
+        sessionIds: [8]
     }
     - {
-        startTime: "16:00",
+        startTime: "15:45",
+        endTime: "16:15",
+        sessionIds: [9]
+    }
+    - {
+        startTime: "16:15",
         endTime: "16:30",
-        sessionIds: [8]
+        sessionIds: [3]
     }
     - {
         startTime: "16:30",
         endTime: "17:00",
-        sessionIds: [9]
+        sessionIds: [11]
     }
     - {
         startTime: "17:00",
         endTime: "17:30",
-        sessionIds: [10]
+        sessionIds: [12]
     }
     - {
         startTime: "17:30",
         endTime: "18:00",
-        sessionIds: [11]
-    }
-    - {
-        startTime: "18:00",
-        endTime: "18:20",
-        sessionIds: [12]
-    }
-    - {
-        startTime: "18:20",
-        endTime: "18:25",
         sessionIds: [13]
     }
 
-
 - 
-  date: "2015-03-28"
-  dateReadable: "CodeLab"
+  date: "2017-04-23"
+  dateReadable: "Workshop"
   tracks: 
-    - {title: "CodeLab ოთახი", color: "#03a9f4"}
+    - {title: "საკონფერენციო ოთახი", color: "#03a9f4"}
   timeslots: 
     - {
-        startTime: "14:00",
-        endTime: "15:00",
+        startTime: "10:00",
+        endTime: "11:00",
+        sessionIds: [14]
+    }
+    - {
+        startTime: "11:00",
+        endTime: "13:00",
         sessionIds: [15]
     }
     - {
-        startTime: "16:00",
-        endTime: "17:00",
-        sessionIds: [14]
+        startTime: "13:00",
+        endTime: "13:45",
+        sessionIds: [6]
+    }
+    - {
+        startTime: "13:45",
+        endTime: "15:45",
+        sessionIds: [15]
+    }
+    - {
+        startTime: "15:45",
+        endTime: "16:30",
+        sessionIds: [16]
     }

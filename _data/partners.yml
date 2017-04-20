@@ -1,13 +1,12 @@
 - 
   elements:
     - {name: "Google", description: "Google", link: "https://google.com/", imageUrl: "google.svg"}
-    - {name: "Msocial", description: "Msocial", link: "http://msocial.co/", imageUrl: "msocial.png"}
-    - {name: "კახა ბენდუქიძის საუნივერსიტეტო კამპუსი", description: "კახა ბენდუქიძის საუნივერსიტეტო კამპუსი", link: "http://www.freeuni.edu.ge/", imageUrl: "free_and_agr_uni.png"}
+    - {name: "USEmbassy", description: "US Embassy", link: "https://ge.usembassy.gov/", imageUrl: "usembassy.jpg"}
 
 -
-  group: 'მედია'
-  elements:
-
-    - {name: "ზეტი", description: "ზეტი", link: "http://zeti.ge", imageUrl: "zeti.jpg"}
-    - {name: "Ideahub", description: "Ideahub", link: "http://msocial.co/", imageUrl: "ideahub.jpg"}
-    - {width: "100px", name: "რადიო თავისუფლება", description: "რადიო თავისუფლება", link: "http://www.freeuni.edu.ge/", imageUrl: "freeradio.png"}
+#  group: 'მედია'
+#  elements:
+#
+#    - {name: "ზეტი", description: "ზეტი", link: "http://zeti.ge", imageUrl: "zeti.jpg"}
+#    - {name: "Ideahub", description: "Ideahub", link: "http://msocial.co/", imageUrl: "ideahub.jpg"}
+#    - {width: "100px", name: "რადიო თავისუფლება", description: "რადიო თავისუფლება", link: "http://www.freeuni.edu.ge/", imageUrl: "freeradio.png"}

@@ -1,20 +1,12 @@
 -
-  id: 0
-  name: "დათო"
-  surname: "გოგიჩაიშვილი"
+  id: 3
+  name: "ლიკა"
+  surname: "მოშიაშვილი"
   company: ""
   title: ""
   bio: ""
-  thumbnailUrl: ""
+  thumbnailUrl: "lika_moshiashvili.jgp"
 
--
-  id: 1
-  name: "ანდრო"
-  surname: "დგებუაძე"
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: ""
 
 -
   id: 2
@@ -27,28 +19,19 @@
   thumbnailUrl: "tamar_keshelava.png"
 
 -
-  id: 3
-  name: "ირაკლი"
-  surname: "ქოქრაშვილი"
-  company: ""
-  title: ""
-  bio: ""
-  thumbnailUrl: ""
-
--
   id: 4
   name: "ბესო"
   surname: "კაჭარავა"
   company: ""
   title: ""
   bio: ""
-  thumbnailUrl: ""
+  thumbnailUrl: "beso_kacharava.jpg"
 
 -
   id: 5
-  name: "ვიღაც"
-  surname: "ვიღაც"
-  company: "ექსპერიმენტორიუმი"
+  name: " ექსპერიმენტორუმი"
+  surname: ""
+  company: ""
   title: ""
   bio: ""
   thumbnailUrl: ""
@@ -60,7 +43,7 @@
   company: ""
   title: ""
   bio: ""
-  thumbnailUrl: ""
+  thumbnailUrl: "kesi_katsitadze.jpg"
 
 -
   id: 7
@@ -69,7 +52,7 @@
   company: ""
   title: ""
   bio: ""
-  thumbnailUrl: ""
+  thumbnailUrl: "mariam_kobuladze.jpg"
 
 -
   id: 8
@@ -77,26 +60,26 @@
   surname: "მაჭარაშვილი"
   company: ""
   title: ""
-  bio: ""
-  thumbnailUrl: ""
+  bio: "ნინო მაჭარაშვილი ჟურნალისტია. მან პროფესია 7 წლის ასაკში აირჩია, თუმცა მაშინ ვერ წარმოიდგენდა, რომ ორი ათწლეულის შემდეგ მისი პროფესია ასეთი განსხვავებული იქნებოდა. ის ახლა \"ჯამპსტარტ ჯორჯიაში\" მონაცემთა ჟურნალისტად და პროექტების კოორდინატორად მუშაობს. ასევე, არის საერთაშორისო ორგანიზაცია Digital Communication Network-ის გამგეობის თამჯდომარე. ნინომ თბილისის სახელმწიფო უნივერსიტეტის ჟურნალისტიკის მიმართულების დასრულების შემდეგ სწავლა ინგლისში განაგრძო და ვორვიკის უნივერსიტეტში გაიარა შემოქმედებითი და მედია წარმოების სამაგისტრო კურსი"
+  thumbnailUrl: "nino_macharashvili.jpg"
 
 -
   id: 9
-  name: "ვინმე"
-  surname: "ვინმე"
-  company: "EduCare"
+  name: "ნინა"
+  surname: "ნუცუბიძე"
+  company: ""
   title: ""
   bio: ""
-  thumbnailUrl: ""
+  thumbnailUrl: "nina_nutsubidze.jgp"
 
 -
   id: 10
   name: "ნანუკა"
-  surname: "მელუა"
+  surname: "გულუა"
   company: ""
   title: ""
   bio: ""
-  thumbnailUrl: ""
+  thumbnailUrl: "nanuka_gulua.jpg"
 
 -
   id: 11
@@ -104,8 +87,8 @@
   surname: "ჯავახაძე"
   company: ""
   title: ""
-  bio: ""
-  thumbnailUrl: ""
+  bio: "სკოლა  ამერიკის შეერთებულ შტატებში დაამტავრდა და შემდეგ სწავალა დიდ ბრიტანეთში განაგრძო ბიზნესს ადმინსტრაციის მიმართულებით, მაგრამ საბოლოს პროფესია შეიცვალა და საჯარო მართველობაში აიღო ბაკალავრის ხარისხი. ამჟამად მუშაობს მომსახურების სფეროში. ამასთან ერთად თამაშობს სერიალ „ ჩემი ცოლის დაქალებში“ ბარბარე მანტკავას როლს."
+  thumbnailUrl: "marishka.jpg"
 
 -
   id: 12
@@ -122,7 +105,7 @@
   company: "თბილისის Google-ის დეველოპერების ჯგუფი"
   title: "დამფუძნებელი და მენეჯერი"
   bio: ""
-  thumbnailUrl: ""
+  thumbnailUrl: "ninutsa.jpg"
   social: 
     - {name: "google-plus", link: "https://plus.google.com/111935958268092931913/posts"}
     - {name: "facebook", link: "https://www.facebook.com/ninonanitashvili"}

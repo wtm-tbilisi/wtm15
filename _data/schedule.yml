@@ -1,5 +1,5 @@
 - 
-  date: "2015-03-28"
+  date: "2017-04-22"
   dateReadable: "განრიგი"
   tracks: 
     - {title: "საკონფერენციო", color: "#e91e63"}
@@ -83,21 +83,21 @@
     }
     - {
         startTime: "11:00",
-        endTime: "13:00",
+        endTime: "14:30",
         sessionIds: [15]
     }
     - {
-        startTime: "13:00",
-        endTime: "13:45",
+        startTime: "14:30",
+        endTime: "15:15",
         sessionIds: [6]
     }
     - {
-        startTime: "13:45",
-        endTime: "15:45",
+        startTime: "15:15",
+        endTime: "16:15",
         sessionIds: [15]
     }
     - {
-        startTime: "15:45",
-        endTime: "16:30",
+        startTime: "16:15",
+        endTime: "17:00",
         sessionIds: [16]
     }

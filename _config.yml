@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "WTM Tbilisi 2017"
 email: "wtm@gdgistanbul.com"
 description: "Women Techmakers is a set of event about Women in technology"
-baseurl: "/wtm17"
+baseurl: "" #/wtm17"
 #url: "http://womentechmakers.ge/"
 url: "http://wtm-tbilisi.github.io"
 permalink: "/blog/:title"
@@ -43,11 +43,12 @@ c4sponsorsUrl: "https://docs.google.com/a/gdgistanbul.com/file/d/0B5Ewb5NwqbwIY0
 
 # Navigation
 navigationLinks:
- - {permalink: "/", text: "მთავარი"}
+ - {permalink: "http://womentechmakers.ge", text: "მთავარი"}
  #- {permalink: "/blog/", text: "Blog"}
  - {permalink: "/schedule/", text: "პროგრამა"}
  - {permalink: "/speakers/", text: "სპიკერები"}
  - {permalink: "/#partners", text: "პარტნიორები"}
+ - {permalink: "http://womentechmakers.ge", text: "WTM 2018"}
  #- {permalink: "/team/", text: "Team"}
  #- {permalink: "/logistics/", text: "მდებარეობა"}
  #- {permalink: "/startup/", text: "Startup Launch"}
@@ -91,7 +92,7 @@ rockstarSpeakersButtonText: "ყველა სპიკერი"
 
 # Location Block
 locationBlockTitle: "ადგილი"
-eventLocationName: "ფაბრიკა`"
+eventLocationName: "ფაბრიკა"
 eventLocationLink: "https://www.google.ge/maps/place/Fabrika+Tbilisi/@41.7095404,44.8007214,17z"
 eventStreetAddress: "ეგნატე ნინოშვილის ქუჩა #8"
 eventAddressLocality: "თბილისი"

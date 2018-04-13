@@ -13,7 +13,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 title: "WTM Tbilisi 2017"
 email: "wtm@gdgistanbul.com"
 description: "Women Techmakers is a set of event about Women in technology"
-baseurl: "" #/wtm17"
+baseurl: "/wtm17"
 #url: "http://womentechmakers.ge/"
 url: "http://wtm-tbilisi.github.io"
 permalink: "/blog/:title"
